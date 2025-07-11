@@ -1,0 +1,14 @@
+{
+  "name": "uds-tokens",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "style-dictionary build",
+    "pull-figma": "node scripts/pull-from-figma.js"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.1",
+    "node-fetch": "^3.3.2",
+    "style-dictionary": "^5.0.1"
+  }
+}
