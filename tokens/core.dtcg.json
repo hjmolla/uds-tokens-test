@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/design-tokens/community-group/main/values.schema.json",
+  "color": {
+    "brand": {
+      "primary": {
+        "$value": "#0050b3",
+        "$type": "color",
+        "$description": "Brand primary color"
+      },
+      "secondary": {
+        "$value": "#fa8c16",
+        "$type": "color"
+      }
+    },
+    "text": {
+      "base": {
+        "$value": "#141414",
+        "$type": "color"
+      }
+    }
+  },
+  "size": {
+    "spacing": {
+      "xs": { "$value": 4, "$type": "dimension", "$unit": "pixel" },
+      "sm": { "$value": 8, "$type": "dimension", "$unit": "pixel" },
+      "md": { "$value": 16, "$type": "dimension", "$unit": "pixel" },
+      "lg": { "$value": 24, "$type": "dimension", "$unit": "pixel" }
+    }
+  },
+  "font": {
+    "size": {
+      "base": { "$value": 16, "$type": "dimension", "$unit": "pixel" },
+      "h1": { "$value": 32, "$type": "dimension", "$unit": "pixel" }
+    }
+  }
+}
