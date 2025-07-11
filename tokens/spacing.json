@@ -1,0 +1,20 @@
+{
+  "space": {
+    "xs": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "s": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "m": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "l": {
+      "value": "32px",
+      "type": "spacing"
+    }
+  }
+}

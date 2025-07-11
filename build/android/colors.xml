@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="color_primary">#ffff0000</color>
+  <color name="color_secondary">#ff00ff00</color>
+  <color name="color_neutral_gray_100">#fff5f5f5</color>
+  <color name="color_neutral_gray_900">#ff333333</color>
+</resources>

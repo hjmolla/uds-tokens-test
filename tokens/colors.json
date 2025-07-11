@@ -1,0 +1,24 @@
+{
+  "color": {
+    "primary": {
+      "value": "#FF0000",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#00FF00",
+      "type": "color"
+    },
+    "neutral": {
+      "gray": {
+        "100": {
+          "value": "#F5F5F5",
+          "type": "color"
+        },
+        "900": {
+          "value": "#333333",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

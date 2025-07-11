@@ -1,0 +1,44 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "value": "Arial, sans-serif",
+        "type": "fontFamily"
+      }
+    },
+    "size": {
+      "small": {
+        "value": "12px",
+        "type": "fontSize"
+      },
+      "medium": {
+        "value": "16px",
+        "type": "fontSize"
+      },
+      "large": {
+        "value": "24px",
+        "type": "fontSize"
+      }
+    },
+    "weight": {
+      "regular": {
+        "value": "400",
+        "type": "fontWeight"
+      },
+      "bold": {
+        "value": "700",
+        "type": "fontWeight"
+      }
+    }
+  },
+  "lineHeight": {
+    "small": {
+      "value": "1.2",
+      "type": "lineHeight"
+    },
+    "medium": {
+      "value": "1.5",
+      "type": "lineHeight"
+    }
+  }
+}

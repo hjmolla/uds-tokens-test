@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "A repository to test tokens management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx style-dictionary build --config config/config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjmolla/uds-tokens-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hjmolla/uds-tokens-test/issues"
+  },
+  "homepage": "https://github.com/hjmolla/uds-tokens-test#readme",
+  "devDependencies": {
+    "style-dictionary": "^5.0.1"
+  }
+}

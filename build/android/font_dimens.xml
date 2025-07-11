@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <dimen name="font_size_small">192.00sp</dimen>
+  <dimen name="font_size_medium">256.00sp</dimen>
+  <dimen name="font_size_large">384.00sp</dimen>
+</resources>
