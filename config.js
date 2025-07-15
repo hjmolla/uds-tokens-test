@@ -4,7 +4,7 @@ import { register } from '@tokens-studio/sd-transforms';
 register(StyleDictionary);
 
 export default {
-  source: ['tokens/**/*.json'],
+  source: ['tokens/**/*.json', '!tokens/figma-raw.json'],
   preprocessors: ['tokens-studio'],
   platforms: {
     web: {
