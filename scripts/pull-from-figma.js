@@ -1,5 +1,6 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
+import 'dotenv/config';
 
 const token = process.env.FIGMA_TOKEN;
 const fileKey = process.env.FIGMA_FILE_KEY;
