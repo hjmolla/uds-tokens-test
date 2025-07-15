@@ -20,7 +20,7 @@ npm install
 FIGMA_TOKEN=your-token FIGMA_FILE_KEY=your-file npm run pull-figma
 ```
 
-The raw Figma response will be written to `tokens/figma-raw.json`. You can use Tokens Studio's "sync with repository" features to export tokens in DTCG format.
+The raw Figma response will be written to `tokens/figma-raw.json` (this file is ignored by Git). You can use Tokens Studio's "sync with repository" features to export tokens in DTCG format.
 
 3. Build tokens for all platforms:
 
