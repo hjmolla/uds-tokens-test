@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "style-dictionary build",
-    "pull-figma": "node scripts/pull-from-figma.js"
+    "pull-figma": "node scripts/pull-from-figma.js",
+    "tokens": "node scripts/build-tokens.mjs"
   },
   "devDependencies": {
     "@tokens-studio/sd-transforms": "^2.0.1",

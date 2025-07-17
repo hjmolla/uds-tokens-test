@@ -1,0 +1,24 @@
+{
+  "color": {
+    "blue": {
+      "500": {
+        "$value": "#1976D2",
+        "$type": "color"
+      },
+      "600": {
+        "$value": "#1565C0",
+        "$type": "color"
+      }
+    },
+    "grey": {
+      "600": {
+        "$value": "#FAFAFA",
+        "$type": "color"
+      },
+      "900": {
+        "$value": "#121212",
+        "$type": "color"
+      }
+    }
+  }
+}

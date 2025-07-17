@@ -1,0 +1,24 @@
+[
+  {
+    "id": "light",
+    "name": "Light",
+    "selectedTokenSets": {
+      "primitives/core": "source",
+      "primitives/light": "enabled",
+      "primitives/dark": "disabled",
+      "semantic/semantic": "enabled",
+      "component/button": "enabled"
+    }
+  },
+  {
+    "id": "dark",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "primitives/core": "source",
+      "primitives/light": "disabled",
+      "primitives/dark": "enabled",
+      "semantic/semantic": "enabled",
+      "component/button": "enabled"
+    }
+  }
+]

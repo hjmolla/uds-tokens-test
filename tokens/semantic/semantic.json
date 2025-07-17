@@ -1,0 +1,32 @@
+{
+  "color": {
+    "text": {
+      "primary": {
+        "$value": "{color.blue.500}",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "{color.grey.600}",
+        "$type": "color"
+      }
+    },
+    "action": {
+      "primary": {
+        "$value": "{color.blue.500}",
+        "$type": "color"
+      }
+    }
+  },
+  "radius": {
+    "button": {
+      "$value": "{radius.md}",
+      "$type": "dimension"
+    }
+  },
+  "spacing": {
+    "layout": {
+      "$value": "{spacing.16}",
+      "$type": "dimension"
+    }
+  }
+}
