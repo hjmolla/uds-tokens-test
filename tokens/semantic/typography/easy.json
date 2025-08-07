@@ -1,0 +1,12 @@
+{
+  "typography": {
+    "heading": {
+      "h1": {
+        "fontSize": { "value": "24px" } 
+      }
+    },
+    "body": {
+      "fontSize": { "value": "{size.font.lg}" }
+    }
+  }
+}

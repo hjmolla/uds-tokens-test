@@ -1,24 +1,15 @@
-[
-  {
-    "id": "light",
-    "name": "Light",
-    "selectedTokenSets": {
-      "primitives/core": "source",
-      "primitives/light": "enabled",
-      "primitives/dark": "disabled",
-      "semantic/semantic": "enabled",
-      "component/button": "enabled"
-    }
-  },
-  {
-    "id": "dark",
-    "name": "Dark",
-    "selectedTokenSets": {
-      "primitives/core": "source",
-      "primitives/light": "disabled",
-      "primitives/dark": "enabled",
-      "semantic/semantic": "enabled",
-      "component/button": "enabled"
-    }
-  }
-]
+{
+  "source": [
+    "tokens/primitive/**/*.json"
+  ],
+  "themes": [
+    { "name": "light-default-default", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "default", "semantic/dimension": "default" }},
+    { "name": "light-default-condensed", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "default", "semantic/dimension": "condensed" }},
+    { "name": "light-easy-default", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "easy", "semantic/dimension": "default" }},
+    { "name": "light-easy-condensed", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "easy", "semantic/dimension": "condensed" }},
+    { "name": "dark-default-default", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "default", "semantic/dimension": "default" }},
+    { "name": "dark-default-condensed", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "default", "semantic/dimension": "condensed" }},
+    { "name": "dark-easy-default", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "easy", "semantic/dimension": "default" }},
+    { "name": "dark-easy-condensed", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "easy", "semantic/dimension": "condensed" }}
+  ]
+}

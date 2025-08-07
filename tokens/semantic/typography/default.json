@@ -1,0 +1,16 @@
+{
+  "typography": {
+    "heading": {
+      "h1": {
+        "fontFamily": { "value": "{font.family.sans}" },
+        "fontWeight": { "value": "{font.weight.bold}" },
+        "fontSize": { "value": "{size.font.xl}" }
+      }
+    },
+    "body": {
+      "fontFamily": { "value": "{font.family.sans}" },
+      "fontWeight": { "value": "{font.weight.regular}" },
+      "fontSize": { "value": "{size.font.md}" }
+    }
+  }
+}

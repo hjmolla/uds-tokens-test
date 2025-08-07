@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "style-dictionary build",
+    "build": "node scripts/build-tokens.mjs",
     "pull-figma": "node scripts/pull-from-figma.js",
-    "tokens": "node scripts/build-tokens.mjs"
+    "upload:vars": "node scripts/upload-variables.mjs"
   },
   "devDependencies": {
     "@tokens-studio/sd-transforms": "^2.0.1",
