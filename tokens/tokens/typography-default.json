@@ -1,86 +1,86 @@
 {
   "typeface": {
-    "value": "{pretendard}",
-    "type": "fontFamilies"
+    "$type": "fontFamilies",
+    "$value": "{pretendard}"
   },
   "bold": {
-    "value": "{bold}",
-    "type": "fontWeights"
+    "$type": "fontWeights",
+    "$value": "{bold}"
   },
   "medium": {
-    "value": "{medium}",
-    "type": "fontWeights"
+    "$type": "fontWeights",
+    "$value": "{medium}"
   },
   "display": {
     "large": {
-      "value": "{36}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{36}"
     },
     "base": {
-      "value": "{28}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{28}"
     }
   },
   "title": {
     "large": {
-      "value": "{24}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{24}"
     },
     "base": {
-      "value": "{20}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{20}"
     },
     "small": {
-      "value": "18",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "18"
     },
     "xSmall": {
-      "value": "{16}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{16}"
     }
   },
   "body": {
     "large": {
-      "value": "{18}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{18}"
     },
     "base": {
-      "value": "{16}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{16}"
     },
     "small": {
-      "value": "{14}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{14}"
     },
     "xSmall": {
-      "value": "{12}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{12}"
     }
   },
   "label": {
     "xLarge": {
-      "value": "{18}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{18}"
     },
     "large": {
-      "value": "{16}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{16}"
     },
     "base": {
-      "value": "{14}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{14}"
     },
     "small": {
-      "value": "{12}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{12}"
     },
     "xSmall": {
-      "value": "{10}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{10}"
     },
     "height-none": {
-      "value": "{none}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{none}"
     }
   }
 }

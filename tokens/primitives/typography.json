@@ -1,54 +1,54 @@
 {
   "10": {
-    "value": "10",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "10"
   },
   "12": {
-    "value": "12",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "12"
   },
   "14": {
-    "value": "14",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "14"
   },
   "16": {
-    "value": "16",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "16"
   },
   "18": {
-    "value": "18",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "18"
   },
   "20": {
-    "value": "20",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "20"
   },
   "24": {
-    "value": "24",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "24"
   },
   "28": {
-    "value": "28",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "28"
   },
   "36": {
-    "value": "36",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "36"
   },
   "pretendard": {
-    "value": "pretendard",
-    "type": "fontFamilies"
+    "$type": "fontFamilies",
+    "$value": "pretendard"
   },
   "bold": {
-    "value": "bold",
-    "type": "fontWeights"
+    "$type": "fontWeights",
+    "$value": "bold"
   },
   "medium": {
-    "value": "medium",
-    "type": "fontWeights"
+    "$type": "fontWeights",
+    "$value": "medium"
   },
   "none": {
-    "value": "0",
-    "type": "fontSizes"
+    "$type": "fontSizes",
+    "$value": "0"
   }
 }
