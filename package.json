@@ -1,12 +1,28 @@
 {
   "name": "uds-tokens",
   "version": "1.0.0",
+  "description": "UDS Design Tokens - Unified Design System with 3-axis theming (mode × density × readability)",
   "type": "module",
+  "main": "build/js/tokens.light-default-base.js",
+  "files": [
+    "build/**/*",
+    "tokens/**/*.json"
+  ],
   "scripts": {
     "build": "node scripts/build-tokens.mjs",
+    "build:clean": "rm -rf build && npm run build",
+    "serve:demo": "python3 -m http.server 8080 --directory demo",
     "pull-figma": "node scripts/pull-from-figma.js",
     "upload:vars": "node scripts/upload-variables.mjs"
   },
+  "keywords": [
+    "design-tokens",
+    "design-system",
+    "tokens-studio",
+    "style-dictionary",
+    "figma",
+    "uds"
+  ],
   "devDependencies": {
     "@tokens-studio/sd-transforms": "^2.0.1",
     "node-fetch": "^3.3.2",
@@ -14,5 +30,16 @@
   },
   "dependencies": {
     "dotenv": "^17.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-org/uds-tokens.git"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
   }
 }

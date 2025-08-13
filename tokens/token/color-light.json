@@ -1,0 +1,39 @@
+{
+  "color": {
+    "bg": {
+      "primary": { "value": "{color.bw.white.white0}", "type": "color" },
+      "secondary": { "value": "{color.neutralGray.gray10}", "type": "color" },
+      "tertiary": { "value": "{color.neutralGray.gray50}", "type": "color" },
+      "inverse": { "value": "{color.bw.black.black0}", "type": "color" }
+    },
+    "text": {
+      "primary": { "value": "{color.bw.black.black0}", "type": "color" },
+      "secondary": { "value": "{color.neutralGray.gray700}", "type": "color" },
+      "tertiary": { "value": "{color.neutralGray.gray500}", "type": "color" },
+      "inverse": { "value": "{color.bw.white.white0}", "type": "color" },
+      "accent": { "value": "{color.blue.blue600}", "type": "color" },
+      "success": { "value": "{color.green.green600}", "type": "color" },
+      "warning": { "value": "{color.red.red600}", "type": "color" }
+    },
+    "border": {
+      "default": { "value": "{color.neutralGray.gray200}", "type": "color" },
+      "accent": { "value": "{color.blue.blue400}", "type": "color" },
+      "success": { "value": "{color.green.green400}", "type": "color" },
+      "warning": { "value": "{color.red.red400}", "type": "color" }
+    },
+    "surface": {
+      "accent": { "value": "{color.blue.blue50}", "type": "color" },
+      "success": { "value": "{color.green.green50}", "type": "color" },
+      "warning": { "value": "{color.red.red50}", "type": "color" }
+    },
+    "state": {
+      "focused": { "value": "{color.blue.blue100}", "type": "color" },
+      "pressed": {
+        "high": { "value": "{color.neutralGray.gray200}", "type": "color" },
+        "low": { "value": "{color.neutralGray.gray100}", "type": "color" }
+      },
+      "disabled": { "value": "{color.neutralGray.gray300}", "type": "color" },
+      "selected": { "value": "{color.blue.blue100}", "type": "color" }
+    }
+  }
+}

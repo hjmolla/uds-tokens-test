@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UDS Tokens Demo - 3축 테마 시스템</title>
+    <link id="theme-css" rel="stylesheet" href="../build/web/vars.light-default-base.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--colorBgPrimary);
+            color: var(--colorTextPrimary);
+            font-family: var(--textBodyFontFamily);
+            font-size: var(--textBodyFontSize);
+            line-height: var(--textBodyLineHeight);
+            transition: all 0.3s ease;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: var(--spaceLayoutLg);
+        }
+
+        .header {
+            background: var(--colorBgSecondary);
+            border: 1px solid var(--colorBorderDefault);
+            border-radius: var(--radiusLg);
+            padding: var(--spaceComponentXl);
+            margin-bottom: var(--spaceLayoutLg);
+        }
+
+        .header h1 {
+            font-family: var(--textTitleFontFamily);
+            font-size: var(--textTitleFontSize);
+            font-weight: var(--textTitleFontWeight);
+            line-height: var(--textTitleLineHeight);
+            color: var(--colorTextPrimary);
+            margin-bottom: var(--spaceComponentMd);
+        }
+
+        .header p {
+            color: var(--colorTextSecondary);
+            font-size: var(--textBodyFontSize);
+            line-height: var(--textBodyLineHeight);
+        }
+
+        .controls {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: var(--spaceComponentLg);
+            margin-bottom: var(--spaceLayoutXl);
+        }
+
+        .control-group {
+            background: var(--colorBgSecondary);
+            border: 1px solid var(--colorBorderDefault);
+            border-radius: var(--radiusMd);
+            padding: var(--spaceComponentLg);
+        }
+
+        .control-group h3 {
+            font-family: var(--textLabelFontFamily);
+            font-size: var(--textLabelFontSize);
+            font-weight: var(--textLabelFontWeight);
+            line-height: var(--textLabelLineHeight);
+            margin-bottom: var(--spaceComponentMd);
+            color: var(--colorTextPrimary);
+        }
+
+        .radio-group {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spaceComponentSm);
+        }
+
+        .radio-item {
+            display: flex;
+            align-items: center;
+            gap: var(--spaceComponentSm);
+            padding: var(--spaceComponentSm);
+            border-radius: var(--radiusSm);
+            transition: background-color 0.2s ease;
+            cursor: pointer;
+        }
+
+        .radio-item:hover {
+            background-color: var(--colorSurfaceAccent);
+        }
+
+        .radio-item input[type="radio"] {
+            margin: 0;
+        }
+
+        .radio-item label {
+            cursor: pointer;
+            font-size: var(--textBodyFontSize);
+            color: var(--colorTextPrimary);
+        }
+
+        .sample-content {
+            display: grid;
+            gap: var(--spaceLayoutMd);
+        }
+
+        .card {
+            background: var(--colorBgSecondary);
+            border: 1px solid var(--colorBorderDefault);
+            border-radius: var(--radiusLg);
+            padding: var(--spaceComponentXl);
+        }
+
+        .card h2 {
+            font-family: var(--textBodyFontFamily);
+            font-size: var(--textTitleFontSize);
+            font-weight: var(--textLabelFontWeight);
+            line-height: var(--textTitleLineHeight);
+            color: var(--colorTextPrimary);
+            margin-bottom: var(--spaceComponentMd);
+        }
+
+        .card p {
+            color: var(--colorTextSecondary);
+            margin-bottom: var(--spaceComponentLg);
+        }
+
+        .buttons {
+            display: flex;
+            gap: var(--spaceComponentMd);
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: var(--spaceComponentMd) var(--spaceComponentLg);
+            border: 1px solid var(--colorBorderAccent);
+            border-radius: var(--radiusMd);
+            background: var(--colorBgPrimary);
+            color: var(--colorTextAccent);
+            text-decoration: none;
+            font-size: var(--textBodyFontSize);
+            font-weight: var(--textBodyFontWeight);
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background: var(--colorSurfaceAccent);
+            transform: translateY(-1px);
+        }
+
+        .btn-success {
+            background: var(--colorSurfaceSuccess);
+            color: var(--colorTextSuccess);
+            border-color: var(--colorTextSuccess);
+        }
+
+        .btn-warning {
+            background: var(--colorSurfaceWarning);
+            color: var(--colorTextWarning);
+            border-color: var(--colorTextWarning);
+        }
+
+        .current-theme {
+            position: fixed;
+            top: var(--spaceComponentLg);
+            right: var(--spaceComponentLg);
+            background: var(--colorBgInverse);
+            color: var(--colorTextInverse);
+            padding: var(--spaceComponentSm) var(--spaceComponentMd);
+            border-radius: var(--radiusMd);
+            font-size: var(--textLabelFontSize);
+            font-weight: var(--textBodyFontWeight);
+            z-index: 1000;
+        }
+
+        .token-info {
+            margin-top: var(--spaceLayoutMd);
+            background: var(--colorBgTertiary);
+            padding: var(--spaceComponentLg);
+            border-radius: var(--radiusMd);
+            border: 1px solid var(--colorBorderDefault);
+        }
+
+        .token-info h3 {
+            color: var(--colorTextAccent);
+            margin-bottom: var(--spaceComponentSm);
+        }
+
+        .token-info code {
+            background: var(--colorBgPrimary);
+            padding: 2px 4px;
+            border-radius: 2px;
+            font-family: var(--textBodyFontFamily);
+            font-size: var(--textLabelFontSize);
+            color: var(--colorTextAccent);
+        }
+    </style>
+</head>
+<body>
+    <div class="current-theme" id="current-theme">
+        light-default-base
+    </div>
+
+    <div class="container">
+        <header class="header">
+            <h1>UDS 토큰 데모</h1>
+            <p>3축 테마 시스템 (Mode × Density × Readability) 실시간 미리보기</p>
+        </header>
+
+        <section class="controls">
+            <div class="control-group">
+                <h3>Mode (색상)</h3>
+                <div class="radio-group">
+                    <div class="radio-item">
+                        <input type="radio" id="light" name="mode" value="light" checked>
+                        <label for="light">Light 모드</label>
+                    </div>
+                    <div class="radio-item">
+                        <input type="radio" id="dark" name="mode" value="dark">
+                        <label for="dark">Dark 모드</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <h3>Density (간격)</h3>
+                <div class="radio-group">
+                    <div class="radio-item">
+                        <input type="radio" id="default-density" name="density" value="default" checked>
+                        <label for="default-density">Default 간격</label>
+                    </div>
+                    <div class="radio-item">
+                        <input type="radio" id="condensed" name="density" value="condensed">
+                        <label for="condensed">Condensed 간격</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <h3>Readability (텍스트)</h3>
+                <div class="radio-group">
+                    <div class="radio-item">
+                        <input type="radio" id="base" name="readability" value="base" checked>
+                        <label for="base">Base 크기</label>
+                    </div>
+                    <div class="radio-item">
+                        <input type="radio" id="easy" name="readability" value="easy">
+                        <label for="easy">Easy 크기 (접근성)</label>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="sample-content">
+            <div class="card">
+                <h2>타이포그래피 샘플</h2>
+                <p>이 텍스트는 현재 선택된 테마의 타이포그래피 설정을 보여줍니다. Readability 축을 변경하면 글자 크기와 줄 높이가 바뀝니다.</p>
+                <div class="buttons">
+                    <button class="btn">기본 버튼</button>
+                    <button class="btn btn-success">성공 버튼</button>
+                    <button class="btn btn-warning">경고 버튼</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>간격 및 컬러 샘플</h2>
+                <p>이 카드의 패딩과 마진은 Density 축에 따라 조절됩니다. Mode 축을 변경하면 배경색과 텍스트 색상이 바뀝니다.</p>
+                <div class="buttons">
+                    <button class="btn">액션 1</button>
+                    <button class="btn">액션 2</button>
+                    <button class="btn">액션 3</button>
+                </div>
+
+                <div class="token-info">
+                    <h3>현재 사용 중인 토큰들</h3>
+                    <p>배경색: <code>--colorBgSecondary</code></p>
+                    <p>텍스트색: <code>--colorTextPrimary</code></p>
+                    <p>간격: <code>--spaceComponentXl</code></p>
+                    <p>둥근 모서리: <code>--radiusLg</code></p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        const themeCSS = document.getElementById('theme-css');
+        const currentThemeDisplay = document.getElementById('current-theme');
+        
+        const controls = {
+            mode: document.querySelectorAll('input[name="mode"]'),
+            density: document.querySelectorAll('input[name="density"]'), 
+            readability: document.querySelectorAll('input[name="readability"]')
+        };
+
+        function updateTheme() {
+            const mode = document.querySelector('input[name="mode"]:checked').value;
+            const density = document.querySelector('input[name="density"]:checked').value;
+            const readability = document.querySelector('input[name="readability"]:checked').value;
+            
+            const themeName = `${mode}-${density}-${readability}`;
+            const cssPath = `../build/web/vars.${themeName}.css`;
+            
+            themeCSS.href = cssPath;
+            currentThemeDisplay.textContent = themeName;
+            
+            console.log(`🎨 테마 변경: ${themeName}`);
+            
+            // URL 업데이트 (새로고침 시 테마 유지)
+            const url = new URL(window.location);
+            url.searchParams.set('theme', themeName);
+            window.history.replaceState({}, '', url);
+        }
+
+        // 컨트롤 이벤트 리스너 등록
+        Object.values(controls).forEach(controlGroup => {
+            controlGroup.forEach(control => {
+                control.addEventListener('change', updateTheme);
+            });
+        });
+
+        // URL에서 테마 파라미터 복원
+        const urlParams = new URLSearchParams(window.location.search);
+        const savedTheme = urlParams.get('theme');
+        if (savedTheme) {
+            const [mode, density, readability] = savedTheme.split('-');
+            
+            if (mode) document.querySelector(`input[value="${mode}"]`)?.click();
+            if (density) document.querySelector(`input[value="${density}"]`)?.click();
+            if (readability) document.querySelector(`input[value="${readability}"]`)?.click();
+        }
+
+        // 키보드 단축키
+        document.addEventListener('keydown', (e) => {
+            if (e.altKey) {
+                switch(e.key) {
+                    case '1': document.querySelector('input[value="light"]').click(); break;
+                    case '2': document.querySelector('input[value="dark"]').click(); break;
+                    case '3': document.querySelector('input[value="default"]').click(); break;
+                    case '4': document.querySelector('input[value="condensed"]').click(); break;
+                    case '5': document.querySelector('input[value="base"]').click(); break;
+                    case '6': document.querySelector('input[value="easy"]').click(); break;
+                }
+                e.preventDefault();
+            }
+        });
+
+        console.log('🎨 UDS Tokens Demo 로드됨');
+        console.log('💡 Alt + 1~6 키로 빠른 테마 전환 가능');
+    </script>
+</body>
+</html>

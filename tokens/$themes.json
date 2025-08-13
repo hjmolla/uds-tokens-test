@@ -1,15 +1,53 @@
 {
-  "source": [
-    "tokens/primitive/**/*.json"
-  ],
-  "themes": [
-    { "name": "light-default-default", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "default", "semantic/dimension": "default" }},
-    { "name": "light-default-condensed", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "default", "semantic/dimension": "condensed" }},
-    { "name": "light-easy-default", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "easy", "semantic/dimension": "default" }},
-    { "name": "light-easy-condensed", "selectedTokenSets": { "semantic/color": "light", "semantic/typography": "easy", "semantic/dimension": "condensed" }},
-    { "name": "dark-default-default", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "default", "semantic/dimension": "default" }},
-    { "name": "dark-default-condensed", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "default", "semantic/dimension": "condensed" }},
-    { "name": "dark-easy-default", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "easy", "semantic/dimension": "default" }},
-    { "name": "dark-easy-condensed", "selectedTokenSets": { "semantic/color": "dark", "semantic/typography": "easy", "semantic/dimension": "condensed" }}
-  ]
+	"source": ["tokens/primitives/**/*.json"],
+	"themes": [
+		{
+			"name": "light-default-base",
+			"selectedTokenSets": {
+				"token": "color-light,typography-default,dimension-default"
+			}
+		},
+		{
+			"name": "light-default-easy",
+			"selectedTokenSets": {
+				"token": "color-light,typography-easy,dimension-default"
+			}
+		},
+		{
+			"name": "light-condensed-base",
+			"selectedTokenSets": {
+				"token": "color-light,typography-default,dimension-condensed"
+			}
+		},
+		{
+			"name": "light-condensed-easy",
+			"selectedTokenSets": {
+				"token": "color-light,typography-easy,dimension-condensed"
+			}
+		},
+		{
+			"name": "dark-default-base",
+			"selectedTokenSets": {
+				"token": "color-dark,typography-default,dimension-default"
+			}
+		},
+		{
+			"name": "dark-default-easy",
+			"selectedTokenSets": {
+				"token": "color-dark,typography-easy,dimension-default"
+			}
+		},
+		{
+			"name": "dark-condensed-base",
+			"selectedTokenSets": {
+				"token": "color-dark,typography-default,dimension-condensed"
+			}
+		},
+		{
+			"name": "dark-condensed-easy",
+			"selectedTokenSets": {
+				"token": "color-dark,typography-easy,dimension-condensed"
+			}
+		}
+	]
 }

@@ -1,0 +1,42 @@
+{
+  "space": {
+    "layout": {
+      "xs": { "value": "{size.base.8}", "type": "dimension" },
+      "sm": { "value": "{size.base.16}", "type": "dimension" },
+      "md": { "value": "{size.base.24}", "type": "dimension" },
+      "lg": { "value": "{size.base.32}", "type": "dimension" },
+      "xl": { "value": "{size.base.40}", "type": "dimension" },
+      "2xl": { "value": "{size.base.48}", "type": "dimension" }
+    },
+    "component": {
+      "xs": { "value": "{size.base.2}", "type": "dimension" },
+      "sm": { "value": "{size.base.4}", "type": "dimension" },
+      "md": { "value": "{size.base.8}", "type": "dimension" },
+      "lg": { "value": "{size.base.16}", "type": "dimension" },
+      "xl": { "value": "{size.base.20}", "type": "dimension" },
+      "2xl": { "value": "{size.base.24}", "type": "dimension" }
+    },
+    "inset": {
+      "xs": { "value": "{size.base.4}", "type": "dimension" },
+      "sm": { "value": "{size.base.8}", "type": "dimension" },
+      "md": { "value": "{size.base.16}", "type": "dimension" },
+      "lg": { "value": "{size.base.20}", "type": "dimension" },
+      "xl": { "value": "{size.base.24}", "type": "dimension" }
+    },
+    "gap": {
+      "xs": { "value": "{size.base.2}", "type": "dimension" },
+      "sm": { "value": "{size.base.4}", "type": "dimension" },
+      "md": { "value": "{size.base.8}", "type": "dimension" },
+      "lg": { "value": "{size.base.16}", "type": "dimension" },
+      "xl": { "value": "{size.base.20}", "type": "dimension" }
+    }
+  },
+  "radius": {
+    "none": { "value": "{size.radius.none}", "type": "borderRadius" },
+    "sm": { "value": "{size.radius.small}", "type": "borderRadius" },
+    "md": { "value": "{size.radius.base}", "type": "borderRadius" },
+    "lg": { "value": "{size.radius.large}", "type": "borderRadius" },
+    "xl": { "value": "{size.radius.xLarge}", "type": "borderRadius" },
+    "full": { "value": "{size.radius.full}", "type": "borderRadius" }
+  }
+}
