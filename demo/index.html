@@ -20,6 +20,7 @@
             line-height: var(--textBodyLineHeight);
             transition: all 0.3s ease;
             min-height: 100vh;
+            padding-top: 120px; /* Adjust based on fixed header height */
         }
 
         .container {
@@ -52,17 +53,29 @@
         }
 
         .controls {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 999;
+            background: var(--colorBgSecondary);
+            border-bottom: 1px solid var(--colorBorderDefault);
+            padding: var(--spaceComponentMd) var(--spaceLayoutLg); /* Smaller padding */
+            display: flex; /* Use flexbox for better control */
+            justify-content: space-around;
+            align-items: center;
             gap: var(--spaceComponentLg);
-            margin-bottom: var(--spaceLayoutXl);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
         .control-group {
-            background: var(--colorBgSecondary);
-            border: 1px solid var(--colorBorderDefault);
-            border-radius: var(--radiusMd);
-            padding: var(--spaceComponentLg);
+            background: none; /* Remove background */
+            border: none; /* Remove border */
+            border-radius: 0;
+            padding: 0; /* Remove padding */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
         .control-group h3 {
@@ -70,13 +83,14 @@
             font-size: var(--textLabelFontSize);
             font-weight: var(--textLabelFontWeight);
             line-height: var(--textLabelLineHeight);
-            margin-bottom: var(--spaceComponentMd);
+            margin-bottom: var(--spaceComponentSm); /* Smaller margin */
             color: var(--colorTextPrimary);
+            white-space: nowrap;
         }
 
         .radio-group {
             display: flex;
-            flex-direction: column;
+            flex-direction: row; /* Arrange radio buttons in a row */
             gap: var(--spaceComponentSm);
         }
 
@@ -84,7 +98,7 @@
             display: flex;
             align-items: center;
             gap: var(--spaceComponentSm);
-            padding: var(--spaceComponentSm);
+            padding: var(--spaceComponentXs) var(--spaceComponentSm); /* Smaller padding */
             border-radius: var(--radiusSm);
             transition: background-color 0.2s ease;
             cursor: pointer;
@@ -200,6 +214,78 @@
             font-size: var(--textLabelFontSize);
             color: var(--colorTextAccent);
         }
+
+        /* New styles for token showcase */
+        .color-grid, .spacing-grid, .typography-grid, .radius-grid {
+            display: grid;
+            gap: var(--spaceComponentMd);
+            margin-top: var(--spaceComponentLg);
+        }
+
+        .color-item {
+            display: flex;
+            align-items: center;
+            gap: var(--spaceComponentMd);
+            padding: var(--spaceComponentSm);
+            border-radius: var(--radiusSm);
+            background: var(--colorBgPrimary);
+            border: 1px solid var(--colorBorderDefault);
+        }
+
+        .color-box {
+            width: 40px;
+            height: 40px;
+            border-radius: var(--radiusSm);
+            border: 1px solid var(--colorBorderDefault);
+        }
+
+        .color-info {
+            font-size: var(--textBodyFontSize);
+            color: var(--colorTextPrimary);
+        }
+
+        .spacing-item {
+            background: var(--colorBgPrimary);
+            border: 1px solid var(--colorBorderDefault);
+            border-radius: var(--radiusSm);
+            padding: var(--spaceComponentSm);
+            display: flex;
+            align-items: center;
+            gap: var(--spaceComponentMd);
+        }
+
+        .spacing-box {
+            background: var(--colorSurfaceAccent);
+            height: 20px;
+        }
+
+        .typography-item {
+            background: var(--colorBgPrimary);
+            border: 1px solid var(--colorBorderDefault);
+            border-radius: var(--radiusSm);
+            padding: var(--spaceComponentMd);
+        }
+
+        .typography-item h4 {
+            margin-bottom: var(--spaceComponentSm);
+            color: var(--colorTextPrimary);
+        }
+
+        .radius-item {
+            background: var(--colorBgPrimary);
+            border: 1px solid var(--colorBorderDefault);
+            padding: var(--spaceComponentMd);
+            display: flex;
+            align-items: center;
+            gap: var(--spaceComponentMd);
+        }
+
+        .radius-box {
+            width: 60px;
+            height: 60px;
+            background: var(--colorSurfaceAccent);
+            border: 1px solid var(--colorBorderDefault);
+        }
     </style>
 </head>
 <body>
@@ -283,6 +369,142 @@
                     <p>텍스트색: <code>--colorTextPrimary</code></p>
                     <p>간격: <code>--spaceComponentXl</code></p>
                     <p>둥근 모서리: <code>--radiusLg</code></p>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>컬러 팔레트</h2>
+                <p>다양한 색상 토큰들을 시각적으로 확인합니다. Mode 축을 변경하여 Light/Dark 모드에서의 변화를 확인하세요.</p>
+                <div class="color-grid">
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorBgPrimary);"></div>
+                        <div class="color-info"><code>--colorBgPrimary</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorBgSecondary);"></div>
+                        <div class="color-info"><code>--colorBgSecondary</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorBgTertiary);"></div>
+                        <div class="color-info"><code>--colorBgTertiary</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorTextPrimary);"></div>
+                        <div class="color-info"><code>--colorTextPrimary</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorTextSecondary);"></div>
+                        <div class="color-info"><code>--colorTextSecondary</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorTextAccent);"></div>
+                        <div class="color-info"><code>--colorTextAccent</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorBorderDefault);"></div>
+                        <div class="color-info"><code>--colorBorderDefault</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorBorderAccent);"></div>
+                        <div class="color-info"><code>--colorBorderAccent</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorSurfaceAccent);"></div>
+                        <div class="color-info"><code>--colorSurfaceAccent</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorSurfaceSuccess);"></div>
+                        <div class="color-info"><code>--colorSurfaceSuccess</code></div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-box" style="background-color: var(--colorSurfaceWarning);"></div>
+                        <div class="color-info"><code>--colorSurfaceWarning</code></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>간격 스케일</h2>
+                <p>다양한 간격 토큰들을 시각적으로 확인합니다. Density 축을 변경하여 Default/Condensed 간격의 변화를 확인하세요.</p>
+                <div class="spacing-grid">
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceComponentXs);"></div>
+                        <div class="spacing-info"><code>--spaceComponentXs</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceComponentSm);"></div>
+                        <div class="spacing-info"><code>--spaceComponentSm</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceComponentMd);"></div>
+                        <div class="spacing-info"><code>--spaceComponentMd</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceComponentLg);"></div>
+                        <div class="spacing-info"><code>--spaceComponentLg</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceComponentXl);"></div>
+                        <div class="spacing-info"><code>--spaceComponentXl</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceLayoutSm);"></div>
+                        <div class="spacing-info"><code>--spaceLayoutSm</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceLayoutMd);"></div>
+                        <div class="spacing-info"><code>--spaceLayoutMd</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceLayoutLg);"></div>
+                        <div class="spacing-info"><code>--spaceLayoutLg</code></div>
+                    </div>
+                    <div class="spacing-item">
+                        <div class="spacing-box" style="width: var(--spaceLayoutXl);"></div>
+                        <div class="spacing-info"><code>--spaceLayoutXl</code></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>타이포그래피 스타일</h2>
+                <p>다양한 텍스트 스타일 토큰들을 시각적으로 확인합니다. Readability 축을 변경하여 Base/Easy 크기의 변화를 확인하세요.</p>
+                <div class="typography-grid">
+                    <div class="typography-item">
+                        <h4 style="font-family: var(--textTitleFontFamily); font-size: var(--textTitleFontSize); font-weight: var(--textTitleFontWeight); line-height: var(--textTitleLineHeight);">Title Style Example</h4>
+                        <p><code>--textTitleFontFamily</code>, <code>--textTitleFontSize</code>, <code>--textTitleFontWeight</code>, <code>--textTitleLineHeight</code></p>
+                    </div>
+                    <div class="typography-item">
+                        <h4 style="font-family: var(--textBodyFontFamily); font-size: var(--textBodyFontSize); font-weight: var(--textBodyFontWeight); line-height: var(--textBodyLineHeight);">Body Style Example</h4>
+                        <p><code>--textBodyFontFamily</code>, <code>--textBodyFontSize</code>, <code>--textBodyFontWeight</code>, <code>--textBodyLineHeight</code></p>
+                    </div>
+                    <div class="typography-item">
+                        <h4 style="font-family: var(--textLabelFontFamily); font-size: var(--textLabelFontSize); font-weight: var(--textLabelFontWeight); line-height: var(--textLabelLineHeight);">Label Style Example</h4>
+                        <p><code>--textLabelFontFamily</code>, <code>--textLabelFontSize</code>, <code>--textLabelFontWeight</code>, <code>--textLabelLineHeight</code></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>둥근 모서리 (Border Radius)</h2>
+                <p>다양한 둥근 모서리 토큰들을 시각적으로 확인합니다.</p>
+                <div class="radius-grid">
+                    <div class="radius-item">
+                        <div class="radius-box" style="border-radius: var(--radiusSm);"></div>
+                        <div class="radius-info"><code>--radiusSm</code></div>
+                    </div>
+                    <div class="radius-item">
+                        <div class="radius-box" style="border-radius: var(--radiusMd);"></div>
+                        <div class="radius-info"><code>--radiusMd</code></div>
+                    </div>
+                    <div class="radius-item">
+                        <div class="radius-box" style="border-radius: var(--radiusLg);"></div>
+                        <div class="radius-info"><code>--radiusLg</code></div>
+                    </div>
+                    <div class="radius-item">
+                        <div class="radius-box" style="border-radius: var(--radiusXl);"></div>
+                        <div class="radius-info"><code>--radiusXl</code></div>
+                    </div>
                 </div>
             </div>
         </section>
