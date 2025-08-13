@@ -1,6 +1,6 @@
 # UDS Tokens
 
-This repository contains design tokens for the UDS (Unified Design System).
+This repository contains design tokens for the UDS (U+ Design System).
 
 ## Usage
 
