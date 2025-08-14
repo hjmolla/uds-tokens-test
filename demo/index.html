@@ -13,11 +13,11 @@
         }
 
         body {
-            background-color: var(--colorBgPrimary);
-            color: var(--colorTextPrimary);
-            font-family: var(--textBodyFontFamily);
-            font-size: var(--textBodyFontSize);
-            line-height: var(--textBodyLineHeight);
+            background-color: var(--colorBackgroundBaseLow);
+            color: var(--colorTextBasePrimary);
+            font-family: var(--typeface);
+            font-size: var(--bodyBase);
+            line-height: 1.5;
             transition: all 0.3s ease;
             min-height: 100vh;
             padding-top: 120px; /* Adjust based on fixed header height */
@@ -26,30 +26,30 @@
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: var(--spaceLayoutLg);
+            padding: var(--layoutInsetY24);
         }
 
         .header {
-            background: var(--colorBgSecondary);
-            border: 1px solid var(--colorBorderDefault);
-            border-radius: var(--radiusLg);
-            padding: var(--spaceComponentXl);
-            margin-bottom: var(--spaceLayoutLg);
+            background: var(--colorContainerBaseHigh);
+            border: 1px solid var(--colorBorderBaseTertiary);
+            border-radius: var(--radiusLarge);
+            padding: var(--componentInset20);
+            margin-bottom: var(--layoutInsetY24);
         }
 
         .header h1 {
-            font-family: var(--textTitleFontFamily);
-            font-size: var(--textTitleFontSize);
-            font-weight: var(--textTitleFontWeight);
-            line-height: var(--textTitleLineHeight);
-            color: var(--colorTextPrimary);
-            margin-bottom: var(--spaceComponentMd);
+            font-family: var(--typeface);
+            font-size: var(--titleLarge);
+            font-weight: 600;
+            line-height: 1.3;
+            color: var(--colorTextBasePrimary);
+            margin-bottom: var(--componentInset12);
         }
 
         .header p {
-            color: var(--colorTextSecondary);
-            font-size: var(--textBodyFontSize);
-            line-height: var(--textBodyLineHeight);
+            color: var(--colorTextBaseSecondary);
+            font-size: var(--bodyBase);
+            line-height: 1.5;
         }
 
         .controls {
@@ -58,13 +58,13 @@
             left: 0;
             right: 0;
             z-index: 999;
-            background: var(--colorBgSecondary);
-            border-bottom: 1px solid var(--colorBorderDefault);
-            padding: var(--spaceComponentMd) var(--spaceLayoutLg); /* Smaller padding */
+            background: var(--colorContainerBaseHigh);
+            border-bottom: 1px solid var(--colorBorderBaseTertiary);
+            padding: var(--componentInset12) var(--layoutInsetY24); /* Smaller padding */
             display: flex; /* Use flexbox for better control */
             justify-content: space-around;
             align-items: center;
-            gap: var(--spaceComponentLg);
+            gap: var(--componentInset16);
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
@@ -79,33 +79,33 @@
         }
 
         .control-group h3 {
-            font-family: var(--textLabelFontFamily);
-            font-size: var(--textLabelFontSize);
-            font-weight: var(--textLabelFontWeight);
-            line-height: var(--textLabelLineHeight);
-            margin-bottom: var(--spaceComponentSm); /* Smaller margin */
-            color: var(--colorTextPrimary);
+            font-family: var(--typeface);
+            font-size: var(--labelBase);
+            font-weight: 500;
+            line-height: 1.4;
+            margin-bottom: var(--componentInset8); /* Smaller margin */
+            color: var(--colorTextBasePrimary);
             white-space: nowrap;
         }
 
         .radio-group {
             display: flex;
             flex-direction: row; /* Arrange radio buttons in a row */
-            gap: var(--spaceComponentSm);
+            gap: var(--componentInset8);
         }
 
         .radio-item {
             display: flex;
             align-items: center;
-            gap: var(--spaceComponentSm);
-            padding: var(--spaceComponentXs) var(--spaceComponentSm); /* Smaller padding */
-            border-radius: var(--radiusSm);
+            gap: var(--componentInset8);
+            padding: var(--componentInset6) var(--componentInset8); /* Smaller padding */
+            border-radius: var(--radiusSmall);
             transition: background-color 0.2s ease;
             cursor: pointer;
         }
 
         .radio-item:hover {
-            background-color: var(--colorSurfaceAccent);
+            background-color: var(--colorContainerBaseLow);
         }
 
         .radio-item input[type="radio"] {
@@ -114,177 +114,177 @@
 
         .radio-item label {
             cursor: pointer;
-            font-size: var(--textBodyFontSize);
-            color: var(--colorTextPrimary);
+            font-size: var(--bodyBase);
+            color: var(--colorTextBasePrimary);
         }
 
         .sample-content {
             display: grid;
-            gap: var(--spaceLayoutMd);
+            gap: var(--layoutInsetY16);
         }
 
         .card {
-            background: var(--colorBgSecondary);
-            border: 1px solid var(--colorBorderDefault);
-            border-radius: var(--radiusLg);
-            padding: var(--spaceComponentXl);
+            background: var(--colorContainerBaseHigh);
+            border: 1px solid var(--colorBorderBaseTertiary);
+            border-radius: var(--radiusLarge);
+            padding: var(--componentInset20);
         }
 
         .card h2 {
-            font-family: var(--textBodyFontFamily);
-            font-size: var(--textTitleFontSize);
-            font-weight: var(--textLabelFontWeight);
-            line-height: var(--textTitleLineHeight);
-            color: var(--colorTextPrimary);
-            margin-bottom: var(--spaceComponentMd);
+            font-family: var(--typeface);
+            font-size: var(--titleBase);
+            font-weight: 500;
+            line-height: 1.3;
+            color: var(--colorTextBasePrimary);
+            margin-bottom: var(--componentInset12);
         }
 
         .card p {
-            color: var(--colorTextSecondary);
-            margin-bottom: var(--spaceComponentLg);
+            color: var(--colorTextBaseSecondary);
+            margin-bottom: var(--componentInset16);
         }
 
         .buttons {
             display: flex;
-            gap: var(--spaceComponentMd);
+            gap: var(--componentInset12);
             flex-wrap: wrap;
         }
 
         .btn {
-            padding: var(--spaceComponentMd) var(--spaceComponentLg);
-            border: 1px solid var(--colorBorderAccent);
-            border-radius: var(--radiusMd);
-            background: var(--colorBgPrimary);
-            color: var(--colorTextAccent);
+            padding: var(--componentInset12) var(--componentInset16);
+            border: 1px solid var(--colorBorderBrandPrimary);
+            border-radius: var(--radiusMedium);
+            background: var(--colorBackgroundBaseLow);
+            color: var(--colorTextBrandPrimary);
             text-decoration: none;
-            font-size: var(--textBodyFontSize);
-            font-weight: var(--textBodyFontWeight);
+            font-size: var(--bodyBase);
+            font-weight: 400;
             transition: all 0.2s ease;
             cursor: pointer;
         }
 
         .btn:hover {
-            background: var(--colorSurfaceAccent);
+            background: var(--colorContainerBaseLow);
             transform: translateY(-1px);
         }
 
         .btn-success {
-            background: var(--colorSurfaceSuccess);
-            color: var(--colorTextSuccess);
-            border-color: var(--colorTextSuccess);
+            background: var(--statusContainerPositive);
+            color: var(--statusTextPositive);
+            border-color: var(--statusBorderPositive);
         }
 
         .btn-warning {
-            background: var(--colorSurfaceWarning);
-            color: var(--colorTextWarning);
-            border-color: var(--colorTextWarning);
+            background: var(--statusContainerNegative);
+            color: var(--statusTextNegative);
+            border-color: var(--statusBorderNegative);
         }
 
         .current-theme {
             position: fixed;
-            top: var(--spaceComponentLg);
-            right: var(--spaceComponentLg);
-            background: var(--colorBgInverse);
-            color: var(--colorTextInverse);
-            padding: var(--spaceComponentSm) var(--spaceComponentMd);
-            border-radius: var(--radiusMd);
-            font-size: var(--textLabelFontSize);
-            font-weight: var(--textBodyFontWeight);
+            top: var(--componentInset16);
+            right: var(--componentInset16);
+            background: var(--colorContainerBaseInvertedBlack);
+            color: var(--colorTextBaseInvertedWhite);
+            padding: var(--componentInset8) var(--componentInset12);
+            border-radius: var(--radiusMedium);
+            font-size: var(--labelBase);
+            font-weight: 400;
             z-index: 1000;
         }
 
         .token-info {
-            margin-top: var(--spaceLayoutMd);
-            background: var(--colorBgTertiary);
-            padding: var(--spaceComponentLg);
-            border-radius: var(--radiusMd);
-            border: 1px solid var(--colorBorderDefault);
+            margin-top: var(--layoutInsetY16);
+            background: var(--colorContainerBaseLow);
+            padding: var(--componentInset16);
+            border-radius: var(--radiusMedium);
+            border: 1px solid var(--colorBorderBaseTertiary);
         }
 
         .token-info h3 {
-            color: var(--colorTextAccent);
-            margin-bottom: var(--spaceComponentSm);
+            color: var(--colorTextBrandPrimary);
+            margin-bottom: var(--componentInset8);
         }
 
         .token-info code {
-            background: var(--colorBgPrimary);
+            background: var(--colorBackgroundBaseLow);
             padding: 2px 4px;
             border-radius: 2px;
-            font-family: var(--textBodyFontFamily);
-            font-size: var(--textLabelFontSize);
-            color: var(--colorTextAccent);
+            font-family: var(--typeface);
+            font-size: var(--labelBase);
+            color: var(--colorTextBrandPrimary);
         }
 
         /* New styles for token showcase */
         .color-grid, .spacing-grid, .typography-grid, .radius-grid {
             display: grid;
-            gap: var(--spaceComponentMd);
-            margin-top: var(--spaceComponentLg);
+            gap: var(--componentInset12);
+            margin-top: var(--componentInset16);
         }
 
         .color-item {
             display: flex;
             align-items: center;
-            gap: var(--spaceComponentMd);
-            padding: var(--spaceComponentSm);
-            border-radius: var(--radiusSm);
-            background: var(--colorBgPrimary);
-            border: 1px solid var(--colorBorderDefault);
+            gap: var(--componentInset12);
+            padding: var(--componentInset8);
+            border-radius: var(--radiusSmall);
+            background: var(--colorBackgroundBaseLow);
+            border: 1px solid var(--colorBorderBaseTertiary);
         }
 
         .color-box {
             width: 40px;
             height: 40px;
-            border-radius: var(--radiusSm);
-            border: 1px solid var(--colorBorderDefault);
+            border-radius: var(--radiusSmall);
+            border: 1px solid var(--colorBorderBaseTertiary);
         }
 
         .color-info {
-            font-size: var(--textBodyFontSize);
-            color: var(--colorTextPrimary);
+            font-size: var(--bodyBase);
+            color: var(--colorTextBasePrimary);
         }
 
         .spacing-item {
-            background: var(--colorBgPrimary);
-            border: 1px solid var(--colorBorderDefault);
-            border-radius: var(--radiusSm);
-            padding: var(--spaceComponentSm);
+            background: var(--colorBackgroundBaseLow);
+            border: 1px solid var(--colorBorderBaseTertiary);
+            border-radius: var(--radiusSmall);
+            padding: var(--componentInset8);
             display: flex;
             align-items: center;
-            gap: var(--spaceComponentMd);
+            gap: var(--componentInset12);
         }
 
         .spacing-box {
-            background: var(--colorSurfaceAccent);
+            background: var(--colorContainerBaseLow);
             height: 20px;
         }
 
         .typography-item {
-            background: var(--colorBgPrimary);
-            border: 1px solid var(--colorBorderDefault);
-            border-radius: var(--radiusSm);
-            padding: var(--spaceComponentMd);
+            background: var(--colorBackgroundBaseLow);
+            border: 1px solid var(--colorBorderBaseTertiary);
+            border-radius: var(--radiusSmall);
+            padding: var(--componentInset12);
         }
 
         .typography-item h4 {
-            margin-bottom: var(--spaceComponentSm);
-            color: var(--colorTextPrimary);
+            margin-bottom: var(--componentInset8);
+            color: var(--colorTextBasePrimary);
         }
 
         .radius-item {
-            background: var(--colorBgPrimary);
-            border: 1px solid var(--colorBorderDefault);
-            padding: var(--spaceComponentMd);
+            background: var(--colorBackgroundBaseLow);
+            border: 1px solid var(--colorBorderBaseTertiary);
+            padding: var(--componentInset12);
             display: flex;
             align-items: center;
-            gap: var(--spaceComponentMd);
+            gap: var(--componentInset12);
         }
 
         .radius-box {
             width: 60px;
             height: 60px;
-            background: var(--colorSurfaceAccent);
-            border: 1px solid var(--colorBorderDefault);
+            background: var(--colorContainerBaseLow);
+            border: 1px solid var(--colorBorderBaseTertiary);
         }
     </style>
 </head>
@@ -365,10 +365,10 @@
 
                 <div class="token-info">
                     <h3>현재 사용 중인 토큰들</h3>
-                    <p>배경색: <code>--colorBgSecondary</code></p>
-                    <p>텍스트색: <code>--colorTextPrimary</code></p>
-                    <p>간격: <code>--spaceComponentXl</code></p>
-                    <p>둥근 모서리: <code>--radiusLg</code></p>
+                    <p>배경색: <code>--colorContainerBaseHigh</code></p>
+                    <p>텍스트색: <code>--colorTextBasePrimary</code></p>
+                    <p>간격: <code>--componentInset20</code></p>
+                    <p>둥근 모서리: <code>--radiusLarge</code></p>
                 </div>
             </div>
 
@@ -377,48 +377,48 @@
                 <p>다양한 색상 토큰들을 시각적으로 확인합니다. Mode 축을 변경하여 Light/Dark 모드에서의 변화를 확인하세요.</p>
                 <div class="color-grid">
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBgPrimary);"></div>
-                        <div class="color-info"><code>--colorBgPrimary</code></div>
+                        <div class="color-box" style="background-color: var(--colorBackgroundBaseLow);"></div>
+                        <div class="color-info"><code>--colorBackgroundBaseLow</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBgSecondary);"></div>
-                        <div class="color-info"><code>--colorBgSecondary</code></div>
+                        <div class="color-box" style="background-color: var(--colorContainerBaseHigh);"></div>
+                        <div class="color-info"><code>--colorContainerBaseHigh</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBgTertiary);"></div>
-                        <div class="color-info"><code>--colorBgTertiary</code></div>
+                        <div class="color-box" style="background-color: var(--colorContainerBaseLow);"></div>
+                        <div class="color-info"><code>--colorContainerBaseLow</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorTextPrimary);"></div>
-                        <div class="color-info"><code>--colorTextPrimary</code></div>
+                        <div class="color-box" style="background-color: var(--colorTextBasePrimary);"></div>
+                        <div class="color-info"><code>--colorTextBasePrimary</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorTextSecondary);"></div>
-                        <div class="color-info"><code>--colorTextSecondary</code></div>
+                        <div class="color-box" style="background-color: var(--colorTextBaseSecondary);"></div>
+                        <div class="color-info"><code>--colorTextBaseSecondary</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorTextAccent);"></div>
-                        <div class="color-info"><code>--colorTextAccent</code></div>
+                        <div class="color-box" style="background-color: var(--colorTextBrandPrimary);"></div>
+                        <div class="color-info"><code>--colorTextBrandPrimary</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBorderDefault);"></div>
-                        <div class="color-info"><code>--colorBorderDefault</code></div>
+                        <div class="color-box" style="background-color: var(--colorBorderBaseTertiary);"></div>
+                        <div class="color-info"><code>--colorBorderBaseTertiary</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBorderAccent);"></div>
-                        <div class="color-info"><code>--colorBorderAccent</code></div>
+                        <div class="color-box" style="background-color: var(--colorBorderBrandPrimary);"></div>
+                        <div class="color-info"><code>--colorBorderBrandPrimary</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorSurfaceAccent);"></div>
-                        <div class="color-info"><code>--colorSurfaceAccent</code></div>
+                        <div class="color-box" style="background-color: var(--colorContainerBaseLow);"></div>
+                        <div class="color-info"><code>--colorContainerBaseLow</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorSurfaceSuccess);"></div>
-                        <div class="color-info"><code>--colorSurfaceSuccess</code></div>
+                        <div class="color-box" style="background-color: var(--statusContainerPositive);"></div>
+                        <div class="color-info"><code>--statusContainerPositive</code></div>
                     </div>
                     <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorSurfaceWarning);"></div>
-                        <div class="color-info"><code>--colorSurfaceWarning</code></div>
+                        <div class="color-box" style="background-color: var(--statusContainerNegative);"></div>
+                        <div class="color-info"><code>--statusContainerNegative</code></div>
                     </div>
                 </div>
             </div>
@@ -428,40 +428,40 @@
                 <p>다양한 간격 토큰들을 시각적으로 확인합니다. Density 축을 변경하여 Default/Condensed 간격의 변화를 확인하세요.</p>
                 <div class="spacing-grid">
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceComponentXs);"></div>
-                        <div class="spacing-info"><code>--spaceComponentXs</code></div>
+                        <div class="spacing-box" style="width: var(--componentInset6);"></div>
+                        <div class="spacing-info"><code>--componentInset6</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceComponentSm);"></div>
-                        <div class="spacing-info"><code>--spaceComponentSm</code></div>
+                        <div class="spacing-box" style="width: var(--componentInset8);"></div>
+                        <div class="spacing-info"><code>--componentInset8</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceComponentMd);"></div>
-                        <div class="spacing-info"><code>--spaceComponentMd</code></div>
+                        <div class="spacing-box" style="width: var(--componentInset12);"></div>
+                        <div class="spacing-info"><code>--componentInset12</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceComponentLg);"></div>
-                        <div class="spacing-info"><code>--spaceComponentLg</code></div>
+                        <div class="spacing-box" style="width: var(--componentInset16);"></div>
+                        <div class="spacing-info"><code>--componentInset16</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceComponentXl);"></div>
-                        <div class="spacing-info"><code>--spaceComponentXl</code></div>
+                        <div class="spacing-box" style="width: var(--componentInset20);"></div>
+                        <div class="spacing-info"><code>--componentInset20</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceLayoutSm);"></div>
-                        <div class="spacing-info"><code>--spaceLayoutSm</code></div>
+                        <div class="spacing-box" style="width: var(--layoutInsetY12);"></div>
+                        <div class="spacing-info"><code>--layoutInsetY12</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceLayoutMd);"></div>
-                        <div class="spacing-info"><code>--spaceLayoutMd</code></div>
+                        <div class="spacing-box" style="width: var(--layoutInsetY16);"></div>
+                        <div class="spacing-info"><code>--layoutInsetY16</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceLayoutLg);"></div>
-                        <div class="spacing-info"><code>--spaceLayoutLg</code></div>
+                        <div class="spacing-box" style="width: var(--layoutInsetY24);"></div>
+                        <div class="spacing-info"><code>--layoutInsetY24</code></div>
                     </div>
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--spaceLayoutXl);"></div>
-                        <div class="spacing-info"><code>--spaceLayoutXl</code></div>
+                        <div class="spacing-box" style="width: var(--layoutInsetY32);"></div>
+                        <div class="spacing-info"><code>--layoutInsetY32</code></div>
                     </div>
                 </div>
             </div>
@@ -471,16 +471,16 @@
                 <p>다양한 텍스트 스타일 토큰들을 시각적으로 확인합니다. Readability 축을 변경하여 Base/Easy 크기의 변화를 확인하세요.</p>
                 <div class="typography-grid">
                     <div class="typography-item">
-                        <h4 style="font-family: var(--textTitleFontFamily); font-size: var(--textTitleFontSize); font-weight: var(--textTitleFontWeight); line-height: var(--textTitleLineHeight);">Title Style Example</h4>
-                        <p><code>--textTitleFontFamily</code>, <code>--textTitleFontSize</code>, <code>--textTitleFontWeight</code>, <code>--textTitleLineHeight</code></p>
+                        <h4 style="font-family: var(--typeface); font-size: var(--titleBase); font-weight: 600; line-height: 1.3;">Title Style Example</h4>
+                        <p><code>--typeface</code>, <code>--titleBase</code>, <code>600</code>, <code>1.3</code></p>
                     </div>
                     <div class="typography-item">
-                        <h4 style="font-family: var(--textBodyFontFamily); font-size: var(--textBodyFontSize); font-weight: var(--textBodyFontWeight); line-height: var(--textBodyLineHeight);">Body Style Example</h4>
-                        <p><code>--textBodyFontFamily</code>, <code>--textBodyFontSize</code>, <code>--textBodyFontWeight</code>, <code>--textBodyLineHeight</code></p>
+                        <h4 style="font-family: var(--typeface); font-size: var(--bodyBase); font-weight: 400; line-height: 1.5;">Body Style Example</h4>
+                        <p><code>--typeface</code>, <code>--bodyBase</code>, <code>400</code>, <code>1.5</code></p>
                     </div>
                     <div class="typography-item">
-                        <h4 style="font-family: var(--textLabelFontFamily); font-size: var(--textLabelFontSize); font-weight: var(--textLabelFontWeight); line-height: var(--textLabelLineHeight);">Label Style Example</h4>
-                        <p><code>--textLabelFontFamily</code>, <code>--textLabelFontSize</code>, <code>--textLabelFontWeight</code>, <code>--textLabelLineHeight</code></p>
+                        <h4 style="font-family: var(--typeface); font-size: var(--labelBase); font-weight: 500; line-height: 1.4;">Label Style Example</h4>
+                        <p><code>--typeface</code>, <code>--labelBase</code>, <code>500</code>, <code>1.4</code></p>
                     </div>
                 </div>
             </div>
@@ -490,20 +490,20 @@
                 <p>다양한 둥근 모서리 토큰들을 시각적으로 확인합니다.</p>
                 <div class="radius-grid">
                     <div class="radius-item">
-                        <div class="radius-box" style="border-radius: var(--radiusSm);"></div>
-                        <div class="radius-info"><code>--radiusSm</code></div>
+                        <div class="radius-box" style="border-radius: var(--radiusSmall);"></div>
+                        <div class="radius-info"><code>--radiusSmall</code></div>
                     </div>
                     <div class="radius-item">
-                        <div class="radius-box" style="border-radius: var(--radiusMd);"></div>
-                        <div class="radius-info"><code>--radiusMd</code></div>
+                        <div class="radius-box" style="border-radius: var(--radiusMedium);"></div>
+                        <div class="radius-info"><code>--radiusMedium</code></div>
                     </div>
                     <div class="radius-item">
-                        <div class="radius-box" style="border-radius: var(--radiusLg);"></div>
-                        <div class="radius-info"><code>--radiusLg</code></div>
+                        <div class="radius-box" style="border-radius: var(--radiusLarge);"></div>
+                        <div class="radius-info"><code>--radiusLarge</code></div>
                     </div>
                     <div class="radius-item">
-                        <div class="radius-box" style="border-radius: var(--radiusXl);"></div>
-                        <div class="radius-info"><code>--radiusXl</code></div>
+                        <div class="radius-box" style="border-radius: var(--radiusFull);"></div>
+                        <div class="radius-info"><code>--radiusFull</code></div>
                     </div>
                 </div>
             </div>

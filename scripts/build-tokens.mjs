@@ -6,6 +6,31 @@ import { register } from "@tokens-studio/sd-transforms";
 // sd-transforms를 등록하여 'tokens-studio' preprocessor와 transformGroup을 사용할 수 있게 합니다.
 register(StyleDictionary);
 
+// 커스텀 변환들을 등록
+StyleDictionary.registerTransform({
+  name: 'size/px',
+  type: 'value',
+  matcher: (token) => {
+    const isNumeric = (val) => !isNaN(parseFloat(val));
+    return (token.$type === 'dimension' || token.$type === 'fontSizes' || token.$type === 'spacing') && isNumeric(token.value);
+  },
+  transform: (token) => {
+    return `${token.value}px`;
+  },
+});
+
+StyleDictionary.registerTransform({
+  name: 'name/js',
+  type: 'name',
+  transform: (token) => {
+    // 숫자로 시작하는 이름에 prefix 추가
+    if (/^\d/.test(token.name)) {
+      return `size${token.name}`;
+    }
+    return token.name;
+  },
+});
+
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 const TOKENS_DIR = path.join(__dirname, "..", "tokens");
 
@@ -21,18 +46,6 @@ const themes = [
   { name: "dark-condensed-easy", color: "dark", typography: "easy", dimension: "condensed" }
 ];
 
-// 'size/px' 커스텀 변환 로직을 객체로 정의
-const sizePxTransform = {
-  name: 'size/px',
-  type: 'value',
-  matcher: (token) => {
-    const isNumeric = (val) => !isNaN(parseFloat(val));
-    return (token.type === 'dimension' || token.type === 'fontSizes' || token.type === 'spacing') && isNumeric(token.value);
-  },
-  transformer: (token) => {
-    return `${token.value}px`;
-  },
-};
 
 // 빌드 디렉토리 생성
 const buildDirs = ["build/web", "build/js", "build/json", "build/scss", "build/ios", "build/android"];
@@ -49,10 +62,10 @@ for (const theme of themes) {
   
   // 각 테마별 소스 파일 구성
   const sources = [
-    "tokens/primitives/**/*.json",
-    `tokens/token/color-${theme.color}.json`,
-    `tokens/token/typography-${theme.typography}.json`,
-    `tokens/token/dimension-${theme.dimension}.json`
+    "tokens/primitives/*.json",
+    `tokens/tokens/color-${theme.color}.json`,
+    `tokens/tokens/typography-${theme.typography}.json`,
+    `tokens/tokens/dimension-${theme.dimension}.json`
   ];
   
   console.log(`Sources: ${sources.join(', ')}`);
@@ -60,9 +73,6 @@ for (const theme of themes) {
   const sd = new StyleDictionary({
     source: sources,
     preprocessors: ['tokens-studio'],
-    transforms: {
-      'size/px': sizePxTransform
-    },
     platforms: {
       css: {
         transformGroup: 'tokens-studio',
@@ -90,7 +100,7 @@ for (const theme of themes) {
       },
       js: {
         transformGroup: 'tokens-studio',
-        transforms: ['size/px'],
+        transforms: ['size/px', 'name/js'],
         buildPath: 'build/js/',
         files: [{
           destination: `tokens.${theme.name}.js`,
@@ -126,12 +136,13 @@ for (const theme of themes) {
           {
             destination: `values-${theme.name}/colors.xml`,
             format: "android/colors",
-            filter: { type: "color" }
+            filter: (token) => token.$type === "color" || token.type === "color"
           },
           {
             destination: `values-${theme.name}/dimens.xml`, 
             format: "android/dimens",
-            filter: (token) => token.type === 'dimension' || token.type === 'spacing' || token.type === 'fontSizes'
+            filter: (token) => token.$type === 'dimension' || token.$type === 'spacing' || token.$type === 'fontSizes' || 
+                              token.type === 'dimension' || token.type === 'spacing' || token.type === 'fontSizes'
           },
         ],
       },

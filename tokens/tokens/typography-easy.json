@@ -3,14 +3,7 @@
     "$type": "fontFamilies",
     "$value": "{pretendard}"
   },
-  "bold": {
-    "$type": "fontWeights",
-    "$value": "{bold}"
-  },
-  "medium": {
-    "$type": "fontWeights",
-    "$value": "{medium}"
-  },
+  
   "display": {
     "large": {
       "$type": "fontSizes",
