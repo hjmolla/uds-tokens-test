@@ -76,8 +76,7 @@
     "selectedTokenSets": {
       "primitives/color": "enabled",
       "primitives/typography": "enabled",
-      "primitives/size": "enabled",
-      "tokens/color-dark": "enabled"
+      "primitives/size": "enabled"
     },
     "$figmaVariableReferences": {
       "10": "5b241e0c43414401cd3cb98d86f46f82cb7a3556",
@@ -375,8 +374,7 @@
     "selectedTokenSets": {
       "primitives/color": "enabled",
       "primitives/typography": "enabled",
-      "primitives/size": "enabled",
-      "tokens/color-light": "enabled"
+      "primitives/size": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "color"
@@ -388,8 +386,7 @@
     "selectedTokenSets": {
       "primitives/color": "enabled",
       "primitives/typography": "enabled",
-      "primitives/size": "enabled",
-      "tokens/typography-default": "enabled"
+      "primitives/size": "enabled"
     },
     "$figmaVariableReferences": {
       "10": "c572af20c964fb89dadb4a409cd3eb9e95daaafe",
@@ -577,8 +574,7 @@
     "selectedTokenSets": {
       "primitives/color": "enabled",
       "primitives/typography": "enabled",
-      "primitives/size": "enabled",
-      "tokens/dimension-default": "enabled"
+      "primitives/size": "enabled"
     },
     "$figmaVariableReferences": {
       "10": "a0c7e15eae1e9352876ad376720d2164aee509b1",
@@ -915,8 +911,7 @@
     "selectedTokenSets": {
       "primitives/color": "enabled",
       "primitives/typography": "enabled",
-      "primitives/size": "enabled",
-      "tokens/dimension-condensed": "enabled"
+      "primitives/size": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "dimension"
