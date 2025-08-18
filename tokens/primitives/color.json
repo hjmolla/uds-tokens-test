@@ -491,7 +491,7 @@
     "light": {
       "light-lime": {
         "$type": "color",
-        "$value": "#f3fac3"
+        "$value": "#ff3535"
       },
       "lime": {
         "$type": "color",
