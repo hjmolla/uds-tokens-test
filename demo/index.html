@@ -13,119 +13,170 @@
         }
 
         body {
-            background-color: var(--colorBackgroundBaseLow);
+            background: linear-gradient(135deg, var(--colorBackgroundBaseLow) 0%, var(--colorContainerBaseLow) 100%);
             color: var(--colorTextBasePrimary);
-            font-family: var(--typeface);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', var(--typeface), system-ui, sans-serif;
             font-size: var(--bodyBase);
-            line-height: 1.5;
-            transition: all 0.3s ease;
+            line-height: 1.47;
+            transition: all 0.4s cubic-bezier(0.28, 0.11, 0.32, 1);
             min-height: 100vh;
-            padding-top: 120px; /* Adjust based on fixed header height */
+            padding-top: 140px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            letter-spacing: -0.022em;
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1120px;
             margin: 0 auto;
             padding: var(--layoutInsetY24);
         }
 
         .header {
-            background: var(--colorContainerBaseHigh);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            background: var(--colorContainerBaseLowLever1);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
             border-radius: var(--radiusLarge);
             padding: var(--componentInset20);
             margin-bottom: var(--layoutInsetY24);
+            text-align: center;
         }
 
         .header h1 {
-            font-family: var(--typeface);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', var(--typeface), system-ui, sans-serif;
             font-size: var(--titleLarge);
-            font-weight: 600;
-            line-height: 1.3;
+            font-weight: 700;
+            line-height: 1.08;
+            letter-spacing: -0.025em;
             color: var(--colorTextBasePrimary);
             margin-bottom: var(--componentInset12);
+            background: linear-gradient(135deg, var(--colorTextBasePrimary) 0%, var(--colorTextBrandPrimary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .header p {
             color: var(--colorTextBaseSecondary);
             font-size: var(--bodyBase);
-            line-height: 1.5;
+            line-height: 1.47;
+            letter-spacing: -0.016em;
+            max-width: 600px;
+            margin: 0 auto;
         }
 
         .controls {
             position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 999;
-            background: var(--colorContainerBaseHigh);
-            border-bottom: 1px solid var(--colorBorderBaseTertiary);
-            padding: var(--componentInset12) var(--layoutInsetY24); /* Smaller padding */
-            display: flex; /* Use flexbox for better control */
+            top: var(--layoutInsetY8);
+            left: var(--layoutInsetX8);
+            right: var(--layoutInsetX8);
+            z-index: 1000;
+            background: var(--colorContainerBaseLow);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
+            border-radius: var(--radiusLarge);
+            padding: var(--componentInset16) var(--layoutInsetY24);
+        }
+
+        .controls-content {
+            display: flex;
             justify-content: space-around;
             align-items: center;
-            gap: var(--componentInset16);
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            gap: var(--componentInset24);
+            margin-bottom: var(--componentInset12);
         }
 
         .control-group {
-            background: none; /* Remove background */
-            border: none; /* Remove border */
-            border-radius: 0;
-            padding: 0; /* Remove padding */
             display: flex;
             flex-direction: column;
             align-items: center;
+            gap: var(--componentInset12);
+            min-width: 140px;
         }
 
         .control-group h3 {
-            font-family: var(--typeface);
-            font-size: var(--labelBase);
-            font-weight: 500;
-            line-height: 1.4;
-            margin-bottom: var(--componentInset8); /* Smaller margin */
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', var(--typeface), system-ui, sans-serif;
+            font-size: var(--labelSmall);
+            font-weight: 600;
+            line-height: 1.15;
+            letter-spacing: -0.01em;
+            margin: 0;
             color: var(--colorTextBasePrimary);
             white-space: nowrap;
+            text-transform: uppercase;
+            opacity: 0.8;
         }
 
-        .radio-group {
-            display: flex;
-            flex-direction: row; /* Arrange radio buttons in a row */
-            gap: var(--componentInset8);
-        }
-
-        .radio-item {
+        /* Toggle Switch Styles */
+        .toggle-container {
             display: flex;
             align-items: center;
             gap: var(--componentInset8);
-            padding: var(--componentInset6) var(--componentInset8); /* Smaller padding */
-            border-radius: var(--radiusSmall);
-            transition: background-color 0.2s ease;
-            cursor: pointer;
         }
 
-        .radio-item:hover {
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 24px;
+            background: var(--colorIconBaseSecondary);
+            border-radius: var(--radiusLarge);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.28, 0.11, 0.32, 1);
+        }
+
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .toggle-slider {
+            position: absolute;
+            height: 18px;
+            width: 28px;
+            left: 2px;
+            top: 2px;
             background-color: var(--colorContainerBaseLow);
+            border-radius: 12px;
+            transition: 0.3s cubic-bezier(0.28, 0.11, 0.32, 1);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
         }
 
-        .radio-item input[type="radio"] {
-            margin: 0;
+        input:checked + .toggle-slider {
+            transform: translateX(26px);
+            /* background-color: var(--colorContainerBrandPrimary);
+            border-color: var(--colorBorderBrandPrimary); */
         }
 
-        .radio-item label {
-            cursor: pointer;
-            font-size: var(--bodyBase);
+        .toggle-label {
+            font-size: var(--labelXSmall);
+            color: var(--colorTextBaseSecondary);
+            transition: color 0.3s ease;
+            min-width: 45px;
+            text-align: center;
+        }
+
+        .toggle-label.active {
             color: var(--colorTextBasePrimary);
+            font-weight: 500;
         }
+
 
         .sample-content {
             display: grid;
-            gap: var(--layoutInsetY16);
+            grid-template-columns: 1fr 1fr;
+            gap: var(--componentInset16);
+        }
+
+        @media (max-width: 1024px) {
+            .sample-content {
+                grid-template-columns: 1fr;
+            }
         }
 
         .card {
             background: var(--colorContainerBaseHigh);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
             border-radius: var(--radiusLarge);
             padding: var(--componentInset20);
         }
@@ -152,20 +203,21 @@
 
         .btn {
             padding: var(--componentInset12) var(--componentInset16);
-            border: 1px solid var(--colorBorderBrandPrimary);
+            border: 0.5px solid var(--colorBorderBrandPrimary);
             border-radius: var(--radiusMedium);
             background: var(--colorBackgroundBaseLow);
             color: var(--colorTextBrandPrimary);
             text-decoration: none;
             font-size: var(--bodyBase);
-            font-weight: 400;
-            transition: all 0.2s ease;
+            font-weight: 500;
+            transition: all 0.3s cubic-bezier(0.28, 0.11, 0.32, 1);
             cursor: pointer;
+            letter-spacing: -0.016em;
         }
 
         .btn:hover {
             background: var(--colorContainerBaseLow);
-            transform: translateY(-1px);
+            transform: translateY(-0.5px);
         }
 
         .btn-success {
@@ -181,16 +233,14 @@
         }
 
         .current-theme {
-            position: fixed;
-            top: var(--componentInset16);
-            right: var(--componentInset16);
-            background: var(--colorContainerBaseInvertedBlack);
-            color: var(--colorTextBaseInvertedWhite);
-            padding: var(--componentInset8) var(--componentInset12);
-            border-radius: var(--radiusMedium);
-            font-size: var(--labelBase);
-            font-weight: 400;
-            z-index: 1000;
+            background: var(--colorContainerBaseLow);
+            color: var(--colorTextBasePrimary);
+            padding: var(--componentInset12) var(--componentInset8) var(--componentInset2) var(--componentInset8);
+            font-size: var(--bodyBase);
+            font-weight: 600;
+            width: 100%;
+            text-align: center;
+            border-top: 0.5px solid var(--colorBorderBaseTertiary);
         }
 
         .token-info {
@@ -198,7 +248,7 @@
             background: var(--colorContainerBaseLow);
             padding: var(--componentInset16);
             border-radius: var(--radiusMedium);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
         }
 
         .token-info h3 {
@@ -229,7 +279,7 @@
             padding: var(--componentInset8);
             border-radius: var(--radiusSmall);
             background: var(--colorBackgroundBaseLow);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
         }
 
         .color-box {
@@ -246,7 +296,7 @@
 
         .spacing-item {
             background: var(--colorBackgroundBaseLow);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
             border-radius: var(--radiusSmall);
             padding: var(--componentInset8);
             display: flex;
@@ -255,13 +305,14 @@
         }
 
         .spacing-box {
-            background: var(--colorContainerBaseLow);
+            background: var(--colorContainerBrandPrimaryLow);
             height: 20px;
+            border: 1px solid var(--colorBorderBrandPrimary);
         }
 
         .typography-item {
             background: var(--colorBackgroundBaseLow);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
             border-radius: var(--radiusSmall);
             padding: var(--componentInset12);
         }
@@ -273,7 +324,7 @@
 
         .radius-item {
             background: var(--colorBackgroundBaseLow);
-            border: 1px solid var(--colorBorderBaseTertiary);
+            border: 0.5px solid var(--colorBorderBaseTertiary);
             padding: var(--componentInset12);
             display: flex;
             align-items: center;
@@ -289,10 +340,6 @@
     </style>
 </head>
 <body>
-    <div class="current-theme" id="current-theme">
-        light-default-base
-    </div>
-
     <div class="container">
         <header class="header">
             <h1>UDS 토큰 데모</h1>
@@ -300,46 +347,46 @@
         </header>
 
         <section class="controls">
-            <div class="control-group">
-                <h3>Mode (색상)</h3>
-                <div class="radio-group">
-                    <div class="radio-item">
-                        <input type="radio" id="light" name="mode" value="light" checked>
-                        <label for="light">Light 모드</label>
+            <div class="controls-content">
+                <div class="control-group">
+                    <h3>Mode (색상)</h3>
+                    <div class="toggle-container">
+                        <span class="toggle-label active" id="mode-label-left">Light</span>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="mode-toggle">
+                            <span class="toggle-slider"></span>
+                        </label>
+                        <span class="toggle-label" id="mode-label-right">Dark</span>
                     </div>
-                    <div class="radio-item">
-                        <input type="radio" id="dark" name="mode" value="dark">
-                        <label for="dark">Dark 모드</label>
+                </div>
+
+                <div class="control-group">
+                    <h3>Density (간격)</h3>
+                    <div class="toggle-container">
+                        <span class="toggle-label active" id="density-label-left">Default</span>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="density-toggle">
+                            <span class="toggle-slider"></span>
+                        </label>
+                        <span class="toggle-label" id="density-label-right">Condensed</span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <h3>Readability (텍스트)</h3>
+                    <div class="toggle-container">
+                        <span class="toggle-label active" id="readability-label-left">Base</span>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="readability-toggle">
+                            <span class="toggle-slider"></span>
+                        </label>
+                        <span class="toggle-label" id="readability-label-right">Easy</span>
                     </div>
                 </div>
             </div>
-
-            <div class="control-group">
-                <h3>Density (간격)</h3>
-                <div class="radio-group">
-                    <div class="radio-item">
-                        <input type="radio" id="default-density" name="density" value="default" checked>
-                        <label for="default-density">Default 간격</label>
-                    </div>
-                    <div class="radio-item">
-                        <input type="radio" id="condensed" name="density" value="condensed">
-                        <label for="condensed">Condensed 간격</label>
-                    </div>
-                </div>
-            </div>
-
-            <div class="control-group">
-                <h3>Readability (텍스트)</h3>
-                <div class="radio-group">
-                    <div class="radio-item">
-                        <input type="radio" id="base" name="readability" value="base" checked>
-                        <label for="base">Base 크기</label>
-                    </div>
-                    <div class="radio-item">
-                        <input type="radio" id="easy" name="readability" value="easy">
-                        <label for="easy">Easy 크기 (접근성)</label>
-                    </div>
-                </div>
+            
+            <div class="current-theme" id="current-theme">
+                light-default-base
             </div>
         </section>
 
@@ -373,137 +420,101 @@
             </div>
 
             <div class="card">
-                <h2>컬러 팔레트</h2>
-                <p>다양한 색상 토큰들을 시각적으로 확인합니다. Mode 축을 변경하여 Light/Dark 모드에서의 변화를 확인하세요.</p>
+                <h2>컬러 토큰</h2>
+                <p>Mode 축을 변경하여 Light/Dark 모드에서의 색상 변화를 확인하세요.</p>
                 <div class="color-grid">
                     <div class="color-item">
                         <div class="color-box" style="background-color: var(--colorBackgroundBaseLow);"></div>
-                        <div class="color-info"><code>--colorBackgroundBaseLow</code></div>
+                        <div class="color-info"><code>Background</code></div>
                     </div>
                     <div class="color-item">
                         <div class="color-box" style="background-color: var(--colorContainerBaseHigh);"></div>
-                        <div class="color-info"><code>--colorContainerBaseHigh</code></div>
-                    </div>
-                    <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorContainerBaseLow);"></div>
-                        <div class="color-info"><code>--colorContainerBaseLow</code></div>
+                        <div class="color-info"><code>Container</code></div>
                     </div>
                     <div class="color-item">
                         <div class="color-box" style="background-color: var(--colorTextBasePrimary);"></div>
-                        <div class="color-info"><code>--colorTextBasePrimary</code></div>
-                    </div>
-                    <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorTextBaseSecondary);"></div>
-                        <div class="color-info"><code>--colorTextBaseSecondary</code></div>
+                        <div class="color-info"><code>Text Primary</code></div>
                     </div>
                     <div class="color-item">
                         <div class="color-box" style="background-color: var(--colorTextBrandPrimary);"></div>
-                        <div class="color-info"><code>--colorTextBrandPrimary</code></div>
-                    </div>
-                    <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBorderBaseTertiary);"></div>
-                        <div class="color-info"><code>--colorBorderBaseTertiary</code></div>
-                    </div>
-                    <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorBorderBrandPrimary);"></div>
-                        <div class="color-info"><code>--colorBorderBrandPrimary</code></div>
-                    </div>
-                    <div class="color-item">
-                        <div class="color-box" style="background-color: var(--colorContainerBaseLow);"></div>
-                        <div class="color-info"><code>--colorContainerBaseLow</code></div>
+                        <div class="color-info"><code>Brand</code></div>
                     </div>
                     <div class="color-item">
                         <div class="color-box" style="background-color: var(--statusContainerPositive);"></div>
-                        <div class="color-info"><code>--statusContainerPositive</code></div>
+                        <div class="color-info"><code>Success</code></div>
                     </div>
                     <div class="color-item">
                         <div class="color-box" style="background-color: var(--statusContainerNegative);"></div>
-                        <div class="color-info"><code>--statusContainerNegative</code></div>
+                        <div class="color-info"><code>Error</code></div>
                     </div>
                 </div>
             </div>
 
             <div class="card">
-                <h2>간격 스케일</h2>
-                <p>다양한 간격 토큰들을 시각적으로 확인합니다. Density 축을 변경하여 Default/Condensed 간격의 변화를 확인하세요.</p>
+                <h2>간격 토큰</h2>
+                <p>Density 축을 변경하여 Default/Condensed 간격의 변화를 확인하세요.</p>
                 <div class="spacing-grid">
                     <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--componentInset6);"></div>
-                        <div class="spacing-info"><code>--componentInset6</code></div>
-                    </div>
-                    <div class="spacing-item">
                         <div class="spacing-box" style="width: var(--componentInset8);"></div>
-                        <div class="spacing-info"><code>--componentInset8</code></div>
+                        <div class="spacing-info"><code>Component Small</code></div>
                     </div>
                     <div class="spacing-item">
                         <div class="spacing-box" style="width: var(--componentInset12);"></div>
-                        <div class="spacing-info"><code>--componentInset12</code></div>
+                        <div class="spacing-info"><code>Component Medium</code></div>
                     </div>
                     <div class="spacing-item">
                         <div class="spacing-box" style="width: var(--componentInset16);"></div>
-                        <div class="spacing-info"><code>--componentInset16</code></div>
-                    </div>
-                    <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--componentInset20);"></div>
-                        <div class="spacing-info"><code>--componentInset20</code></div>
-                    </div>
-                    <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--layoutInsetY12);"></div>
-                        <div class="spacing-info"><code>--layoutInsetY12</code></div>
+                        <div class="spacing-info"><code>Component Large</code></div>
                     </div>
                     <div class="spacing-item">
                         <div class="spacing-box" style="width: var(--layoutInsetY16);"></div>
-                        <div class="spacing-info"><code>--layoutInsetY16</code></div>
+                        <div class="spacing-info"><code>Layout Medium</code></div>
                     </div>
                     <div class="spacing-item">
                         <div class="spacing-box" style="width: var(--layoutInsetY24);"></div>
-                        <div class="spacing-info"><code>--layoutInsetY24</code></div>
-                    </div>
-                    <div class="spacing-item">
-                        <div class="spacing-box" style="width: var(--layoutInsetY32);"></div>
-                        <div class="spacing-info"><code>--layoutInsetY32</code></div>
+                        <div class="spacing-info"><code>Layout Large</code></div>
                     </div>
                 </div>
             </div>
 
             <div class="card">
-                <h2>타이포그래피 스타일</h2>
-                <p>다양한 텍스트 스타일 토큰들을 시각적으로 확인합니다. Readability 축을 변경하여 Base/Easy 크기의 변화를 확인하세요.</p>
+                <h2>타이포그래피 토큰</h2>
+                <p>Readability 축을 변경하여 Base/Easy 크기의 변화를 확인하세요.</p>
                 <div class="typography-grid">
                     <div class="typography-item">
-                        <h4 style="font-family: var(--typeface); font-size: var(--titleBase); font-weight: 600; line-height: 1.3;">Title Style Example</h4>
-                        <p><code>--typeface</code>, <code>--titleBase</code>, <code>600</code>, <code>1.3</code></p>
+                        <h4 style="font-family: var(--typeface); font-size: var(--titleBase); font-weight: 600; line-height: 1.3;">Title Style</h4>
+                        <p><code>titleBase</code></p>
                     </div>
                     <div class="typography-item">
-                        <h4 style="font-family: var(--typeface); font-size: var(--bodyBase); font-weight: 400; line-height: 1.5;">Body Style Example</h4>
-                        <p><code>--typeface</code>, <code>--bodyBase</code>, <code>400</code>, <code>1.5</code></p>
+                        <h4 style="font-family: var(--typeface); font-size: var(--bodyBase); font-weight: 400; line-height: 1.5;">Body Style</h4>
+                        <p><code>bodyBase</code></p>
                     </div>
                     <div class="typography-item">
-                        <h4 style="font-family: var(--typeface); font-size: var(--labelBase); font-weight: 500; line-height: 1.4;">Label Style Example</h4>
-                        <p><code>--typeface</code>, <code>--labelBase</code>, <code>500</code>, <code>1.4</code></p>
+                        <h4 style="font-family: var(--typeface); font-size: var(--labelBase); font-weight: 500; line-height: 1.4;">Label Style</h4>
+                        <p><code>labelBase</code></p>
                     </div>
                 </div>
             </div>
 
             <div class="card">
-                <h2>둥근 모서리 (Border Radius)</h2>
-                <p>다양한 둥근 모서리 토큰들을 시각적으로 확인합니다.</p>
+                <h2>둥근 모서리 토큰</h2>
+                <p>다양한 둥근 모서리 스타일을 시각적으로 확인합니다.</p>
                 <div class="radius-grid">
                     <div class="radius-item">
                         <div class="radius-box" style="border-radius: var(--radiusSmall);"></div>
-                        <div class="radius-info"><code>--radiusSmall</code></div>
+                        <div class="radius-info"><code>Small</code></div>
                     </div>
                     <div class="radius-item">
                         <div class="radius-box" style="border-radius: var(--radiusMedium);"></div>
-                        <div class="radius-info"><code>--radiusMedium</code></div>
+                        <div class="radius-info"><code>Medium</code></div>
                     </div>
                     <div class="radius-item">
                         <div class="radius-box" style="border-radius: var(--radiusLarge);"></div>
-                        <div class="radius-info"><code>--radiusLarge</code></div>
+                        <div class="radius-info"><code>Large</code></div>
                     </div>
                     <div class="radius-item">
                         <div class="radius-box" style="border-radius: var(--radiusFull);"></div>
-                        <div class="radius-info"><code>--radiusFull</code></div>
+                        <div class="radius-info"><code>Full</code></div>
                     </div>
                 </div>
             </div>
@@ -514,22 +525,64 @@
         const themeCSS = document.getElementById('theme-css');
         const currentThemeDisplay = document.getElementById('current-theme');
         
-        const controls = {
-            mode: document.querySelectorAll('input[name="mode"]'),
-            density: document.querySelectorAll('input[name="density"]'), 
-            readability: document.querySelectorAll('input[name="readability"]')
+        const modeToggle = document.getElementById('mode-toggle');
+        const densityToggle = document.getElementById('density-toggle');
+        const readabilityToggle = document.getElementById('readability-toggle');
+
+        // Label elements
+        const modeLabels = {
+            left: document.getElementById('mode-label-left'),
+            right: document.getElementById('mode-label-right')
+        };
+        const densityLabels = {
+            left: document.getElementById('density-label-left'),
+            right: document.getElementById('density-label-right')
+        };
+        const readabilityLabels = {
+            left: document.getElementById('readability-label-left'),
+            right: document.getElementById('readability-label-right')
         };
 
+        function updateLabels() {
+            // Mode labels
+            if (modeToggle.checked) {
+                modeLabels.left.classList.remove('active');
+                modeLabels.right.classList.add('active');
+            } else {
+                modeLabels.left.classList.add('active');
+                modeLabels.right.classList.remove('active');
+            }
+
+            // Density labels
+            if (densityToggle.checked) {
+                densityLabels.left.classList.remove('active');
+                densityLabels.right.classList.add('active');
+            } else {
+                densityLabels.left.classList.add('active');
+                densityLabels.right.classList.remove('active');
+            }
+
+            // Readability labels
+            if (readabilityToggle.checked) {
+                readabilityLabels.left.classList.remove('active');
+                readabilityLabels.right.classList.add('active');
+            } else {
+                readabilityLabels.left.classList.add('active');
+                readabilityLabels.right.classList.remove('active');
+            }
+        }
+
         function updateTheme() {
-            const mode = document.querySelector('input[name="mode"]:checked').value;
-            const density = document.querySelector('input[name="density"]:checked').value;
-            const readability = document.querySelector('input[name="readability"]:checked').value;
+            const mode = modeToggle.checked ? 'dark' : 'light';
+            const density = densityToggle.checked ? 'condensed' : 'default';
+            const readability = readabilityToggle.checked ? 'easy' : 'base';
             
             const themeName = `${mode}-${density}-${readability}`;
             const cssPath = `../build/web/vars.${themeName}.css`;
             
             themeCSS.href = cssPath;
             currentThemeDisplay.textContent = themeName;
+            updateLabels();
             
             console.log(`🎨 테마 변경: ${themeName}`);
             
@@ -540,11 +593,9 @@
         }
 
         // 컨트롤 이벤트 리스너 등록
-        Object.values(controls).forEach(controlGroup => {
-            controlGroup.forEach(control => {
-                control.addEventListener('change', updateTheme);
-            });
-        });
+        modeToggle.addEventListener('change', updateTheme);
+        densityToggle.addEventListener('change', updateTheme);
+        readabilityToggle.addEventListener('change', updateTheme);
 
         // URL에서 테마 파라미터 복원
         const urlParams = new URLSearchParams(window.location.search);
@@ -552,26 +603,31 @@
         if (savedTheme) {
             const [mode, density, readability] = savedTheme.split('-');
             
-            if (mode) document.querySelector(`input[value="${mode}"]`)?.click();
-            if (density) document.querySelector(`input[value="${density}"]`)?.click();
-            if (readability) document.querySelector(`input[value="${readability}"]`)?.click();
+            if (mode === 'dark') modeToggle.checked = true;
+            if (density === 'condensed') densityToggle.checked = true;
+            if (readability === 'easy') readabilityToggle.checked = true;
+            
+            updateLabels();
         }
 
         // 키보드 단축키
         document.addEventListener('keydown', (e) => {
             if (e.altKey) {
                 switch(e.key) {
-                    case '1': document.querySelector('input[value="light"]').click(); break;
-                    case '2': document.querySelector('input[value="dark"]').click(); break;
-                    case '3': document.querySelector('input[value="default"]').click(); break;
-                    case '4': document.querySelector('input[value="condensed"]').click(); break;
-                    case '5': document.querySelector('input[value="base"]').click(); break;
-                    case '6': document.querySelector('input[value="easy"]').click(); break;
+                    case '1': modeToggle.checked = false; updateTheme(); break;
+                    case '2': modeToggle.checked = true; updateTheme(); break;
+                    case '3': densityToggle.checked = false; updateTheme(); break;
+                    case '4': densityToggle.checked = true; updateTheme(); break;
+                    case '5': readabilityToggle.checked = false; updateTheme(); break;
+                    case '6': readabilityToggle.checked = true; updateTheme(); break;
                 }
                 e.preventDefault();
             }
         });
 
+        // 초기 라벨 상태 설정
+        updateLabels();
+        
         console.log('🎨 UDS Tokens Demo 로드됨');
         console.log('💡 Alt + 1~6 키로 빠른 테마 전환 가능');
     </script>
