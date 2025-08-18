@@ -1,0 +1,54 @@
+{
+  "10": {
+    "$type": "fontSizes",
+    "$value": "10"
+  },
+  "12": {
+    "$type": "fontSizes",
+    "$value": "12"
+  },
+  "14": {
+    "$type": "fontSizes",
+    "$value": "14"
+  },
+  "16": {
+    "$type": "fontSizes",
+    "$value": "16"
+  },
+  "18": {
+    "$type": "fontSizes",
+    "$value": "18"
+  },
+  "20": {
+    "$type": "fontSizes",
+    "$value": "20"
+  },
+  "24": {
+    "$type": "fontSizes",
+    "$value": "24"
+  },
+  "28": {
+    "$type": "fontSizes",
+    "$value": "28"
+  },
+  "36": {
+    "$type": "fontSizes",
+    "$value": "36"
+  },
+  "pretendard": {
+    "$type": "fontFamilies",
+    "$value": "pretendard"
+  },
+  "bold": {
+    "$type": "fontWeights",
+    "$value": "bold"
+  },
+  "medium": {
+    "$type": "fontWeights",
+    "$value": "medium"
+  },
+  "none": {
+    "$type": "fontSizes",
+    "$value": "0"
+  }
+}
