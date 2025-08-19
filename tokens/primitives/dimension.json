@@ -5,7 +5,7 @@
       "$value": "4px"
     },
     "sm": {
-      "$type": "dimension", 
+      "$type": "dimension",
       "$value": "8px"
     },
     "md": {

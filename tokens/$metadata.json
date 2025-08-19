@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "primitives/color",
-    "primitives/typography", 
+    "primitives/typography",
     "primitives/dimension",
     "semantic/color-light",
     "semantic/color-dark",
