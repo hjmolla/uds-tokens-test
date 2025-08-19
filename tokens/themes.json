@@ -1,0 +1,179 @@
+[
+  {
+    "id": "light-default-default",
+    "name": "Light Default Default",
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source", 
+      "primitives/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled"
+    },
+    "group": "Light Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "modes": {
+      "semantic/color": "light",
+      "semantic/typography": "default",
+      "semantic/spacing": "default"
+    }
+  },
+  {
+    "id": "light-default-condensed",
+    "name": "Light Default Condensed", 
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source",
+      "primitives/dimension": "source", 
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled"
+    },
+    "group": "Light Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "light",
+      "semantic/typography": "default", 
+      "semantic/spacing": "condensed"
+    }
+  },
+  {
+    "id": "light-easy-default",
+    "name": "Light Easy Default",
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source",
+      "primitives/dimension": "source",
+      "semantic/color": "enabled", 
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled"
+    },
+    "group": "Light Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "light",
+      "semantic/typography": "easy",
+      "semantic/spacing": "default"
+    }
+  },
+  {
+    "id": "light-easy-condensed", 
+    "name": "Light Easy Condensed",
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source",
+      "primitives/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled", 
+      "semantic/spacing": "enabled"
+    },
+    "group": "Light Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "light",
+      "semantic/typography": "easy",
+      "semantic/spacing": "condensed"
+    }
+  },
+  {
+    "id": "dark-default-default",
+    "name": "Dark Default Default",
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source",
+      "primitives/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled" 
+    },
+    "group": "Dark Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "dark",
+      "semantic/typography": "default",
+      "semantic/spacing": "default"
+    }
+  },
+  {
+    "id": "dark-default-condensed",
+    "name": "Dark Default Condensed",
+    "selectedTokenSets": {
+      "primitives/color": "source", 
+      "primitives/typography": "source",
+      "primitives/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled"
+    },
+    "group": "Dark Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "dark",
+      "semantic/typography": "default",
+      "semantic/spacing": "condensed"
+    }
+  },
+  {
+    "id": "dark-easy-default",
+    "name": "Dark Easy Default",
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source",
+      "primitives/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled"
+    },
+    "group": "Dark Mode", 
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "dark",
+      "semantic/typography": "easy",
+      "semantic/spacing": "default"
+    }
+  },
+  {
+    "id": "dark-easy-condensed",
+    "name": "Dark Easy Condensed",
+    "selectedTokenSets": {
+      "primitives/color": "source",
+      "primitives/typography": "source",
+      "primitives/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/spacing": "enabled"
+    },
+    "group": "Dark Mode",
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "modes": {
+      "semantic/color": "dark", 
+      "semantic/typography": "easy",
+      "semantic/spacing": "condensed"
+    }
+  }
+]

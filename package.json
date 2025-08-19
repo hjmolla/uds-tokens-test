@@ -1,9 +1,9 @@
 {
   "name": "uds-tokens",
   "version": "1.0.0",
-  "description": "UDS Design Tokens - Unified Design System with 3-axis theming (mode × density × readability)",
+  "description": "UDS Design Tokens - Streamlined 3-axis theming system (color: light/dark × typography: default/easy × spacing: default/condensed)",
   "type": "module",
-  "main": "build/js/tokens.light-default-base.js",
+  "main": "build/js/tokens.light-default-default.js",
   "files": [
     "build/**/*",
     "tokens/**/*.json"

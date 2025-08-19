@@ -1,13 +1,10 @@
 {
   "tokenSetOrder": [
     "primitives/color",
-    "primitives/typography",
-    "primitives/size",
-    "semantics/color-light",
-    "semantics/color-dark",
-    "semantics/typography-default",
-    "semantics/typography-easy",
-    "semantics/dimension-default",
-    "semantics/dimension-condensed"
+    "primitives/typography", 
+    "primitives/dimension",
+    "semantic/color",
+    "semantic/typography",
+    "semantic/spacing"
   ]
 }

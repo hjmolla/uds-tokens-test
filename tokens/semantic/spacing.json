@@ -1,0 +1,291 @@
+{
+  "spacing": {
+    "layout": {
+      "gap": {
+        "4": {
+          "$type": "spacing",
+          "$value": {
+            "default": "4",
+            "condensed": "2"
+          }
+        },
+        "8": {
+          "$type": "spacing",
+          "$value": {
+            "default": "8",
+            "condensed": "6"
+          }
+        },
+        "16": {
+          "$type": "spacing",
+          "$value": {
+            "default": "16",
+            "condensed": "12"
+          }
+        }
+      },
+      "inset-y": {
+        "4": {
+          "$type": "spacing",
+          "$value": {
+            "default": "4",
+            "condensed": "2"
+          }
+        },
+        "8": {
+          "$type": "spacing",
+          "$value": {
+            "default": "8",
+            "condensed": "6"
+          }
+        },
+        "12": {
+          "$type": "spacing",
+          "$value": {
+            "default": "12",
+            "condensed": "8"
+          }
+        },
+        "16": {
+          "$type": "spacing",
+          "$value": {
+            "default": "16",
+            "condensed": "12"
+          }
+        },
+        "20": {
+          "$type": "spacing",
+          "$value": {
+            "default": "20",
+            "condensed": "16"
+          }
+        },
+        "24": {
+          "$type": "spacing",
+          "$value": {
+            "default": "24",
+            "condensed": "18"
+          }
+        },
+        "28": {
+          "$type": "spacing",
+          "$value": {
+            "default": "28",
+            "condensed": "20"
+          }
+        },
+        "32": {
+          "$type": "spacing",
+          "$value": {
+            "default": "32",
+            "condensed": "24"
+          }
+        },
+        "36": {
+          "$type": "spacing",
+          "$value": {
+            "default": "36",
+            "condensed": "28"
+          }
+        },
+        "40": {
+          "$type": "spacing",
+          "$value": {
+            "default": "40",
+            "condensed": "32"
+          }
+        },
+        "none": {
+          "$type": "spacing",
+          "$value": {
+            "default": "0",
+            "condensed": "0"
+          }
+        }
+      },
+      "inset-x": {
+        "16": {
+          "$type": "spacing",
+          "$value": {
+            "default": "16",
+            "condensed": "12"
+          }
+        },
+        "20": {
+          "$type": "spacing",
+          "$value": {
+            "default": "20",
+            "condensed": "16"
+          }
+        },
+        "none": {
+          "$type": "spacing",
+          "$value": {
+            "default": "0",
+            "condensed": "0"
+          }
+        }
+      }
+    },
+    "component": {
+      "inset": {
+        "2": {
+          "$type": "spacing",
+          "$value": {
+            "default": "2",
+            "condensed": "1"
+          }
+        },
+        "4": {
+          "$type": "spacing",
+          "$value": {
+            "default": "4",
+            "condensed": "2"
+          }
+        },
+        "6": {
+          "$type": "spacing",
+          "$value": {
+            "default": "6",
+            "condensed": "4"
+          }
+        },
+        "8": {
+          "$type": "spacing",
+          "$value": {
+            "default": "8",
+            "condensed": "6"
+          }
+        },
+        "10": {
+          "$type": "spacing",
+          "$value": {
+            "default": "10",
+            "condensed": "8"
+          }
+        },
+        "12": {
+          "$type": "spacing",
+          "$value": {
+            "default": "12",
+            "condensed": "8"
+          }
+        },
+        "14": {
+          "$type": "spacing",
+          "$value": {
+            "default": "14",
+            "condensed": "10"
+          }
+        },
+        "16": {
+          "$type": "spacing",
+          "$value": {
+            "default": "16",
+            "condensed": "12"
+          }
+        },
+        "18": {
+          "$type": "spacing",
+          "$value": {
+            "default": "18",
+            "condensed": "14"
+          }
+        },
+        "20": {
+          "$type": "spacing",
+          "$value": {
+            "default": "20",
+            "condensed": "16"
+          }
+        },
+        "none": {
+          "$type": "spacing",
+          "$value": {
+            "default": "0",
+            "condensed": "0"
+          }
+        }
+      },
+      "gap": {
+        "2": {
+          "$type": "spacing",
+          "$value": {
+            "default": "2",
+            "condensed": "1"
+          }
+        },
+        "4": {
+          "$type": "spacing",
+          "$value": {
+            "default": "4",
+            "condensed": "2"
+          }
+        },
+        "6": {
+          "$type": "spacing",
+          "$value": {
+            "default": "6",
+            "condensed": "4"
+          }
+        },
+        "8": {
+          "$type": "spacing",
+          "$value": {
+            "default": "8",
+            "condensed": "6"
+          }
+        },
+        "10": {
+          "$type": "spacing",
+          "$value": {
+            "default": "10",
+            "condensed": "8"
+          }
+        },
+        "12": {
+          "$type": "spacing",
+          "$value": {
+            "default": "12",
+            "condensed": "8"
+          }
+        },
+        "14": {
+          "$type": "spacing",
+          "$value": {
+            "default": "14",
+            "condensed": "10"
+          }
+        },
+        "16": {
+          "$type": "spacing",
+          "$value": {
+            "default": "16",
+            "condensed": "12"
+          }
+        },
+        "18": {
+          "$type": "spacing",
+          "$value": {
+            "default": "18",
+            "condensed": "14"
+          }
+        },
+        "20": {
+          "$type": "spacing",
+          "$value": {
+            "default": "20",
+            "condensed": "16"
+          }
+        },
+        "none": {
+          "$type": "spacing",
+          "$value": {
+            "default": "0",
+            "condensed": "0"
+          }
+        }
+      }
+    }
+  }
+}
