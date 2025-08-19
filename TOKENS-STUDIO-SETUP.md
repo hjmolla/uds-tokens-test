@@ -5,42 +5,96 @@
 In Tokens Studio, you should see these token sets:
 
 ```
-primitives/color     (source - always active)
-primitives/typography (source - always active)  
-primitives/dimension (source - always active)
-semantic/color      (enabled - with modes)
-semantic/typography (enabled - with modes)
-semantic/spacing    (enabled - with modes)
+primitives/color              (source - always active)
+primitives/typography         (source - always active)  
+primitives/dimension          (source - always active)
+semantic/color-light         (mode-specific set)
+semantic/color-dark          (mode-specific set)
+semantic/typography-default  (mode-specific set)
+semantic/typography-easy     (mode-specific set)
+semantic/spacing-default     (mode-specific set)
+semantic/spacing-condensed   (mode-specific set)
 ```
 
-## 2. Mode Configuration
+## 2. No Mode Configuration Needed
 
-### For `semantic/color` token set:
-- Add modes: `light`, `dark`
-- Set default mode: `light`
-
-### For `semantic/typography` token set:
-- Add modes: `default`, `easy`
-- Set default mode: `default`
-
-### For `semantic/spacing` token set:
-- Add modes: `default`, `condensed`
-- Set default mode: `default`
+With this structure, **no mode configuration is needed** in individual token sets. Instead, modes are handled by **enabling/disabling specific token sets** per theme.
 
 ## 3. Theme Setup (8 themes total)
 
-Create these themes in Tokens Studio:
+Create these themes in Tokens Studio by **enabling the correct token sets**:
 
-| Theme Name | Color Mode | Typography Mode | Spacing Mode |
-|------------|------------|-----------------|--------------|
-| `light-default-default` | light | default | default |
-| `light-default-condensed` | light | default | condensed |
-| `light-easy-default` | light | easy | default |
-| `light-easy-condensed` | light | easy | condensed |
-| `dark-default-default` | dark | default | default |
-| `dark-default-condensed` | dark | default | condensed |
-| `dark-easy-default` | dark | easy | default |
-| `dark-easy-condensed` | dark | easy | condensed |
+### Theme: `light-default-default`
+- ✅ `primitives/*` (source)
+- ✅ `semantic/color-light` (enabled)
+- ❌ `semantic/color-dark` (disabled)
+- ✅ `semantic/typography-default` (enabled)
+- ❌ `semantic/typography-easy` (disabled)
+- ✅ `semantic/spacing-default` (enabled)
+- ❌ `semantic/spacing-condensed` (disabled)
+
+### Theme: `light-default-condensed`
+- ✅ `primitives/*` (source)
+- ✅ `semantic/color-light` (enabled)
+- ❌ `semantic/color-dark` (disabled)
+- ✅ `semantic/typography-default` (enabled)
+- ❌ `semantic/typography-easy` (disabled)
+- ❌ `semantic/spacing-default` (disabled)
+- ✅ `semantic/spacing-condensed` (enabled)
+
+### Theme: `light-easy-default`
+- ✅ `primitives/*` (source)
+- ✅ `semantic/color-light` (enabled)
+- ❌ `semantic/color-dark` (disabled)
+- ❌ `semantic/typography-default` (disabled)
+- ✅ `semantic/typography-easy` (enabled)
+- ✅ `semantic/spacing-default` (enabled)
+- ❌ `semantic/spacing-condensed` (disabled)
+
+### Theme: `light-easy-condensed`
+- ✅ `primitives/*` (source)
+- ✅ `semantic/color-light` (enabled)
+- ❌ `semantic/color-dark` (disabled)
+- ❌ `semantic/typography-default` (disabled)
+- ✅ `semantic/typography-easy` (enabled)
+- ❌ `semantic/spacing-default` (disabled)
+- ✅ `semantic/spacing-condensed` (enabled)
+
+### Theme: `dark-default-default`
+- ✅ `primitives/*` (source)
+- ❌ `semantic/color-light` (disabled)
+- ✅ `semantic/color-dark` (enabled)
+- ✅ `semantic/typography-default` (enabled)
+- ❌ `semantic/typography-easy` (disabled)
+- ✅ `semantic/spacing-default` (enabled)
+- ❌ `semantic/spacing-condensed` (disabled)
+
+### Theme: `dark-default-condensed`
+- ✅ `primitives/*` (source)
+- ❌ `semantic/color-light` (disabled)
+- ✅ `semantic/color-dark` (enabled)
+- ✅ `semantic/typography-default` (enabled)
+- ❌ `semantic/typography-easy` (disabled)
+- ❌ `semantic/spacing-default` (disabled)
+- ✅ `semantic/spacing-condensed` (enabled)
+
+### Theme: `dark-easy-default`
+- ✅ `primitives/*` (source)
+- ❌ `semantic/color-light` (disabled)
+- ✅ `semantic/color-dark` (enabled)
+- ❌ `semantic/typography-default` (disabled)
+- ✅ `semantic/typography-easy` (enabled)
+- ✅ `semantic/spacing-default` (enabled)
+- ❌ `semantic/spacing-condensed` (disabled)
+
+### Theme: `dark-easy-condensed`
+- ✅ `primitives/*` (source)
+- ❌ `semantic/color-light` (disabled)
+- ✅ `semantic/color-dark` (enabled)
+- ❌ `semantic/typography-default` (disabled)
+- ✅ `semantic/typography-easy` (enabled)
+- ❌ `semantic/spacing-default` (disabled)
+- ✅ `semantic/spacing-condensed` (enabled)
 
 ## 4. GitHub Sync Setup
 

@@ -1,0 +1,80 @@
+{
+  "spacing": {
+    "layout": {
+      "gap": {
+        "xs": {
+          "$type": "spacing",
+          "$value": "4"
+        },
+        "sm": {
+          "$type": "spacing",
+          "$value": "8"
+        },
+        "md": {
+          "$type": "spacing",
+          "$value": "16"
+        },
+        "lg": {
+          "$type": "spacing",
+          "$value": "24"
+        }
+      },
+      "inset": {
+        "xs": {
+          "$type": "spacing",
+          "$value": "4"
+        },
+        "sm": {
+          "$type": "spacing",
+          "$value": "8"
+        },
+        "md": {
+          "$type": "spacing",
+          "$value": "16"
+        },
+        "lg": {
+          "$type": "spacing",
+          "$value": "24"
+        },
+        "xl": {
+          "$type": "spacing",
+          "$value": "32"
+        }
+      }
+    },
+    "component": {
+      "inset": {
+        "xs": {
+          "$type": "spacing",
+          "$value": "2"
+        },
+        "sm": {
+          "$type": "spacing",
+          "$value": "4"
+        },
+        "md": {
+          "$type": "spacing",
+          "$value": "8"
+        },
+        "lg": {
+          "$type": "spacing",
+          "$value": "12"
+        }
+      },
+      "gap": {
+        "xs": {
+          "$type": "spacing",
+          "$value": "2"
+        },
+        "sm": {
+          "$type": "spacing",
+          "$value": "4"
+        },
+        "md": {
+          "$type": "spacing",
+          "$value": "8"
+        }
+      }
+    }
+  }
+}

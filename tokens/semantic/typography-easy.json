@@ -1,0 +1,68 @@
+{
+  "typography": {
+    "typeface": {
+      "$type": "fontFamilies",
+      "$value": "{pretendard}"
+    },
+    "display": {
+      "large": {
+        "$type": "fontSizes",
+        "$value": "{36}"
+      },
+      "base": {
+        "$type": "fontSizes",
+        "$value": "{28}"
+      }
+    },
+    "title": {
+      "large": {
+        "$type": "fontSizes",
+        "$value": "{28}"
+      },
+      "base": {
+        "$type": "fontSizes",
+        "$value": "{24}"
+      },
+      "small": {
+        "$type": "fontSizes",
+        "$value": "{20}"
+      },
+      "xSmall": {
+        "$type": "fontSizes",
+        "$value": "{18}"
+      }
+    },
+    "body": {
+      "large": {
+        "$type": "fontSizes",
+        "$value": "{20}"
+      },
+      "base": {
+        "$type": "fontSizes",
+        "$value": "{18}"
+      },
+      "small": {
+        "$type": "fontSizes",
+        "$value": "{16}"
+      },
+      "xSmall": {
+        "$type": "fontSizes",
+        "$value": "{14}"
+      }
+    },
+    "label": {
+      "large": {
+        "$type": "fontSizes",
+        "$value": "{18}"
+      },
+      "base": {
+        "$type": "fontSizes",
+        "$value": "{16}"
+      },
+      "small": {
+        "$type": "fontSizes",
+        "$value": "{14}"
+      }
+    }
+  }
+}

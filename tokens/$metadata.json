@@ -3,8 +3,11 @@
     "primitives/color",
     "primitives/typography", 
     "primitives/dimension",
-    "semantic/color",
-    "semantic/typography",
-    "semantic/spacing"
+    "semantic/color-light",
+    "semantic/color-dark",
+    "semantic/typography-default",
+    "semantic/typography-easy",
+    "semantic/spacing-default",
+    "semantic/spacing-condensed"
   ]
 }

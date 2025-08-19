@@ -46,87 +46,26 @@ buildDirs.forEach(dir => {
 
 console.log("🎨 Building 8-theme streamlined token system...");
 
-// Function to resolve mode values for a specific theme
-function resolveTokensForTheme(theme) {
-  const resolvedTokens = {};
-  
-  // Load primitives (no modes)
-  const primitiveFiles = ['color.json', 'typography.json', 'dimension.json'];
-  primitiveFiles.forEach(file => {
-    const filePath = path.join(TOKENS_DIR, 'primitives', file);
-    if (fs.existsSync(filePath)) {
-      const tokens = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      Object.assign(resolvedTokens, tokens);
-    }
-  });
-  
-  // Load and resolve semantic tokens based on theme modes
-  const semanticFiles = [
-    { file: 'color.json', mode: theme.modes['semantic/color'] },
-    { file: 'typography.json', mode: theme.modes['semantic/typography'] }, 
-    { file: 'spacing.json', mode: theme.modes['semantic/spacing'] }
-  ];
-  
-  semanticFiles.forEach(({ file, mode }) => {
-    const filePath = path.join(TOKENS_DIR, 'semantic', file);
-    if (fs.existsSync(filePath)) {
-      const tokens = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      const resolved = resolveSemanticTokens(tokens, mode);
-      Object.assign(resolvedTokens, resolved);
-    }
-  });
-  
-  return resolvedTokens;
-}
-
-// Function to resolve semantic tokens for a specific mode using $extensions
-function resolveSemanticTokens(tokens, mode) {
-  const resolved = {};
-  
-  function processTokens(obj, path = []) {
-    for (const [key, value] of Object.entries(obj)) {
-      const currentPath = [...path, key];
-      
-      if (value && typeof value === 'object') {
-        if (value.$type && value.$value) {
-          // This is a token with value
-          let resolvedValue = value.$value;
-          
-          // Check for mode-specific overrides in $extensions
-          if (value.$extensions && value.$extensions['uds.modes'] && value.$extensions['uds.modes'][mode]) {
-            resolvedValue = value.$extensions['uds.modes'][mode];
-          }
-          
-          resolved[currentPath.join('.')] = {
-            ...value,
-            $value: resolvedValue,
-            // Remove $extensions from output to keep it clean
-            $extensions: undefined
-          };
-        } else {
-          // This is a group, recurse
-          processTokens(value, currentPath);
-        }
-      }
-    }
-  }
-  
-  processTokens(tokens);
-  return resolved;
-}
-
 for (const theme of themes) {
   console.log(`\\n📦 Building theme: ${theme.id}`);
   
-  // Resolve tokens for this specific theme
-  const resolvedTokens = resolveTokensForTheme(theme);
+  // Build source files array based on theme's selectedTokenSets
+  const sources = [];
   
-  // Write resolved tokens to temporary file for this theme
-  const tempTokensPath = path.join(TOKENS_DIR, `temp-${theme.id}.json`);
-  fs.writeFileSync(tempTokensPath, JSON.stringify(resolvedTokens, null, 2));
+  // Add primitives (always source)
+  sources.push("tokens/primitives/*.json");
+  
+  // Add enabled semantic token sets
+  for (const [tokenSet, status] of Object.entries(theme.selectedTokenSets)) {
+    if (status === 'enabled' && tokenSet.startsWith('semantic/')) {
+      sources.push(`tokens/${tokenSet}.json`);
+    }
+  }
+  
+  console.log(`   Sources: ${sources.join(', ')}`);
   
   const sd = new StyleDictionary({
-    source: [tempTokensPath],
+    source: sources,
     preprocessors: ['tokens-studio'],
     platforms: {
       css: {
@@ -205,10 +144,6 @@ for (const theme of themes) {
   });
 
   await sd.buildAllPlatforms();
-  
-  // Clean up temporary file
-  fs.unlinkSync(tempTokensPath);
-  
   console.log(`   ✅ ${theme.id} built`);
 }
 

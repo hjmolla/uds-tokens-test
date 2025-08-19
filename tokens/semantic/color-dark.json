@@ -1,0 +1,100 @@
+{
+  "state": {
+    "stateLayer": {
+      "pressed-low": {
+        "$type": "color",
+        "$value": "{alpha.white.8}"
+      },
+      "pressed-high": {
+        "$type": "color",
+        "$value": "{alpha.black.8}"
+      },
+      "focused": {
+        "$type": "color",
+        "$value": "{bw.white}"
+      }
+    }
+  },
+  "color": {
+    "icon": {
+      "base": {
+        "inverted": {
+          "$type": "color",
+          "$value": "{bw.dark.black}"
+        },
+        "primary": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.900}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.500}"
+        },
+        "white": {
+          "$type": "color",
+          "$value": "{bw.white}"
+        }
+      },
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "{magenta.dark.500}"
+        },
+        "primary-high": {
+          "$type": "color",
+          "$value": "{magenta.dark.300}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{naturalGray.light.10}"
+        }
+      }
+    },
+    "text": {
+      "base": {
+        "primary": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.900}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.800}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.700}"
+        },
+        "white": {
+          "$type": "color",
+          "$value": "{bw.white}"
+        }
+      },
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "{magenta.dark.600}"
+        }
+      }
+    },
+    "background": {
+      "base": {
+        "canvas": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.10}"
+        },
+        "surface": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.50}"
+        }
+      }
+    },
+    "border": {
+      "base": {
+        "default": {
+          "$type": "color",
+          "$value": "{naturalGray.dark.300}"
+        }
+      }
+    }
+  }
+}

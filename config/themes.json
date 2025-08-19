@@ -6,21 +6,14 @@
       "primitives/color": "source",
       "primitives/typography": "source", 
       "primitives/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "enabled",
+      "semantic/color-dark": "disabled",
+      "semantic/typography-default": "enabled",
+      "semantic/typography-easy": "disabled",
+      "semantic/spacing-default": "enabled",
+      "semantic/spacing-condensed": "disabled"
     },
-    "group": "Light Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "$figmaVariableReferences": {},
-    "modes": {
-      "semantic/color": "light",
-      "semantic/typography": "default",
-      "semantic/spacing": "default"
-    }
+    "group": "Light Mode"
   },
   {
     "id": "light-default-condensed",
@@ -29,20 +22,14 @@
       "primitives/color": "source",
       "primitives/typography": "source",
       "primitives/dimension": "source", 
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "enabled",
+      "semantic/color-dark": "disabled",
+      "semantic/typography-default": "enabled",
+      "semantic/typography-easy": "disabled",
+      "semantic/spacing-default": "disabled",
+      "semantic/spacing-condensed": "enabled"
     },
-    "group": "Light Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "light",
-      "semantic/typography": "default", 
-      "semantic/spacing": "condensed"
-    }
+    "group": "Light Mode"
   },
   {
     "id": "light-easy-default",
@@ -51,20 +38,14 @@
       "primitives/color": "source",
       "primitives/typography": "source",
       "primitives/dimension": "source",
-      "semantic/color": "enabled", 
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "enabled",
+      "semantic/color-dark": "disabled", 
+      "semantic/typography-default": "disabled",
+      "semantic/typography-easy": "enabled",
+      "semantic/spacing-default": "enabled",
+      "semantic/spacing-condensed": "disabled"
     },
-    "group": "Light Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "light",
-      "semantic/typography": "easy",
-      "semantic/spacing": "default"
-    }
+    "group": "Light Mode"
   },
   {
     "id": "light-easy-condensed", 
@@ -73,20 +54,14 @@
       "primitives/color": "source",
       "primitives/typography": "source",
       "primitives/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled", 
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "enabled",
+      "semantic/color-dark": "disabled",
+      "semantic/typography-default": "disabled",
+      "semantic/typography-easy": "enabled", 
+      "semantic/spacing-default": "disabled",
+      "semantic/spacing-condensed": "enabled"
     },
-    "group": "Light Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "light",
-      "semantic/typography": "easy",
-      "semantic/spacing": "condensed"
-    }
+    "group": "Light Mode"
   },
   {
     "id": "dark-default-default",
@@ -95,20 +70,14 @@
       "primitives/color": "source",
       "primitives/typography": "source",
       "primitives/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled" 
+      "semantic/color-light": "disabled",
+      "semantic/color-dark": "enabled",
+      "semantic/typography-default": "enabled",
+      "semantic/typography-easy": "disabled",
+      "semantic/spacing-default": "enabled",
+      "semantic/spacing-condensed": "disabled" 
     },
-    "group": "Dark Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "dark",
-      "semantic/typography": "default",
-      "semantic/spacing": "default"
-    }
+    "group": "Dark Mode"
   },
   {
     "id": "dark-default-condensed",
@@ -117,20 +86,14 @@
       "primitives/color": "source", 
       "primitives/typography": "source",
       "primitives/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "disabled",
+      "semantic/color-dark": "enabled",
+      "semantic/typography-default": "enabled",
+      "semantic/typography-easy": "disabled",
+      "semantic/spacing-default": "disabled",
+      "semantic/spacing-condensed": "enabled"
     },
-    "group": "Dark Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "dark",
-      "semantic/typography": "default",
-      "semantic/spacing": "condensed"
-    }
+    "group": "Dark Mode"
   },
   {
     "id": "dark-easy-default",
@@ -139,20 +102,14 @@
       "primitives/color": "source",
       "primitives/typography": "source",
       "primitives/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "disabled",
+      "semantic/color-dark": "enabled",
+      "semantic/typography-default": "disabled",
+      "semantic/typography-easy": "enabled",
+      "semantic/spacing-default": "enabled",
+      "semantic/spacing-condensed": "disabled"
     },
-    "group": "Dark Mode", 
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "dark",
-      "semantic/typography": "easy",
-      "semantic/spacing": "default"
-    }
+    "group": "Dark Mode"
   },
   {
     "id": "dark-easy-condensed",
@@ -161,19 +118,13 @@
       "primitives/color": "source",
       "primitives/typography": "source",
       "primitives/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/spacing": "enabled"
+      "semantic/color-light": "disabled",
+      "semantic/color-dark": "enabled",
+      "semantic/typography-default": "disabled",
+      "semantic/typography-easy": "enabled",
+      "semantic/spacing-default": "disabled",
+      "semantic/spacing-condensed": "enabled"
     },
-    "group": "Dark Mode",
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {},
-    "$figmaCollectionId": "",
-    "$figmaModeId": "",
-    "modes": {
-      "semantic/color": "dark", 
-      "semantic/typography": "easy",
-      "semantic/spacing": "condensed"
-    }
+    "group": "Dark Mode"
   }
 ]
