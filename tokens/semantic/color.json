@@ -5,12 +5,6 @@
         "$type": "color",
         "$value": "{alpha.black.16}",
         "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16"
-            }
-          },
           "uds.modes": {
             "light": "{alpha.black.16}",
             "dark": "{alpha.white.8}"

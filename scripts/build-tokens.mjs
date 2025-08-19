@@ -33,7 +33,7 @@ const __dirname = path.dirname(new URL(import.meta.url).pathname);
 const TOKENS_DIR = path.join(__dirname, "..", "tokens");
 
 // Load themes configuration
-const themesPath = path.join(TOKENS_DIR, "themes.json");
+const themesPath = path.join(__dirname, "..", "config", "themes.json");
 const themes = JSON.parse(fs.readFileSync(themesPath, 'utf8'));
 
 // Create build directories
