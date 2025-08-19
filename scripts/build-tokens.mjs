@@ -79,7 +79,7 @@ function resolveTokensForTheme(theme) {
   return resolvedTokens;
 }
 
-// Function to resolve semantic tokens for a specific mode
+// Function to resolve semantic tokens for a specific mode using $extensions
 function resolveSemanticTokens(tokens, mode) {
   const resolved = {};
   
@@ -90,16 +90,19 @@ function resolveSemanticTokens(tokens, mode) {
       if (value && typeof value === 'object') {
         if (value.$type && value.$value) {
           // This is a token with value
-          if (typeof value.$value === 'object' && value.$value[mode]) {
-            // Token has mode-specific values
-            resolved[currentPath.join('.')] = {
-              ...value,
-              $value: value.$value[mode]
-            };
-          } else if (typeof value.$value === 'string') {
-            // Token has single value (no modes)
-            resolved[currentPath.join('.')] = value;
+          let resolvedValue = value.$value;
+          
+          // Check for mode-specific overrides in $extensions
+          if (value.$extensions && value.$extensions['uds.modes'] && value.$extensions['uds.modes'][mode]) {
+            resolvedValue = value.$extensions['uds.modes'][mode];
           }
+          
+          resolved[currentPath.join('.')] = {
+            ...value,
+            $value: resolvedValue,
+            // Remove $extensions from output to keep it clean
+            $extensions: undefined
+          };
         } else {
           // This is a group, recurse
           processTokens(value, currentPath);

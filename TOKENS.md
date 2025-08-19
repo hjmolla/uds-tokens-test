@@ -55,16 +55,19 @@ tokens/
 }
 ```
 
-### Semantics (With Modes)
+### Semantics (With Mode Extensions)
 ```json
 {
   "color": {
     "text": {
       "primary": {
-        "$type": "color", 
-        "$value": {
-          "light": "{bw.light.black}",
-          "dark": "{naturalGray.dark.900}"
+        "$type": "color",
+        "$value": "{bw.light.black}",
+        "$extensions": {
+          "uds.modes": {
+            "light": "{bw.light.black}",
+            "dark": "{naturalGray.dark.900}"
+          }
         }
       }
     }
@@ -77,9 +80,16 @@ tokens/
 The build system automatically:
 
 1. **Loads theme configurations** from `tokens/themes.json`
-2. **Resolves mode values** for each theme combination
+2. **Resolves mode values** from `$extensions.uds.modes` for each theme combination
 3. **Generates platform outputs** (CSS, SCSS, JS, JSON, iOS, Android)
 4. **Creates 8× outputs** per platform (one per theme)
+
+### Mode Resolution with Extensions
+
+The system uses GitHub Primer's `$extensions` pattern:
+- **Base value**: Default fallback in `$value`
+- **Mode overrides**: Specific values in `$extensions.uds.modes.{mode}`
+- **Build-time resolution**: Resolves correct value per theme during build
 
 ### Build Commands
 

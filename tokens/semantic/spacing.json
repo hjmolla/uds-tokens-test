@@ -2,287 +2,172 @@
   "spacing": {
     "layout": {
       "gap": {
-        "4": {
+        "xs": {
           "$type": "spacing",
-          "$value": {
-            "default": "4",
-            "condensed": "2"
+          "$value": "4",
+          "$extensions": {
+            "uds.modes": {
+              "default": "4",
+              "condensed": "2"
+            }
           }
         },
-        "8": {
+        "sm": {
           "$type": "spacing",
-          "$value": {
-            "default": "8",
-            "condensed": "6"
+          "$value": "8",
+          "$extensions": {
+            "uds.modes": {
+              "default": "8",
+              "condensed": "6"
+            }
           }
         },
-        "16": {
+        "md": {
           "$type": "spacing",
-          "$value": {
-            "default": "16",
-            "condensed": "12"
+          "$value": "16",
+          "$extensions": {
+            "uds.modes": {
+              "default": "16",
+              "condensed": "12"
+            }
+          }
+        },
+        "lg": {
+          "$type": "spacing",
+          "$value": "24",
+          "$extensions": {
+            "uds.modes": {
+              "default": "24",
+              "condensed": "18"
+            }
           }
         }
       },
-      "inset-y": {
-        "4": {
+      "inset": {
+        "xs": {
           "$type": "spacing",
-          "$value": {
-            "default": "4",
-            "condensed": "2"
+          "$value": "4",
+          "$extensions": {
+            "uds.modes": {
+              "default": "4",
+              "condensed": "2"
+            }
           }
         },
-        "8": {
+        "sm": {
           "$type": "spacing",
-          "$value": {
-            "default": "8",
-            "condensed": "6"
+          "$value": "8",
+          "$extensions": {
+            "uds.modes": {
+              "default": "8",
+              "condensed": "6"
+            }
           }
         },
-        "12": {
+        "md": {
           "$type": "spacing",
-          "$value": {
-            "default": "12",
-            "condensed": "8"
+          "$value": "16",
+          "$extensions": {
+            "uds.modes": {
+              "default": "16",
+              "condensed": "12"
+            }
           }
         },
-        "16": {
+        "lg": {
           "$type": "spacing",
-          "$value": {
-            "default": "16",
-            "condensed": "12"
+          "$value": "24",
+          "$extensions": {
+            "uds.modes": {
+              "default": "24",
+              "condensed": "18"
+            }
           }
         },
-        "20": {
+        "xl": {
           "$type": "spacing",
-          "$value": {
-            "default": "20",
-            "condensed": "16"
-          }
-        },
-        "24": {
-          "$type": "spacing",
-          "$value": {
-            "default": "24",
-            "condensed": "18"
-          }
-        },
-        "28": {
-          "$type": "spacing",
-          "$value": {
-            "default": "28",
-            "condensed": "20"
-          }
-        },
-        "32": {
-          "$type": "spacing",
-          "$value": {
-            "default": "32",
-            "condensed": "24"
-          }
-        },
-        "36": {
-          "$type": "spacing",
-          "$value": {
-            "default": "36",
-            "condensed": "28"
-          }
-        },
-        "40": {
-          "$type": "spacing",
-          "$value": {
-            "default": "40",
-            "condensed": "32"
-          }
-        },
-        "none": {
-          "$type": "spacing",
-          "$value": {
-            "default": "0",
-            "condensed": "0"
-          }
-        }
-      },
-      "inset-x": {
-        "16": {
-          "$type": "spacing",
-          "$value": {
-            "default": "16",
-            "condensed": "12"
-          }
-        },
-        "20": {
-          "$type": "spacing",
-          "$value": {
-            "default": "20",
-            "condensed": "16"
-          }
-        },
-        "none": {
-          "$type": "spacing",
-          "$value": {
-            "default": "0",
-            "condensed": "0"
+          "$value": "32",
+          "$extensions": {
+            "uds.modes": {
+              "default": "32",
+              "condensed": "24"
+            }
           }
         }
       }
     },
     "component": {
       "inset": {
-        "2": {
+        "xs": {
           "$type": "spacing",
-          "$value": {
-            "default": "2",
-            "condensed": "1"
+          "$value": "2",
+          "$extensions": {
+            "uds.modes": {
+              "default": "2",
+              "condensed": "1"
+            }
           }
         },
-        "4": {
+        "sm": {
           "$type": "spacing",
-          "$value": {
-            "default": "4",
-            "condensed": "2"
+          "$value": "4",
+          "$extensions": {
+            "uds.modes": {
+              "default": "4",
+              "condensed": "2"
+            }
           }
         },
-        "6": {
+        "md": {
           "$type": "spacing",
-          "$value": {
-            "default": "6",
-            "condensed": "4"
+          "$value": "8",
+          "$extensions": {
+            "uds.modes": {
+              "default": "8",
+              "condensed": "6"
+            }
           }
         },
-        "8": {
+        "lg": {
           "$type": "spacing",
-          "$value": {
-            "default": "8",
-            "condensed": "6"
-          }
-        },
-        "10": {
-          "$type": "spacing",
-          "$value": {
-            "default": "10",
-            "condensed": "8"
-          }
-        },
-        "12": {
-          "$type": "spacing",
-          "$value": {
-            "default": "12",
-            "condensed": "8"
-          }
-        },
-        "14": {
-          "$type": "spacing",
-          "$value": {
-            "default": "14",
-            "condensed": "10"
-          }
-        },
-        "16": {
-          "$type": "spacing",
-          "$value": {
-            "default": "16",
-            "condensed": "12"
-          }
-        },
-        "18": {
-          "$type": "spacing",
-          "$value": {
-            "default": "18",
-            "condensed": "14"
-          }
-        },
-        "20": {
-          "$type": "spacing",
-          "$value": {
-            "default": "20",
-            "condensed": "16"
-          }
-        },
-        "none": {
-          "$type": "spacing",
-          "$value": {
-            "default": "0",
-            "condensed": "0"
+          "$value": "12",
+          "$extensions": {
+            "uds.modes": {
+              "default": "12",
+              "condensed": "8"
+            }
           }
         }
       },
       "gap": {
-        "2": {
+        "xs": {
           "$type": "spacing",
-          "$value": {
-            "default": "2",
-            "condensed": "1"
+          "$value": "2",
+          "$extensions": {
+            "uds.modes": {
+              "default": "2",
+              "condensed": "1"
+            }
           }
         },
-        "4": {
+        "sm": {
           "$type": "spacing",
-          "$value": {
-            "default": "4",
-            "condensed": "2"
+          "$value": "4",
+          "$extensions": {
+            "uds.modes": {
+              "default": "4",
+              "condensed": "2"
+            }
           }
         },
-        "6": {
+        "md": {
           "$type": "spacing",
-          "$value": {
-            "default": "6",
-            "condensed": "4"
-          }
-        },
-        "8": {
-          "$type": "spacing",
-          "$value": {
-            "default": "8",
-            "condensed": "6"
-          }
-        },
-        "10": {
-          "$type": "spacing",
-          "$value": {
-            "default": "10",
-            "condensed": "8"
-          }
-        },
-        "12": {
-          "$type": "spacing",
-          "$value": {
-            "default": "12",
-            "condensed": "8"
-          }
-        },
-        "14": {
-          "$type": "spacing",
-          "$value": {
-            "default": "14",
-            "condensed": "10"
-          }
-        },
-        "16": {
-          "$type": "spacing",
-          "$value": {
-            "default": "16",
-            "condensed": "12"
-          }
-        },
-        "18": {
-          "$type": "spacing",
-          "$value": {
-            "default": "18",
-            "condensed": "14"
-          }
-        },
-        "20": {
-          "$type": "spacing",
-          "$value": {
-            "default": "20",
-            "condensed": "16"
-          }
-        },
-        "none": {
-          "$type": "spacing",
-          "$value": {
-            "default": "0",
-            "condensed": "0"
+          "$value": "8",
+          "$extensions": {
+            "uds.modes": {
+              "default": "8",
+              "condensed": "6"
+            }
           }
         }
       }

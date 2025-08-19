@@ -7,120 +7,126 @@
     "display": {
       "large": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{36}",
-          "easy": "{36}"
-        }
+        "$value": "{36}"
       },
       "base": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{28}",
-          "easy": "{28}"
-        }
+        "$value": "{28}"
       }
     },
     "title": {
       "large": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{24}",
-          "easy": "{28}"
+        "$value": "{24}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{24}",
+            "easy": "{28}"
+          }
         }
       },
       "base": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{20}",
-          "easy": "{24}"
+        "$value": "{20}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{20}",
+            "easy": "{24}"
+          }
         }
       },
       "small": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "18",
-          "easy": "{20}"
+        "$value": "18",
+        "$extensions": {
+          "uds.modes": {
+            "default": "18",
+            "easy": "{20}"
+          }
         }
       },
       "xSmall": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{16}",
-          "easy": "{18}"
+        "$value": "{16}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{16}",
+            "easy": "{18}"
+          }
         }
       }
     },
     "body": {
       "large": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{18}",
-          "easy": "{20}"
+        "$value": "{18}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{18}",
+            "easy": "{20}"
+          }
         }
       },
       "base": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{16}",
-          "easy": "{18}"
+        "$value": "{16}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{16}",
+            "easy": "{18}"
+          }
         }
       },
       "small": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{14}",
-          "easy": "{16}"
+        "$value": "{14}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{14}",
+            "easy": "{16}"
+          }
         }
       },
       "xSmall": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{12}",
-          "easy": "{14}"
+        "$value": "{12}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{12}",
+            "easy": "{14}"
+          }
         }
       }
     },
     "label": {
-      "xLarge": {
-        "$type": "fontSizes",
-        "$value": {
-          "default": "{18}",
-          "easy": "{20}"
-        }
-      },
       "large": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{16}",
-          "easy": "{18}"
+        "$value": "{16}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{16}",
+            "easy": "{18}"
+          }
         }
       },
       "base": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{14}",
-          "easy": "{16}"
+        "$value": "{14}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{14}",
+            "easy": "{16}"
+          }
         }
       },
       "small": {
         "$type": "fontSizes",
-        "$value": {
-          "default": "{12}",
-          "easy": "{14}"
-        }
-      },
-      "xSmall": {
-        "$type": "fontSizes",
-        "$value": {
-          "default": "{10}",
-          "easy": "{12}"
-        }
-      },
-      "height-none": {
-        "$type": "fontSizes",
-        "$value": {
-          "default": "{none}",
-          "easy": "{none}"
+        "$value": "{12}",
+        "$extensions": {
+          "uds.modes": {
+            "default": "{12}",
+            "easy": "{14}"
+          }
         }
       }
     }
