@@ -12,10 +12,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "display",
-              "large"
             ]
           },
           "resolved-value": "36px"
@@ -32,10 +28,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "display",
-              "base"
             ]
           },
           "resolved-value": "28px"
@@ -54,10 +46,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "title",
-              "large"
             ]
           },
           "resolved-value": "28px"
@@ -74,10 +62,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "title",
-              "base"
             ]
           },
           "resolved-value": "24px"
@@ -94,10 +78,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "title",
-              "small"
             ]
           },
           "resolved-value": "20px"
@@ -114,10 +94,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "title",
-              "xSmall"
             ]
           },
           "resolved-value": "18px"
@@ -136,10 +112,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "body",
-              "large"
             ]
           },
           "resolved-value": "20px"
@@ -156,10 +128,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "body",
-              "base"
             ]
           },
           "resolved-value": "18px"
@@ -176,10 +144,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "body",
-              "small"
             ]
           },
           "resolved-value": "16px"
@@ -196,10 +160,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "body",
-              "xSmall"
             ]
           },
           "resolved-value": "14px"
@@ -218,10 +178,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "label",
-              "large"
             ]
           },
           "resolved-value": "18px"
@@ -238,10 +194,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "label",
-              "base"
             ]
           },
           "resolved-value": "16px"
@@ -258,10 +210,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "label",
-              "small"
             ]
           },
           "resolved-value": "14px"
@@ -278,10 +226,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "label",
-              "xSmall"
             ]
           },
           "resolved-value": "12px"
@@ -298,10 +242,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "label",
-              "height-none"
             ]
           }
         }
@@ -317,10 +257,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "FONT_SIZE"
-            ],
-            "originalPath": [
-              "label",
-              "xLarge"
             ]
           },
           "resolved-value": "20px"
@@ -338,9 +274,6 @@
           "resolvedType": "STRING",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "typeface"
           ]
         },
         "resolved-value": "pretendard"
@@ -357,9 +290,6 @@
           "resolvedType": "STRING",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "bold"
           ]
         },
         "resolved-value": "bold"
@@ -376,9 +306,6 @@
           "resolvedType": "STRING",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "medium"
           ]
         },
         "resolved-value": "medium"
