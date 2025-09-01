@@ -1,0 +1,145 @@
+{
+  "token-typography": {
+    "display": {
+      "large": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:216"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:218"
+        }
+      }
+    },
+    "title": {
+      "large": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:215"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:214"
+        }
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:223"
+        }
+      },
+      "xSmall": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:213"
+        }
+      }
+    },
+    "body": {
+      "large": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:223"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:213"
+        }
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:220"
+        }
+      },
+      "xSmall": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:225"
+        }
+      }
+    },
+    "label": {
+      "large": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:213"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:220"
+        }
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:225"
+        }
+      },
+      "xSmall": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:224"
+        }
+      },
+      "height-none": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:222"
+        }
+      },
+      "xLarge": {
+        "$type": "dimension",
+        "$value": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:475:223"
+        }
+      }
+    },
+    "typeface": {
+      "$type": "string",
+      "$value": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:475:217"
+      }
+    },
+    "bold": {
+      "$type": "string",
+      "$value": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:475:221"
+      }
+    },
+    "medium": {
+      "$type": "string",
+      "$value": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:475:219"
+      }
+    }
+  }
+}
