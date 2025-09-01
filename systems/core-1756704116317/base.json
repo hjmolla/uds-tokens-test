@@ -14,12 +14,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "10"
                 ]
               }
             }
@@ -35,12 +29,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "50"
                 ]
               }
             }
@@ -56,12 +44,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "100"
                 ]
               }
             }
@@ -77,12 +59,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "200"
                 ]
               }
             }
@@ -98,12 +74,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "300"
                 ]
               }
             }
@@ -119,12 +89,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "400"
                 ]
               }
             }
@@ -140,12 +104,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "500"
                 ]
               }
             }
@@ -161,12 +119,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "600"
                 ]
               }
             }
@@ -182,12 +134,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "700"
                 ]
               }
             }
@@ -203,12 +149,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "800"
                 ]
               }
             }
@@ -224,12 +164,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "light",
-                  "900"
                 ]
               }
             }
@@ -247,12 +181,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "10"
                 ]
               }
             }
@@ -268,12 +196,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "50"
                 ]
               }
             }
@@ -289,12 +211,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "100"
                 ]
               }
             }
@@ -310,12 +226,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "200"
                 ]
               }
             }
@@ -331,12 +241,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "300"
                 ]
               }
             }
@@ -352,12 +256,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "400"
                 ]
               }
             }
@@ -373,12 +271,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "500"
                 ]
               }
             }
@@ -394,12 +286,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "600"
                 ]
               }
             }
@@ -415,12 +301,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "700"
                 ]
               }
             }
@@ -436,12 +316,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "800"
                 ]
               }
             }
@@ -457,12 +331,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "neutralGray",
-                  "dark",
-                  "900"
                 ]
               }
             }
@@ -482,12 +350,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "10"
                 ]
               }
             }
@@ -503,12 +365,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "50"
                 ]
               }
             }
@@ -524,12 +380,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "100"
                 ]
               }
             }
@@ -545,12 +395,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "200"
                 ]
               }
             }
@@ -566,12 +410,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "300"
                 ]
               }
             }
@@ -587,12 +425,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "400"
                 ]
               }
             }
@@ -608,12 +440,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "500"
                 ]
               }
             }
@@ -629,12 +455,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "600"
                 ]
               }
             }
@@ -650,12 +470,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "700"
                 ]
               }
             }
@@ -671,12 +485,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "800"
                 ]
               }
             }
@@ -692,12 +500,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "light",
-                  "900"
                 ]
               }
             }
@@ -715,12 +517,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "10"
                 ]
               }
             }
@@ -736,12 +532,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "50"
                 ]
               }
             }
@@ -757,12 +547,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "100"
                 ]
               }
             }
@@ -778,12 +562,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "200"
                 ]
               }
             }
@@ -799,12 +577,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "300"
                 ]
               }
             }
@@ -820,12 +592,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "400"
                 ]
               }
             }
@@ -841,12 +607,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "500"
                 ]
               }
             }
@@ -862,12 +622,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "600"
                 ]
               }
             }
@@ -883,12 +637,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "700"
                 ]
               }
             }
@@ -904,12 +652,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "800"
                 ]
               }
             }
@@ -925,12 +667,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "red",
-                  "dark",
-                  "900"
                 ]
               }
             }
@@ -950,12 +686,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "10"
                 ]
               }
             }
@@ -971,12 +701,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "50"
                 ]
               }
             }
@@ -992,12 +716,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "100"
                 ]
               }
             }
@@ -1013,12 +731,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "200"
                 ]
               }
             }
@@ -1034,12 +746,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "300"
                 ]
               }
             }
@@ -1055,12 +761,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "400"
                 ]
               }
             }
@@ -1076,12 +776,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "500"
                 ]
               }
             }
@@ -1097,12 +791,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "600"
                 ]
               }
             }
@@ -1118,12 +806,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "700"
                 ]
               }
             }
@@ -1139,12 +821,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "800"
                 ]
               }
             }
@@ -1160,12 +836,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "light",
-                  "900"
                 ]
               }
             }
@@ -1183,12 +853,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "10"
                 ]
               }
             }
@@ -1204,12 +868,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "50"
                 ]
               }
             }
@@ -1225,12 +883,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "100"
                 ]
               }
             }
@@ -1246,12 +898,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "200"
                 ]
               }
             }
@@ -1267,12 +913,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "300"
                 ]
               }
             }
@@ -1288,12 +928,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "400"
                 ]
               }
             }
@@ -1309,12 +943,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "500"
                 ]
               }
             }
@@ -1330,12 +958,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "600"
                 ]
               }
             }
@@ -1351,12 +973,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "700"
                 ]
               }
             }
@@ -1372,12 +988,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "800"
                 ]
               }
             }
@@ -1393,12 +1003,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "blue",
-                  "dark",
-                  "900"
                 ]
               }
             }
@@ -1418,12 +1022,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "10"
                 ]
               }
             }
@@ -1439,12 +1037,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "50"
                 ]
               }
             }
@@ -1460,12 +1052,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "100"
                 ]
               }
             }
@@ -1481,12 +1067,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "200"
                 ]
               }
             }
@@ -1502,12 +1082,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "300"
                 ]
               }
             }
@@ -1523,12 +1097,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "400"
                 ]
               }
             }
@@ -1544,12 +1112,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "500"
                 ]
               }
             }
@@ -1565,12 +1127,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "600"
                 ]
               }
             }
@@ -1586,12 +1142,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "700"
                 ]
               }
             }
@@ -1607,12 +1157,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "800"
                 ]
               }
             }
@@ -1628,12 +1172,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "light",
-                  "900"
                 ]
               }
             }
@@ -1651,12 +1189,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "10"
                 ]
               }
             }
@@ -1672,12 +1204,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "50"
                 ]
               }
             }
@@ -1693,12 +1219,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "100"
                 ]
               }
             }
@@ -1714,12 +1234,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "200"
                 ]
               }
             }
@@ -1735,12 +1249,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "300"
                 ]
               }
             }
@@ -1756,12 +1264,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "400"
                 ]
               }
             }
@@ -1777,12 +1279,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "500"
                 ]
               }
             }
@@ -1798,12 +1294,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "600"
                 ]
               }
             }
@@ -1819,12 +1309,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "700"
                 ]
               }
             }
@@ -1840,12 +1324,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "800"
                 ]
               }
             }
@@ -1861,12 +1339,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "green",
-                  "dark",
-                  "900"
                 ]
               }
             }
@@ -1886,12 +1358,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "pink",
-                  "light",
-                  "light-pink"
                 ]
               }
             }
@@ -1907,12 +1373,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "pink",
-                  "light",
-                  "pink"
                 ]
               }
             }
@@ -1932,12 +1392,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "lime",
-                  "light",
-                  "light-lime"
                 ]
               }
             }
@@ -1953,12 +1407,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "lime",
-                  "light",
-                  "lime"
                 ]
               }
             }
@@ -1978,12 +1426,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "10"
                 ]
               }
             }
@@ -1999,12 +1441,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "50"
                 ]
               }
             }
@@ -2020,12 +1456,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "100"
                 ]
               }
             }
@@ -2041,12 +1471,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "200"
                 ]
               }
             }
@@ -2062,12 +1486,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "300"
                 ]
               }
             }
@@ -2083,12 +1501,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "400"
                 ]
               }
             }
@@ -2104,12 +1516,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "500"
                 ]
               }
             }
@@ -2125,12 +1531,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "600"
                 ]
               }
             }
@@ -2146,12 +1546,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "700"
                 ]
               }
             }
@@ -2167,12 +1561,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "800"
                 ]
               }
             }
@@ -2188,12 +1576,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "light",
-                  "900"
                 ]
               }
             }
@@ -2211,12 +1593,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "10"
                 ]
               }
             }
@@ -2232,12 +1608,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "50"
                 ]
               }
             }
@@ -2253,12 +1623,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "100"
                 ]
               }
             }
@@ -2274,12 +1638,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "200"
                 ]
               }
             }
@@ -2295,12 +1653,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "300"
                 ]
               }
             }
@@ -2316,12 +1668,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "400"
                 ]
               }
             }
@@ -2337,12 +1683,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "500"
                 ]
               }
             }
@@ -2358,12 +1698,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "600"
                 ]
               }
             }
@@ -2379,12 +1713,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "700"
                 ]
               }
             }
@@ -2400,12 +1728,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "800"
                 ]
               }
             }
@@ -2421,12 +1743,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "magenta",
-                  "dark",
-                  "900"
                 ]
               }
             }
@@ -2443,11 +1759,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "color",
-                "magenta",
-                "brightMagenta-ios"
               ]
             },
             "resolved-value": "#fa2993"
@@ -2464,11 +1775,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "color",
-                "magenta",
-                "brightMagenta-android"
               ]
             }
           }
@@ -2487,12 +1793,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "bw",
-                  "light",
-                  "black"
                 ]
               },
               "resolved-value": "#1a1a1a"
@@ -2511,12 +1811,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "bw",
-                  "dark",
-                  "black"
                 ]
               }
             }
@@ -2533,11 +1827,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "color",
-                "bw",
-                "white"
               ]
             }
           }
@@ -2556,10 +1845,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-8"
             ]
           }
         }
@@ -2575,10 +1860,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-16"
             ]
           }
         }
@@ -2594,10 +1875,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-24"
             ]
           }
         }
@@ -2613,10 +1890,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-40"
             ]
           }
         }
@@ -2632,10 +1905,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-64"
             ]
           }
         }
@@ -2651,10 +1920,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-80"
             ]
           }
         }
@@ -2670,10 +1935,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-8"
             ]
           }
         }
@@ -2689,10 +1950,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-16"
             ]
           }
         }
@@ -2708,10 +1965,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-24"
             ]
           }
         }
@@ -2727,10 +1980,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-40"
             ]
           }
         }
@@ -2746,10 +1995,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-64"
             ]
           }
         }
@@ -2765,10 +2010,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-80"
             ]
           }
         }
@@ -2784,10 +2025,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "white-0"
             ]
           }
         }
@@ -2803,10 +2040,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "alpha",
-              "black-0"
             ]
           }
         }
@@ -2825,9 +2058,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "10"
           ]
         }
       }
@@ -2843,9 +2073,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "12"
           ]
         }
       }
@@ -2861,9 +2088,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "14"
           ]
         }
       }
@@ -2879,9 +2103,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "16"
           ]
         }
       }
@@ -2897,9 +2118,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "18"
           ]
         }
       }
@@ -2915,9 +2133,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "20"
           ]
         }
       }
@@ -2933,9 +2148,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "24"
           ]
         }
       }
@@ -2951,9 +2163,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "28"
           ]
         }
       }
@@ -2969,9 +2178,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "36"
           ]
         }
       }
@@ -2987,9 +2193,6 @@
           "resolvedType": "STRING",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "pretendard"
           ]
         }
       }
@@ -3005,9 +2208,6 @@
           "resolvedType": "STRING",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "medium"
           ]
         }
       }
@@ -3023,9 +2223,6 @@
           "resolvedType": "STRING",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "bold"
           ]
         }
       }
@@ -3041,9 +2238,6 @@
           "resolvedType": "FLOAT",
           "scopes": [
             "ALL_SCOPES"
-          ],
-          "originalPath": [
-            "none"
           ]
         }
       }
@@ -3062,10 +2256,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "CORNER_RADIUS"
-            ],
-            "originalPath": [
-              "radius",
-              "full"
             ]
           }
         }
@@ -3081,10 +2271,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "CORNER_RADIUS"
-            ],
-            "originalPath": [
-              "radius",
-              "small"
             ]
           }
         }
@@ -3100,10 +2286,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "CORNER_RADIUS"
-            ],
-            "originalPath": [
-              "radius",
-              "medium"
             ]
           }
         }
@@ -3119,10 +2301,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "CORNER_RADIUS"
-            ],
-            "originalPath": [
-              "radius",
-              "none"
             ]
           }
         }
@@ -3138,10 +2316,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "CORNER_RADIUS"
-            ],
-            "originalPath": [
-              "radius",
-              "large"
             ]
           }
         }
@@ -3160,11 +2334,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "gap",
-                "2"
               ]
             }
           }
@@ -3180,11 +2349,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "gap",
-                "4"
               ]
             }
           }
@@ -3200,11 +2364,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "gap",
-                "8"
               ]
             }
           }
@@ -3220,11 +2379,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "gap",
-                "12"
               ]
             }
           }
@@ -3240,11 +2394,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "gap",
-                "none"
               ]
             }
           }
@@ -3262,11 +2411,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "4"
               ]
             }
           }
@@ -3282,11 +2426,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "8"
               ]
             }
           }
@@ -3302,11 +2441,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "10"
               ]
             }
           }
@@ -3322,11 +2456,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "12"
               ]
             }
           }
@@ -3342,11 +2471,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "16"
               ]
             }
           }
@@ -3362,11 +2486,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "20"
               ]
             }
           }
@@ -3382,11 +2501,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-x",
-                "none"
               ]
             }
           }
@@ -3404,11 +2518,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-y",
-                "4"
               ]
             }
           }
@@ -3424,11 +2533,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-y",
-                "6"
               ]
             }
           }
@@ -3444,11 +2548,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-y",
-                "8"
               ]
             }
           }
@@ -3464,11 +2563,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-y",
-                "10"
               ]
             }
           }
@@ -3484,11 +2578,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "componet",
-                "spacing-y",
-                "14"
               ]
             }
           }
@@ -3508,11 +2597,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "4"
               ]
             }
           }
@@ -3528,11 +2612,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "8"
               ]
             }
           }
@@ -3548,11 +2627,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "12"
               ]
             }
           }
@@ -3568,11 +2642,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "16"
               ]
             }
           }
@@ -3588,11 +2657,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "20"
               ]
             }
           }
@@ -3608,11 +2672,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "24"
               ]
             }
           }
@@ -3628,11 +2687,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "28"
               ]
             }
           }
@@ -3648,11 +2702,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "32"
               ]
             }
           }
@@ -3668,11 +2717,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "36"
               ]
             }
           }
@@ -3688,11 +2732,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "40"
               ]
             }
           }
@@ -3708,11 +2747,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-y",
-                "none"
               ]
             }
           }
@@ -3730,11 +2764,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "gap",
-                "4"
               ]
             }
           }
@@ -3750,11 +2779,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "gap",
-                "8"
               ]
             }
           }
@@ -3770,11 +2794,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "gap",
-                "12"
               ]
             }
           }
@@ -3790,11 +2809,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "gap",
-                "16"
               ]
             }
           }
@@ -3812,11 +2826,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-x",
-                "0"
               ]
             }
           }
@@ -3832,11 +2841,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-x",
-                "16"
               ]
             }
           }
@@ -3852,11 +2856,6 @@
               "resolvedType": "FLOAT",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "layout",
-                "spacing-x",
-                "20"
               ]
             }
           }
@@ -3884,10 +2883,6 @@
               "PARAGRAPH_SPACING",
               "PARAGRAPH_INDENT",
               "FONT_VARIATIONS"
-            ],
-            "originalPath": [
-              "width",
-              "1"
             ]
           }
         }
@@ -3912,10 +2907,6 @@
               "PARAGRAPH_SPACING",
               "PARAGRAPH_INDENT",
               "FONT_VARIATIONS"
-            ],
-            "originalPath": [
-              "width",
-              "2"
             ]
           }
         }
@@ -3935,10 +2926,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "systemIcon",
-              "16"
             ]
           }
         }
@@ -3954,10 +2941,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "systemIcon",
-              "20"
             ]
           }
         }
@@ -3973,10 +2956,6 @@
             "resolvedType": "FLOAT",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "systemIcon",
-              "24"
             ]
           }
         }
