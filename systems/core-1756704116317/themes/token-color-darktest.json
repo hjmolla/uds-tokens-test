@@ -14,12 +14,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "frame",
-                  "base",
-                  "high"
                 ]
               },
               "resolved-value": "#0a0a0a"
@@ -36,12 +30,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "frame",
-                  "base",
-                  "low"
                 ]
               },
               "resolved-value": "#0a0a0a"
@@ -62,12 +50,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "background",
-                  "base",
-                  "low"
                 ]
               },
               "resolved-value": "#0a0a0a"
@@ -84,12 +66,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "background",
-                  "base",
-                  "high"
                 ]
               },
               "resolved-value": "#0a0a0a"
@@ -106,12 +82,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "background",
-                  "base",
-                  "low-level2"
                 ]
               },
               "resolved-value": "#262626"
@@ -128,12 +98,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "background",
-                  "base",
-                  "low-level1"
                 ]
               },
               "resolved-value": "#1f1f1f"
@@ -150,12 +114,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "background",
-                  "base",
-                  "high-level1"
                 ]
               },
               "resolved-value": "#1f1f1f"
@@ -176,12 +134,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "brand",
-                  "primary"
                 ]
               },
               "resolved-value": "#f91589"
@@ -198,12 +150,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "brand",
-                  "secondary"
                 ]
               },
               "resolved-value": "#303030"
@@ -220,12 +166,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "brand",
-                  "primaryLow"
                 ]
               },
               "resolved-value": "#36212b"
@@ -242,12 +182,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "brand",
-                  "primaryHigh"
                 ]
               },
               "resolved-value": "#e50675"
@@ -266,12 +200,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "higher"
                 ]
               },
               "resolved-value": "#262626"
@@ -288,12 +216,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "InvertedBlack"
                 ]
               },
               "resolved-value": "#fafafa"
@@ -310,12 +232,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "InvertedWhite"
                 ]
               },
               "resolved-value": "#050505"
@@ -332,12 +248,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "high"
                 ]
               },
               "resolved-value": "#0a0a0a"
@@ -354,12 +264,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "high-level1"
                 ]
               },
               "resolved-value": "#1f1f1f"
@@ -376,12 +280,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "white"
                 ]
               },
               "resolved-value": "#ffffff"
@@ -398,12 +296,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "low-level1"
                 ]
               },
               "resolved-value": "#1f1f1f"
@@ -420,12 +312,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "container",
-                  "base",
-                  "low"
                 ]
               },
               "resolved-value": "#0a0a0a"
@@ -446,12 +332,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "brand",
-                  "primary"
                 ]
               },
               "resolved-value": "#ee53a1"
@@ -468,12 +348,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "brand",
-                  "primaryHigh"
                 ]
               },
               "resolved-value": "#ee53a1"
@@ -490,12 +364,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "brand",
-                  "secondary"
                 ]
               },
               "resolved-value": "#fcfcfc"
@@ -512,12 +380,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "brand",
-                  "primaryHigher"
                 ]
               },
               "resolved-value": "#f91589"
@@ -536,12 +398,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "base",
-                  "primary"
                 ]
               },
               "resolved-value": "#fafafa"
@@ -558,12 +414,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "base",
-                  "secondary"
                 ]
               },
               "resolved-value": "#d1d1d1"
@@ -580,12 +430,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "base",
-                  "quaternary"
                 ]
               },
               "resolved-value": "#8a8a8a"
@@ -602,12 +446,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "base",
-                  "white"
                 ]
               },
               "resolved-value": "#ffffff"
@@ -624,12 +462,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "base",
-                  "tertiary"
                 ]
               },
               "resolved-value": "#adadad"
@@ -646,12 +478,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "text",
-                  "base",
-                  "InvertedWhite"
                 ]
               },
               "resolved-value": "#050505"
@@ -672,12 +498,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "brand",
-                  "primaryHigh"
                 ]
               },
               "resolved-value": "#e50675"
@@ -694,12 +514,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "brand",
-                  "primary"
                 ]
               },
               "resolved-value": "#f91589"
@@ -716,12 +530,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "brand",
-                  "secondary"
                 ]
               },
               "resolved-value": "#fcfcfc"
@@ -740,12 +548,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "base",
-                  "primary"
                 ]
               },
               "resolved-value": "#fafafa"
@@ -762,12 +564,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "base",
-                  "secondary"
                 ]
               },
               "resolved-value": "#6b6b6b"
@@ -784,12 +580,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "base",
-                  "white"
                 ]
               },
               "resolved-value": "#ffffff"
@@ -806,12 +596,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "icon",
-                  "base",
-                  "InvertedWhite"
                 ]
               },
               "resolved-value": "#050505"
@@ -832,12 +616,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "border",
-                  "brand",
-                  "primary"
                 ]
               },
               "resolved-value": "#f91589"
@@ -854,12 +632,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "border",
-                  "brand",
-                  "primaryHigh"
                 ]
               },
               "resolved-value": "#ee53a1"
@@ -876,12 +648,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "border",
-                  "brand",
-                  "secondary"
                 ]
               },
               "resolved-value": "#fafafa"
@@ -900,12 +666,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "border",
-                  "base",
-                  "low"
                 ]
               },
               "resolved-value": "#474747"
@@ -922,12 +682,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "border",
-                  "base",
-                  "higher"
                 ]
               },
               "resolved-value": "#303030"
@@ -944,12 +698,6 @@
                 "resolvedType": "COLOR",
                 "scopes": [
                   "ALL_SCOPES"
-                ],
-                "originalPath": [
-                  "color",
-                  "border",
-                  "base",
-                  "high"
                 ]
               },
               "resolved-value": "#474747"
@@ -971,11 +719,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "container",
-                "selected"
               ]
             },
             "resolved-value": "#fafafa"
@@ -992,11 +735,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "container",
-                "disabled"
               ]
             },
             "resolved-value": "#262626"
@@ -1013,11 +751,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "container",
-                "infomative"
               ]
             },
             "resolved-value": "#192438"
@@ -1034,11 +767,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "container",
-                "negative"
               ]
             },
             "resolved-value": "#381919"
@@ -1055,11 +783,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "container",
-                "positive"
               ]
             },
             "resolved-value": "#132a13"
@@ -1078,11 +801,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "icon",
-                "disabled"
               ]
             },
             "resolved-value": "#ffffff29"
@@ -1099,11 +817,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "icon",
-                "infomative"
               ]
             },
             "resolved-value": "#72a0fe"
@@ -1120,11 +833,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "icon",
-                "negative"
               ]
             },
             "resolved-value": "#e54343"
@@ -1141,11 +849,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "icon",
-                "positive"
               ]
             },
             "resolved-value": "#54d455"
@@ -1162,11 +865,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "icon",
-                "selected"
               ]
             },
             "resolved-value": "#ffffff"
@@ -1183,11 +881,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "icon",
-                "disabledWhite"
               ]
             },
             "resolved-value": "#ffffff66"
@@ -1205,10 +898,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "status",
-              "white"
             ]
           },
           "resolved-value": "#ffffff"
@@ -1226,11 +915,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "text",
-                "disabled"
               ]
             },
             "resolved-value": "#ffffff29"
@@ -1247,11 +931,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "text",
-                "infomative"
               ]
             },
             "resolved-value": "#72a0fe"
@@ -1268,11 +947,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "text",
-                "negative"
               ]
             },
             "resolved-value": "#fd6868"
@@ -1289,11 +963,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "text",
-                "positive"
               ]
             },
             "resolved-value": "#31c433"
@@ -1310,11 +979,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "text",
-                "selected"
               ]
             },
             "resolved-value": "#ffffff"
@@ -1331,11 +995,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "text",
-                "disabled-inventedWhite"
               ]
             },
             "resolved-value": "#1a1a1a66"
@@ -1354,11 +1013,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "border",
-                "disabled"
               ]
             },
             "resolved-value": "#ffffff3d"
@@ -1375,11 +1029,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "border",
-                "selected"
               ]
             },
             "resolved-value": "#ffffff"
@@ -1396,11 +1045,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "border",
-                "infomative"
               ]
             },
             "resolved-value": "#72a0fe"
@@ -1417,11 +1061,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "border",
-                "negative"
               ]
             },
             "resolved-value": "#e54343"
@@ -1438,11 +1077,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "status",
-                "border",
-                "positive"
               ]
             },
             "resolved-value": "#54d455"
@@ -1462,10 +1096,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "state",
-              "focused"
             ]
           },
           "resolved-value": "#ffffff"
@@ -1483,11 +1113,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "state",
-                "stateLayer",
-                "pressed-inverseWhite"
               ]
             },
             "resolved-value": "#1a1a1a14"
@@ -1504,11 +1129,6 @@
               "resolvedType": "COLOR",
               "scopes": [
                 "ALL_SCOPES"
-              ],
-              "originalPath": [
-                "state",
-                "stateLayer",
-                "pressed-inverseBlack"
               ]
             },
             "resolved-value": "#ffffff14"
@@ -1528,10 +1148,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "OS",
-              "reverse2"
             ]
           },
           "resolved-value": "#ffffff"
@@ -1548,10 +1164,6 @@
             "resolvedType": "COLOR",
             "scopes": [
               "ALL_SCOPES"
-            ],
-            "originalPath": [
-              "OS",
-              "reverse1"
             ]
           },
           "resolved-value": "#050505"
