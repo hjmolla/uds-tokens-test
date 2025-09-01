@@ -496,9 +496,9 @@
         },
         "brightMagenta-ios": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1696"
+          "$value": "{color.magenta.light.300}",
+          "$extensions": {
+            "resolved-value": "#fa2993"
           }
         },
         "brightMagenta-android": {
@@ -510,9 +510,9 @@
         "light": {
           "black": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           }
         },
