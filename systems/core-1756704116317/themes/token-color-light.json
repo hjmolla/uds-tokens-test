@@ -5,16 +5,16 @@
         "base": {
           "high": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1499"
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "resolved-value": "#f2f2f2"
             }
           },
           "low": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:124:2644"
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "resolved-value": "#fcfcfc"
             }
           }
         }
@@ -23,37 +23,37 @@
         "base": {
           "low": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:124:2644"
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "resolved-value": "#fcfcfc"
             }
           },
           "high": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1499"
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "resolved-value": "#f2f2f2"
             }
           },
           "low-level2": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:124:2644"
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "resolved-value": "#fcfcfc"
             }
           },
           "low-level1": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:124:2644"
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "resolved-value": "#fcfcfc"
             }
           },
           "high-level1": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1499"
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "resolved-value": "#f2f2f2"
             }
           }
         }
@@ -62,88 +62,88 @@
         "brand": {
           "primary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1696"
+            "$value": "{color.magenta.light.300}",
+            "$extensions": {
+              "resolved-value": "#fa2993"
             }
           },
           "secondary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           },
           "primaryLow": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1692"
+            "$value": "{color.magenta.light.10}",
+            "$extensions": {
+              "resolved-value": "#fef1f7"
             }
           },
           "primaryHigh": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1698"
+            "$value": "{color.magenta.light.500}",
+            "$extensions": {
+              "resolved-value": "#e10975"
             }
           }
         },
         "base": {
           "higher": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1503"
+            "$value": "{color.neutralGray.light.100}",
+            "$extensions": {
+              "resolved-value": "#ebebeb"
             }
           },
           "InvertedBlack": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           },
           "InvertedWhite": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:139:2728"
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "resolved-value": "#ffffff"
             }
           },
           "high": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1499"
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "resolved-value": "#f2f2f2"
             }
           },
           "high-level1": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1499"
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "resolved-value": "#f2f2f2"
             }
           },
           "white": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:139:2728"
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "resolved-value": "#ffffff"
             }
           },
           "low-level1": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:124:2644"
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "resolved-value": "#fcfcfc"
             }
           },
           "low": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:124:2644"
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "resolved-value": "#fcfcfc"
             }
           }
         }
@@ -152,74 +152,74 @@
         "brand": {
           "primary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1696"
+            "$value": "{color.magenta.light.300}",
+            "$extensions": {
+              "resolved-value": "#fa2993"
             }
           },
           "primaryHigh": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1698"
+            "$value": "{color.magenta.light.500}",
+            "$extensions": {
+              "resolved-value": "#e10975"
             }
           },
           "secondary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           },
           "primaryHigher": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1699"
+            "$value": "{color.magenta.light.600}",
+            "$extensions": {
+              "resolved-value": "#d5076e"
             }
           }
         },
         "base": {
           "primary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           },
           "secondary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1524"
+            "$value": "{color.neutralGray.light.800}",
+            "$extensions": {
+              "resolved-value": "#474747"
             }
           },
           "quaternary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1518"
+            "$value": "{color.neutralGray.light.600}",
+            "$extensions": {
+              "resolved-value": "#828282"
             }
           },
           "white": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:139:2728"
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "resolved-value": "#ffffff"
             }
           },
           "tertiary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1521"
+            "$value": "{color.neutralGray.light.700}",
+            "$extensions": {
+              "resolved-value": "#696969"
             }
           },
           "InvertedWhite": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:139:2728"
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "resolved-value": "#ffffff"
             }
           }
         }
@@ -228,53 +228,53 @@
         "brand": {
           "primaryHigh": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1699"
+            "$value": "{color.magenta.light.600}",
+            "$extensions": {
+              "resolved-value": "#d5076e"
             }
           },
           "primary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1696"
+            "$value": "{color.magenta.light.300}",
+            "$extensions": {
+              "resolved-value": "#fa2993"
             }
           },
           "secondary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           }
         },
         "base": {
           "primary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           },
           "secondary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1515"
+            "$value": "{color.neutralGray.light.500}",
+            "$extensions": {
+              "resolved-value": "#969696"
             }
           },
           "white": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:139:2728"
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "resolved-value": "#ffffff"
             }
           },
           "InvertedWhite": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:139:2728"
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "resolved-value": "#ffffff"
             }
           }
         }
@@ -283,46 +283,46 @@
         "brand": {
           "primary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1696"
+            "$value": "{color.magenta.light.300}",
+            "$extensions": {
+              "resolved-value": "#fa2993"
             }
           },
           "primaryHigh": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1698"
+            "$value": "{color.magenta.light.500}",
+            "$extensions": {
+              "resolved-value": "#e10975"
             }
           },
           "secondary": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           }
         },
         "base": {
           "low": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1527"
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "resolved-value": "#1a1a1a"
             }
           },
           "higher": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1506"
+            "$value": "{color.neutralGray.light.200}",
+            "$extensions": {
+              "resolved-value": "#e0e0e0"
             }
           },
           "high": {
             "$type": "color",
-            "$value": {
-              "type": "VARIABLE_ALIAS",
-              "id": "VariableID:126:1509"
+            "$value": "{color.neutralGray.light.300}",
+            "$extensions": {
+              "resolved-value": "#bdbdbd"
             }
           }
         }
@@ -332,169 +332,169 @@
       "container": {
         "selected": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:139:2722"
+          "$value": "{color.bw.light.black}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a"
           }
         },
         "disabled": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1503"
+          "$value": "{color.neutralGray.light.100}",
+          "$extensions": {
+            "resolved-value": "#ebebeb"
           }
         },
         "infomative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1604"
+          "$value": "{color.blue.light.10}",
+          "$extensions": {
+            "resolved-value": "#edf2fd"
           }
         },
         "negative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1495"
+          "$value": "{color.red.light.10}",
+          "$extensions": {
+            "resolved-value": "#fdf1f1"
           }
         },
         "positive": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1626"
+          "$value": "{color.green.light.10}",
+          "$extensions": {
+            "resolved-value": "#eefbee"
           }
         }
       },
       "icon": {
         "disabled": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:371"
+          "$value": "{alpha.black-16}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a29"
           }
         },
         "infomative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1608"
+          "$value": "{color.blue.light.300}",
+          "$extensions": {
+            "resolved-value": "#477eeb"
           }
         },
         "negative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1555"
+          "$value": "{color.red.light.400}",
+          "$extensions": {
+            "resolved-value": "#e51a1a"
           }
         },
         "positive": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1632"
+          "$value": "{color.green.light.500}",
+          "$extensions": {
+            "resolved-value": "#1fa321"
           }
         },
         "selected": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:139:2722"
+          "$value": "{color.bw.light.black}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a"
           }
         },
         "disabledWhite": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:365"
+          "$value": "{alpha.white-64}",
+          "$extensions": {
+            "resolved-value": "#ffffffa3"
           }
         }
       },
       "white": {
         "$type": "color",
-        "$value": {
-          "type": "VARIABLE_ALIAS",
-          "id": "VariableID:139:2728"
+        "$value": "{color.bw.white}",
+        "$extensions": {
+          "resolved-value": "#ffffff"
         }
       },
       "text": {
         "disabled": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:371"
+          "$value": "{alpha.black-16}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a29"
           }
         },
         "infomative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1610"
+          "$value": "{color.blue.light.500}",
+          "$extensions": {
+            "resolved-value": "#064ad0"
           }
         },
         "negative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1558"
+          "$value": "{color.red.light.500}",
+          "$extensions": {
+            "resolved-value": "#da0707"
           }
         },
         "positive": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1633"
+          "$value": "{color.green.light.600}",
+          "$extensions": {
+            "resolved-value": "#018303"
           }
         },
         "selected": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:139:2722"
+          "$value": "{color.bw.light.black}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a"
           }
         },
         "disabled-inventedWhite": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:364"
+          "$value": "{alpha.white-40}",
+          "$extensions": {
+            "resolved-value": "#ffffff66"
           }
         }
       },
       "border": {
         "disabled": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:371"
+          "$value": "{alpha.black-16}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a29"
           }
         },
         "selected": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:139:2722"
+          "$value": "{color.bw.light.black}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a"
           }
         },
         "infomative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1608"
+          "$value": "{color.blue.light.300}",
+          "$extensions": {
+            "resolved-value": "#477eeb"
           }
         },
         "negative": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1555"
+          "$value": "{color.red.light.400}",
+          "$extensions": {
+            "resolved-value": "#e51a1a"
           }
         },
         "positive": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:126:1632"
+          "$value": "{color.green.light.500}",
+          "$extensions": {
+            "resolved-value": "#1fa321"
           }
         }
       }
@@ -502,24 +502,24 @@
     "state": {
       "focused": {
         "$type": "color",
-        "$value": {
-          "type": "VARIABLE_ALIAS",
-          "id": "VariableID:139:2722"
+        "$value": "{color.bw.light.black}",
+        "$extensions": {
+          "resolved-value": "#1a1a1a"
         }
       },
       "stateLayer": {
         "pressed-inverseWhite": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:362"
+          "$value": "{alpha.white-16}",
+          "$extensions": {
+            "resolved-value": "#ffffff29"
           }
         },
         "pressed-inverseBlack": {
           "$type": "color",
-          "$value": {
-            "type": "VARIABLE_ALIAS",
-            "id": "VariableID:327:371"
+          "$value": "{alpha.black-16}",
+          "$extensions": {
+            "resolved-value": "#1a1a1a29"
           }
         }
       }
@@ -527,16 +527,16 @@
     "OS": {
       "reverse2": {
         "$type": "color",
-        "$value": {
-          "type": "VARIABLE_ALIAS",
-          "id": "VariableID:139:2722"
+        "$value": "{color.bw.light.black}",
+        "$extensions": {
+          "resolved-value": "#1a1a1a"
         }
       },
       "reverse1": {
         "$type": "color",
-        "$value": {
-          "type": "VARIABLE_ALIAS",
-          "id": "VariableID:139:2728"
+        "$value": "{color.bw.white}",
+        "$extensions": {
+          "resolved-value": "#ffffff"
         }
       }
     }
