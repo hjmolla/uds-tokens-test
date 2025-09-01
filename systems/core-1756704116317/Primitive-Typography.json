@@ -1,0 +1,54 @@
+{
+  "10": {
+    "$type": "dimension",
+    "$value": "10px"
+  },
+  "12": {
+    "$type": "dimension",
+    "$value": "12px"
+  },
+  "14": {
+    "$type": "dimension",
+    "$value": "14px"
+  },
+  "16": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "18": {
+    "$type": "dimension",
+    "$value": "18px"
+  },
+  "20": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "24": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "28": {
+    "$type": "dimension",
+    "$value": "28px"
+  },
+  "36": {
+    "$type": "dimension",
+    "$value": "36px"
+  },
+  "pretendard": {
+    "$type": "string",
+    "$value": "pretendard"
+  },
+  "medium": {
+    "$type": "string",
+    "$value": "medium"
+  },
+  "bold": {
+    "$type": "string",
+    "$value": "bold"
+  },
+  "none": {
+    "$type": "dimension",
+    "$value": null
+  }
+}
