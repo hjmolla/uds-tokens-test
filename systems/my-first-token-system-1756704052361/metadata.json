@@ -4,5 +4,16 @@
   "fileKey": "ABC123def456",
   "version": "1.0.0",
   "createdAt": "2025-09-01T05:20:52.431Z",
-  "lastSyncedAt": "2025-09-01T05:20:52.431Z"
+  "lastSyncedAt": "2025-09-01T05:20:52.431Z",
+  "deleted": true,
+  "deletedAt": "2025-09-02T07:06:27.827Z",
+  "systemLogs": [
+    {
+      "id": "log-1756796787827",
+      "timestamp": 1756796787827,
+      "action": "deleted",
+      "message": "시스템 아카이브됨",
+      "version": "1.0.0"
+    }
+  ]
 }
