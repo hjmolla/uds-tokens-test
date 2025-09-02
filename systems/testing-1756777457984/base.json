@@ -1108,7 +1108,7 @@
         },
         "950": {
           "$type": "color",
-          "$value": "#000f2b",
+          "$value": "#000c22",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:145:849",
