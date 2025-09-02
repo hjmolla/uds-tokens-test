@@ -2,8 +2,8 @@
   "id": "core-1756704116317",
   "name": "Core",
   "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "createdAt": "2025-09-01T05:21:56.317Z",
-  "lastSyncedAt": "2025-09-02T01:33:42.532Z",
-  "changelog": "Updated tokens from Figma"
+  "lastSyncedAt": "2025-09-02T05:03:30.466Z",
+  "changelog": "patch update from Figma"
 }
