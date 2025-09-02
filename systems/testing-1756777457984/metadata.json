@@ -2,10 +2,10 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-02T06:50:57.348Z",
-  "changelog": "변경점 많은 것",
+  "lastSyncedAt": "2025-09-02T08:22:21.048Z",
+  "changelog": "다시 변경",
   "versionHistory": [
     {
       "version": "2.0.3",
@@ -224,6 +224,61 @@
         "description": "변경점 많은 것",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "2.0.7",
+      "timestamp": 1756801341048,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "base.primitive.blue.light.960"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "base.primitive.blue.light.960",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#4786ff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:856",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#5885db",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:856",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +0 ~1 -0",
+        "다시 변경"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "다시 변경",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -266,6 +321,17 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.0.6 (7개 토큰)",
       "version": "2.0.6",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7
+      }
+    },
+    {
+      "id": "log-1756801341048",
+      "timestamp": 1756801341048,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.0.7 (7개 토큰)",
+      "version": "2.0.7",
       "details": {
         "filesUpdated": 7,
         "tokenCount": 7
