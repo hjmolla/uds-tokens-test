@@ -823,6 +823,18 @@
               "resolvedType": "COLOR"
             }
           }
+        },
+        "950": {
+          "$type": "color",
+          "$value": "#002400",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:145:848",
+              "collectionId": "VariableCollectionId:70:808",
+              "modeId": "70:0",
+              "resolvedType": "COLOR"
+            }
+          }
         }
       },
       "dark": {
