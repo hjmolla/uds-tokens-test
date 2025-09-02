@@ -1,0 +1,27 @@
+{
+  "id": "my-first-token-system-1756704052361",
+  "name": "My First System",
+  "fileKey": "ABC123def456",
+  "version": "1.0.0",
+  "createdAt": "2025-09-01T05:20:52.431Z",
+  "lastSyncedAt": "2025-09-01T05:20:52.431Z",
+  "deleted": true,
+  "deletedAt": "2025-09-02T07:15:07.319Z",
+  "systemLogs": [
+    {
+      "id": "log-1756796787827",
+      "timestamp": 1756796787827,
+      "action": "deleted",
+      "message": "시스템 아카이브됨",
+      "version": "1.0.0"
+    },
+    {
+      "id": "log-1756797307319",
+      "timestamp": 1756797307319,
+      "action": "deleted",
+      "message": "시스템 아카이브됨 (systems/archive/my-first-token-system-1756704052361로 이동)",
+      "version": "1.0.0"
+    }
+  ],
+  "archivedPath": "systems/archive/my-first-token-system-1756704052361"
+}
