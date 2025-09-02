@@ -2,10 +2,10 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-02T06:41:05.225Z",
-  "changelog": "되나",
+  "lastSyncedAt": "2025-09-02T06:42:29.298Z",
+  "changelog": "한 번 더 바꾸기",
   "versionHistory": [
     {
       "version": "2.0.3",
@@ -25,6 +25,25 @@
         "description": "되나",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "2.0.4",
+      "timestamp": 1756795349298,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "한 번 더 바꾸기"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "한 번 더 바꾸기",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -34,6 +53,17 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.0.3 (7개 토큰)",
       "version": "2.0.3",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7
+      }
+    },
+    {
+      "id": "log-1756795349298",
+      "timestamp": 1756795349298,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.0.4 (7개 토큰)",
+      "version": "2.0.4",
       "details": {
         "filesUpdated": 7,
         "tokenCount": 7
