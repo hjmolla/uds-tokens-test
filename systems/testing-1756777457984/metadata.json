@@ -2,8 +2,42 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-02T06:39:16.449Z",
-  "changelog": "patch update from Figma"
+  "lastSyncedAt": "2025-09-02T06:41:05.225Z",
+  "changelog": "되나",
+  "versionHistory": [
+    {
+      "version": "2.0.3",
+      "timestamp": 1756795265225,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "되나"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "되나",
+        "tokenCount": 7
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1756795265225",
+      "timestamp": 1756795265225,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.0.3 (7개 토큰)",
+      "version": "2.0.3",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7
+      }
+    }
+  ]
 }
