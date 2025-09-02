@@ -2,10 +2,10 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-02T06:48:47.037Z",
-  "changelog": "변경점까지?",
+  "lastSyncedAt": "2025-09-02T06:50:57.348Z",
+  "changelog": "변경점 많은 것",
   "versionHistory": [
     {
       "version": "2.0.3",
@@ -99,6 +99,131 @@
         "description": "변경점까지?",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "2.0.6",
+      "timestamp": 1756795857348,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [
+          "base.primitive.blue.light.910",
+          "base.primitive.blue.light.920",
+          "base.primitive.blue.light.960"
+        ],
+        "modified": [
+          "base.primitive.blue.light.900"
+        ],
+        "deleted": [
+          "base.primitive.blue.light.950"
+        ]
+      },
+      "detailedChanges": [
+        {
+          "path": "base.primitive.blue.light.910",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#6a7790",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:854",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "base.primitive.blue.light.920",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#525c71",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:855",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "base.primitive.blue.light.960",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#4786ff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:856",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "base.primitive.blue.light.950",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#030813",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:145:849",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "base.primitive.blue.light.900",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#021945",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:891",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#36496f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:891",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +3 ~1 -1",
+        "변경점 많은 것"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "변경점 많은 것",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -130,6 +255,17 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.0.5 (7개 토큰)",
       "version": "2.0.5",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7
+      }
+    },
+    {
+      "id": "log-1756795857348",
+      "timestamp": 1756795857348,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.0.6 (7개 토큰)",
+      "version": "2.0.6",
       "details": {
         "filesUpdated": 7,
         "tokenCount": 7
