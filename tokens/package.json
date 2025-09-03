@@ -1,0 +1,28 @@
+{
+  "name": "uds-tokens-custom",
+  "version": "1.0.0-config.8dd08483",
+  "description": "Custom UDS Design Tokens (8dd08483)",
+  "main": "index.js",
+  "files": [
+    "**/*"
+  ],
+  "config": {
+    "hash": "8dd08483",
+    "baseVersion": "1.0.0",
+    "options": {
+      "naming": "camelCase",
+      "platforms": [
+        "web"
+      ],
+      "themes": [
+        "light-default-base"
+      ],
+      "tokens": [
+        "color",
+        "dimension",
+        "typography"
+      ]
+    },
+    "generatedAt": "2025-09-03T06:52:29.742Z"
+  }
+}
