@@ -1,0 +1,37 @@
+{
+  "id": "testingclone-1756883391983",
+  "name": "TestingClone",
+  "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+  "version": "1.0.0",
+  "createdAt": "2025-09-03T07:09:52.053Z",
+  "lastSyncedAt": "2025-09-03T07:09:52.053Z",
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "timestamp": 1756883392053,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 0
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1756883392053",
+      "timestamp": 1756883392053,
+      "action": "created",
+      "message": "시스템 \"TestingClone\" 생성됨",
+      "version": "1.0.0"
+    }
+  ]
+}
