@@ -1108,7 +1108,7 @@
         },
         "910": {
           "$type": "color",
-          "$value": "#2d70f1",
+          "$value": "#2352ad",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:146:854",
@@ -1120,7 +1120,7 @@
         },
         "920": {
           "$type": "color",
-          "$value": "#273d67",
+          "$value": "#54627d",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:146:855",
@@ -1132,7 +1132,7 @@
         },
         "960": {
           "$type": "color",
-          "$value": "#1a305a",
+          "$value": "#30559d",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:146:856",
