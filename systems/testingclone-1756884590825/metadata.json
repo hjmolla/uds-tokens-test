@@ -2,9 +2,9 @@
   "id": "testingclone-1756884590825",
   "name": "TestingClone",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "createdAt": "2025-09-03T07:29:51.572Z",
-  "lastSyncedAt": "2025-09-03T07:31:07.870Z",
+  "lastSyncedAt": "2025-09-05T06:52:02.622Z",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -4453,6 +4453,125 @@
         "description": "d",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "1.0.3",
+      "timestamp": 1757055122622,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "base.primitive.blue.light.910",
+          "base.primitive.blue.light.920",
+          "base.primitive.blue.light.960"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "base.primitive.blue.light.910",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#6a7790",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:854",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#2d70f1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:854",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "base.primitive.blue.light.920",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#132a55",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:855",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#052a71",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:855",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "base.primitive.blue.light.960",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1c2639",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:856",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a305a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:146:856",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +0 ~3 -0",
+        "ㅌㅅㅌ"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "ㅌㅅㅌ",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -4486,7 +4605,19 @@
         "tokenCount": 7,
         "pushedBy": "이효중/UX시스템팀"
       }
+    },
+    {
+      "id": "log-1757055122622",
+      "timestamp": 1757055122622,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.3 by 이효중/UX시스템팀 (7개 토큰)",
+      "version": "1.0.3",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7,
+        "pushedBy": "이효중/UX시스템팀"
+      }
     }
   ],
-  "changelog": "d"
+  "changelog": "ㅌㅅㅌ"
 }
