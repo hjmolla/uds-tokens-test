@@ -28,7 +28,7 @@
         },
         "focused": {
           "$type": "color",
-          "$value": "#1a1a1a",
+          "$value": "#ec2828",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:70:970",
