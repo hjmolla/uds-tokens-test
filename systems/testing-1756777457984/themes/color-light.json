@@ -28,7 +28,7 @@
         },
         "focused": {
           "$type": "color",
-          "$value": "#ec2828",
+          "$value": "#a55f5f",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:70:970",
@@ -45,7 +45,7 @@
         "base": {
           "inverted": {
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#f85959",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:70:971",
