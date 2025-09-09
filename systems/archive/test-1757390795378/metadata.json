@@ -1,0 +1,47 @@
+{
+  "id": "test-1757390795378",
+  "name": "test",
+  "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+  "version": "1.0.0",
+  "createdAt": "2025-09-09T04:06:36.075Z",
+  "lastSyncedAt": "2025-09-09T04:06:36.075Z",
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "timestamp": 1757390796075,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 9
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1757390796075",
+      "timestamp": 1757390796075,
+      "action": "created",
+      "message": "시스템 \"test\" 생성됨",
+      "version": "1.0.0"
+    },
+    {
+      "id": "log-1757391292654",
+      "timestamp": 1757391292654,
+      "action": "deleted",
+      "message": "시스템 아카이브됨 (systems/archive/test-1757390795378로 이동)",
+      "version": "1.0.0"
+    }
+  ],
+  "deleted": true,
+  "deletedAt": "2025-09-09T04:14:52.654Z",
+  "archivedPath": "systems/archive/test-1757390795378"
+}
