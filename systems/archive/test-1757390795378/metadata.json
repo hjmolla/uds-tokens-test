@@ -34,14 +34,14 @@
       "version": "1.0.0"
     },
     {
-      "id": "log-1757391292654",
-      "timestamp": 1757391292654,
+      "id": "log-1757391762863",
+      "timestamp": 1757391762863,
       "action": "deleted",
       "message": "시스템 아카이브됨 (systems/archive/test-1757390795378로 이동)",
       "version": "1.0.0"
     }
   ],
   "deleted": true,
-  "deletedAt": "2025-09-09T04:14:52.654Z",
+  "deletedAt": "2025-09-09T04:22:42.863Z",
   "archivedPath": "systems/archive/test-1757390795378"
 }
