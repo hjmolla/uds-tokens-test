@@ -1,0 +1,37 @@
+{
+  "id": "ixi-o-1757490465418",
+  "name": "ixi-o",
+  "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
+  "version": "1.0.0",
+  "createdAt": "2025-09-10T07:47:46.462Z",
+  "lastSyncedAt": "2025-09-10T07:47:46.462Z",
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "timestamp": 1757490466462,
+      "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 9
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1757490466462",
+      "timestamp": 1757490466462,
+      "action": "created",
+      "message": "시스템 \"ixi-o\" 생성됨",
+      "version": "1.0.0"
+    }
+  ]
+}
