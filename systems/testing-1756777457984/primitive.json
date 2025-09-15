@@ -288,7 +288,7 @@
       "dark": {
         "10": {
           "$type": "color",
-          "$value": "#0a0a0a",
+          "$value": "#956c6c",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:70:826",
@@ -300,7 +300,7 @@
         },
         "50": {
           "$type": "color",
-          "$value": "#1f1f1f",
+          "$value": "#796c6c",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:70:827",
