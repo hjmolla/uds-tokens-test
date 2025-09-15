@@ -2,9 +2,9 @@
   "id": "ixi-o-1757490465418",
   "name": "ixi-O",
   "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "createdAt": "2025-09-10T07:47:46.462Z",
-  "lastSyncedAt": "2025-09-15T05:47:48.960Z",
+  "lastSyncedAt": "2025-09-15T06:48:45.586Z",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -15204,6 +15204,61 @@
         "description": "patch update from Figma",
         "tokenCount": 6
       }
+    },
+    {
+      "version": "1.0.4",
+      "timestamp": 1757918925586,
+      "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
+      "changes": {
+        "added": [],
+        "modified": [
+          "primitive.01primitive.focused_primary"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "primitive.01primitive.focused_primary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d88bb0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4705:13623",
+                "collectionId": "VariableCollectionId:8:275",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffdeee",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4705:13623",
+                "collectionId": "VariableCollectionId:8:275",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 6개 파일",
+        "변경사항: +0 ~1 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 6
+      }
     }
   ],
   "systemLogs": [
@@ -15249,7 +15304,45 @@
         "tokenCount": 6,
         "pushedBy": "이효중/UX시스템팀"
       }
+    },
+    {
+      "id": "log-1757918925586",
+      "timestamp": 1757918925586,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.4 by 이효중/UX시스템팀 (6개 토큰)",
+      "version": "1.0.4",
+      "details": {
+        "filesUpdated": 6,
+        "tokenCount": 6,
+        "pushedBy": "이효중/UX시스템팀"
+      }
     }
   ],
-  "changelog": "patch update from Figma"
+  "changelog": "patch update from Figma",
+  "collectionSettings": {
+    "VariableCollectionId:3:25": {
+      "included": false,
+      "category": "primitive"
+    },
+    "VariableCollectionId:8:275": {
+      "included": true,
+      "category": "primitive"
+    },
+    "VariableCollectionId:68:2477": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:72:14707": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:139:4134": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:4977:6973": {
+      "included": false,
+      "category": "primitive"
+    }
+  }
 }
