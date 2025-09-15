@@ -2,9 +2,9 @@
   "id": "passwordtest-1757393102100",
   "name": "PasswordTest",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "createdAt": "2025-09-09T04:45:03.122Z",
-  "lastSyncedAt": "2025-09-15T04:19:35.994Z",
+  "lastSyncedAt": "2025-09-15T04:20:14.751Z",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -8815,6 +8815,27 @@
         "description": "patch update from Figma",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "1.0.5",
+      "timestamp": 1757910014751,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "detailedChanges": [],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +0 ~0 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -8867,6 +8888,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v1.0.4 by 이효중/UX시스템팀 (7개 토큰)",
       "version": "1.0.4",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1757910014751",
+      "timestamp": 1757910014751,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.5 by 이효중/UX시스템팀 (7개 토큰)",
+      "version": "1.0.5",
       "details": {
         "filesUpdated": 7,
         "tokenCount": 7,
