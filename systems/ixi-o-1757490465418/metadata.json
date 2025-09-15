@@ -2,9 +2,9 @@
   "id": "ixi-o-1757490465418",
   "name": "ixi-O",
   "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "createdAt": "2025-09-10T07:47:46.462Z",
-  "lastSyncedAt": "2025-09-15T04:47:26.449Z",
+  "lastSyncedAt": "2025-09-15T05:47:48.960Z",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -11835,6 +11835,3375 @@
         "description": "patch update from Figma",
         "tokenCount": 8
       }
+    },
+    {
+      "version": "1.0.3",
+      "timestamp": 1757915268960,
+      "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
+      "changes": {
+        "added": [
+          "semantic/semantic-token-typography/base.token-typography.display.large",
+          "semantic/semantic-token-typography/base.token-typography.display.base",
+          "semantic/semantic-token-typography/base.token-typography.title.large",
+          "semantic/semantic-token-typography/base.token-typography.title.base",
+          "semantic/semantic-token-typography/base.token-typography.title.small",
+          "semantic/semantic-token-typography/base.token-typography.title.extra small",
+          "semantic/semantic-token-typography/base.token-typography.body.large",
+          "semantic/semantic-token-typography/base.token-typography.body.base",
+          "semantic/semantic-token-typography/base.token-typography.body.small",
+          "semantic/semantic-token-typography/base.token-typography.body.extra small",
+          "semantic/semantic-token-typography/base.token-typography.body.height none",
+          "semantic/semantic-token-typography/base.token-typography.label.large",
+          "semantic/semantic-token-typography/base.token-typography.label.base",
+          "semantic/semantic-token-typography/base.token-typography.label.small",
+          "semantic/semantic-token-typography/base.token-typography.label.extra small",
+          "semantic/semantic-token-typography/base.token-typography.label.height none",
+          "semantic/semantic-token-typography/base.token-typography.typeface",
+          "semantic/semantic-token-typography/base.token-typography.bold",
+          "semantic/semantic-token-typography/base.token-typography.medium",
+          "semantic/semantic-token-typography/easy-mode.token-typography.display.large",
+          "semantic/semantic-token-typography/easy-mode.token-typography.display.base",
+          "semantic/semantic-token-typography/easy-mode.token-typography.title.large",
+          "semantic/semantic-token-typography/easy-mode.token-typography.title.base",
+          "semantic/semantic-token-typography/easy-mode.token-typography.title.small",
+          "semantic/semantic-token-typography/easy-mode.token-typography.title.extra small",
+          "semantic/semantic-token-typography/easy-mode.token-typography.body.large",
+          "semantic/semantic-token-typography/easy-mode.token-typography.body.base",
+          "semantic/semantic-token-typography/easy-mode.token-typography.body.small",
+          "semantic/semantic-token-typography/easy-mode.token-typography.body.extra small",
+          "semantic/semantic-token-typography/easy-mode.token-typography.body.height none",
+          "semantic/semantic-token-typography/easy-mode.token-typography.label.large",
+          "semantic/semantic-token-typography/easy-mode.token-typography.label.base",
+          "semantic/semantic-token-typography/easy-mode.token-typography.label.small",
+          "semantic/semantic-token-typography/easy-mode.token-typography.label.extra small",
+          "semantic/semantic-token-typography/easy-mode.token-typography.label.height none",
+          "semantic/semantic-token-typography/easy-mode.token-typography.typeface",
+          "semantic/semantic-token-typography/easy-mode.token-typography.bold",
+          "semantic/semantic-token-typography/easy-mode.token-typography.medium",
+          "semantic/semantic-token-radius.token-radius.radius-none",
+          "semantic/semantic-token-radius.token-radius.radius-small",
+          "semantic/semantic-token-radius.token-radius.radius-medium",
+          "semantic/semantic-token-radius.token-radius.radius-large",
+          "semantic/semantic-token-radius.token-radius.radius-full",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.frame.base.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.frame.base.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.background.base.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.background.base.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.primary-low",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.primary-high",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.tertiary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.quaternary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.brand.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.brand.primary-low",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.brand.primary-high",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.tertiary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.white",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.quaternary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.brand.primary-low",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.brand.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.brand.* secondary (확인필요)",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.base.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.base.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.base.white",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.brand.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.brand.primary-high",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.brand.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.base.primary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.base.secondary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.base.tertiary",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.container.disabled",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.container.* disabled - primary (확인필요)",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.text.disabled",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.text.* disabled - on primary (확인필요)",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.icon.disabled",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.icon.selected",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.icon.* disabled - on primary (확인필요)",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.border.disabled",
+          "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.state.stateLayer.focused",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.frame.base.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.frame.base.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.background.base.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.background.base.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.primary-low",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.primary-high",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.tertiary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.quaternary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.brand.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.brand.primary-low",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.brand.primary-high",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.tertiary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.white",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.quaternary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.brand.primary-low",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.brand.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.brand.* secondary (확인필요)",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.base.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.base.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.base.white",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.brand.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.brand.primary-high",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.brand.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.base.primary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.base.secondary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.base.tertiary",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.container.disabled",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.container.* disabled - primary (확인필요)",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.text.disabled",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.text.* disabled - on primary (확인필요)",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.icon.disabled",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.icon.selected",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.icon.* disabled - on primary (확인필요)",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.border.disabled",
+          "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.state.stateLayer.focused"
+        ],
+        "modified": [
+          "primitive.01primitive.focused_primary"
+        ],
+        "deleted": [
+          "primitive.99guide-only.dimension.guide-10",
+          "primitive.99guide-only.dimension.guide-20",
+          "primitive.99guide-only.dimension.guide-40",
+          "primitive.99guide-only.dimension.guide-60",
+          "primitive.99guide-only.dimension.guide-80",
+          "primitive.99guide-only.dimension.guide-100",
+          "primitive.99guide-only.dimension.guide-none",
+          "primitive.99guide-only.dimension.guide-full",
+          "primitive.99guide-only.dimension.guide-4",
+          "primitive.99guide-only.dimension.guide-12",
+          "primitive.99guide-only.dimension.guide-2",
+          "primitive.99guide-only.dimension.guide-8",
+          "primitive.99guide-only.dimension.guide-16",
+          "primitive.99guide-only.dimension.guide-14",
+          "primitive.99guide-only.guide.color.gray",
+          "primitive.99guide-only.guide.color.gray-low",
+          "primitive.99guide-only.guide.color.gray-high",
+          "primitive.99guide-only.guide.color.blue",
+          "primitive.99guide-only.guide.color.purple",
+          "primitive.99guide-only.guide.color.purple-low",
+          "primitive.99guide-only.guide.color.brand",
+          "primitive.99guide-only.guide.color.brand-low",
+          "primitive.99guide-only.guide.color.gray-lower",
+          "primitive.99guide-only.guide.color.green-low",
+          "primitive.99guide-only.guide.color.green",
+          "primitive.99guide-only.guide.color.white",
+          "primitive.99guide-only.guide.color.select a color",
+          "primitive.99guide-only.guide.color.gray-lowest",
+          "primitive.token-radius.radius-none",
+          "primitive.token-radius.radius-small",
+          "primitive.token-radius.radius-medium",
+          "primitive.token-radius.radius-large",
+          "primitive.token-radius.radius-full",
+          "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.200",
+          "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.300",
+          "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.400",
+          "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.500",
+          "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.600",
+          "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.700",
+          "primitive.02pictogram.color.reminderIcon.light.brightMagenta.200",
+          "primitive.02pictogram.color.reminderIcon.light.brightMagenta.300",
+          "primitive.02pictogram.color.reminderIcon.light.brightMagenta.400",
+          "primitive.02pictogram.color.reminderIcon.light.brightMagenta.500",
+          "primitive.02pictogram.color.reminderIcon.light.brightMagenta.600",
+          "primitive.02pictogram.color.reminderIcon.light.brightMagenta.700",
+          "primitive.02pictogram.color.reminderIcon.light.yellow.200",
+          "primitive.02pictogram.color.reminderIcon.light.yellow.300",
+          "primitive.02pictogram.color.reminderIcon.light.yellow.400",
+          "primitive.02pictogram.color.reminderIcon.light.yellow.500",
+          "primitive.02pictogram.color.reminderIcon.light.yellow.600",
+          "primitive.02pictogram.color.reminderIcon.light.yellow.700",
+          "primitive.02pictogram.color.reminderIcon.light.green.200",
+          "primitive.02pictogram.color.reminderIcon.light.green.300",
+          "primitive.02pictogram.color.reminderIcon.light.green.400",
+          "primitive.02pictogram.color.reminderIcon.light.green.500",
+          "primitive.02pictogram.color.reminderIcon.light.green.600",
+          "primitive.02pictogram.color.reminderIcon.light.green.700",
+          "primitive.02pictogram.color.reminderIcon.light.blue.200",
+          "primitive.02pictogram.color.reminderIcon.light.blue.300",
+          "primitive.02pictogram.color.reminderIcon.light.blue.400",
+          "primitive.02pictogram.color.reminderIcon.light.blue.500",
+          "primitive.02pictogram.color.reminderIcon.light.blue.600",
+          "primitive.02pictogram.color.reminderIcon.light.blue.700"
+        ]
+      },
+      "detailedChanges": [
+        {
+          "path": "primitive.99guide-only.dimension.guide-10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "10px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:26",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-20",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:30",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-40",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "40px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:31",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-60",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "60px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:32",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-80",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "80px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:33",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "100px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:34",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-none",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": null,
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:35",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-full",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "9999px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:36",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-4",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:51",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-12",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:88",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-2",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:94",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-8",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4361:9710",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-16",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4364:14479",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.dimension.guide-14",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4452:17769",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.gray",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#7f7f7f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:38",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.gray-low",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#cccccc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:39",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.gray-high",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1e1e1e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:40",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.blue",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#3c9afa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:41",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.purple",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#7d4ae0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:42",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.purple-low",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#c2b4da",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:3:43",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.brand",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#8927fa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:42",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.brand-low",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fef1f7",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:43",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.gray-lower",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ebebeb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:44",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.green-low",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d5f6d5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:45",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.green",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#015102",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:46",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.white",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:90",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.select a color",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7:125",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.99guide-only.guide.color.gray-lowest",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f5f5f5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:26:3014",
+                "collectionId": "VariableCollectionId:3:25",
+                "modeId": "3:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.token-radius.radius-none",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": null,
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14712",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.token-radius.radius-small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14713",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.token-radius.radius-medium",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14714",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.token-radius.radius-large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14715",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.token-radius.radius-full",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "9999px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14716",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d4ccff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7006",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#bfb2ff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7004",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#5c2ee5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7005",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#451dbf",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7003",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#321099",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7002",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brandToneOnTone.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#223097",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7001",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brightMagenta.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffcce5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7024",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brightMagenta.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffa6d2",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7021",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brightMagenta.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ff2e96",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7022",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brightMagenta.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#de047c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7025",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brightMagenta.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#a8035e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7026",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.brightMagenta.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#730140",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7023",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.yellow.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fef4c2",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7046",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.yellow.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fee58b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7045",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.yellow.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffd633",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7043",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.yellow.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e5b517",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7042",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.yellow.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#a68811",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7041",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.yellow.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#593e09",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7044",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.green.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#bcf5e4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7066",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.green.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#67e5bf",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7064",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.green.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#00b27d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7061",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.green.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#079168",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7065",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.green.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#067352",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7063",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.green.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#005239",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7062",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.blue.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#cdd9ff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7119",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.blue.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#aabfff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7118",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.blue.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#3366ff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7117",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.blue.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a4de5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7115",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.blue.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#0634bd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7116",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.02pictogram.color.reminderIcon.light.blue.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#04268c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4977:7114",
+                "collectionId": "VariableCollectionId:4977:6973",
+                "modeId": "4977:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.01primitive.focused_primary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffdeee",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4705:13623",
+                "collectionId": "VariableCollectionId:8:275",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#d88bb0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4705:13623",
+                "collectionId": "VariableCollectionId:8:275",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.display.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 01}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2494",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "32px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.display.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 02}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2508",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "28px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.title.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 03}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2513",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "24px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.title.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 04}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2514",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "20px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.title.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 05}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2515",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "18px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.title.extra small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 06}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2516",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "16px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.body.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 05}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2519",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "18px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.body.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 06}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2520",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "16px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.body.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 07}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2521",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "14px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.body.extra small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 08}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2524",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "12px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.body.height none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.none}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2550",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.label.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 06}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2528",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "16px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.label.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 07}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2529",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "14px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.label.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 08}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2530",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "12px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.label.extra small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 09}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2532",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "10px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.label.height none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.none}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2551",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.typeface",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{typography.pretendard}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2568",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "pretendard"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.bold",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{typography.bold}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2569",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "bold"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/base.token-typography.medium",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{typography.medium}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2570",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:0",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "medium"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.display.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 01}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2494",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "32px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.display.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 02}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2508",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "28px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.title.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 02}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2513",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "28px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.title.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 03}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2514",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "24px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.title.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 04}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2515",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "20px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.title.extra small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 05}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2516",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "18px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.body.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 04}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2519",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "20px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.body.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 05}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2520",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "18px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.body.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 06}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2521",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "16px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.body.extra small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 07}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2524",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "14px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.body.height none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.none}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2550",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.label.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 05}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2528",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "18px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.label.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 06}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2529",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "16px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.label.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 07}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2530",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "14px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.label.extra small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.scale 08}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2532",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "12px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.label.height none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{typography.none}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2551",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.typeface",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{typography.pretendard}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2568",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "pretendard"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.bold",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{typography.bold}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2569",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "bold"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-typography/easy-mode.token-typography.medium",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{typography.medium}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:68:2570",
+                "collectionId": "VariableCollectionId:68:2477",
+                "modeId": "68:1",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "medium"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-radius.token-radius.radius-none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": null,
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14712",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-radius.token-radius.radius-small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14713",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-radius.token-radius.radius-medium",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14714",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-radius.token-radius.radius-large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14715",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-radius.token-radius.radius-full",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "9999px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:72:14716",
+                "collectionId": "VariableCollectionId:72:14707",
+                "modeId": "72:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.frame.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4135",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f2f2f2"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.frame.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4139",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fcfcfc"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.background.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4140",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fcfcfc"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.background.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4141",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f2f2f2"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.300}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4142",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#8927fa"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4143",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.primary-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4147",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f7f0ff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4148",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6d1cdf"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4149",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fcfcfc"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4153",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f2f2f2"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4157",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ebebeb"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.container.base.quaternary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.200}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4160",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#e0e0e0"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4169",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6d1cdf"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.brand.primary-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.300}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4170",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#8927fa"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.600}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4175",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#5111c5"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4171",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.800}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4172",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#474747"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.700}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4173",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6e6e6e"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4174",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.text.base.quaternary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.600}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4193",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#828282"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.brand.primary-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.300}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4177",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#8927fa"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4178",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6d1cdf"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.brand.* secondary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4184",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4179",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4180",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#969696"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.icon.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4182",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4186",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6d1cdf"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.600}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4191",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#5111c5"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.brand.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4192",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4187",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.200}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4188",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#e0e0e0"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.border.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4189",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f2f2f2"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.container.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22122",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ebebeb"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.container.* disabled - primary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6548:35488",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#d4bfff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.text.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.400}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22180",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#a8a8a8"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.text.* disabled - on primary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6548:35530",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f7f0ff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.icon.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.400}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22183",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#a8a8a8"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.icon.selected",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4726:9420",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.icon.* disabled - on primary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.light.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6548:35556",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#f7f0ff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.status.border.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22273",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ebebeb"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/light-theme.token-semantic-color.state.stateLayer.focused",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4663:8185",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.frame.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4135",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#0a0a0a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.frame.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4139",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#0a0a0a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.background.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4140",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1f1f1f"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.background.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4141",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1f1f1f"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4142",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#7b3ac0"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.300}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4143",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#474747"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.primary-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4147",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1b1327"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4148",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#7b3ac0"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.10}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4149",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#0a0a0a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4153",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1f1f1f"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4157",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#262626"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.container.base.quaternary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.200}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4160",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#303030"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.800}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4169",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#b279ee"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.brand.primary-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.700}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4170",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#a36ce1"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4175",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#c291f7"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4171",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fafafa"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.800}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4172",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#d1d1d1"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.700}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4173",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#adadad"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4174",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.text.base.quaternary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.600}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4193",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#8a8a8a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.brand.primary-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.700}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4177",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#a36ce1"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.800}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4178",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#b279ee"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.brand.* secondary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4184",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fafafa"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4179",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fafafa"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.600}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4180",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#8a8a8a"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.icon.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4182",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.700}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4186",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#a36ce1"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.800}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4191",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#b279ee"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.brand.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.200}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4192",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#303030"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.200}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4187",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#303030"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.200}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4188",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#303030"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.border.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.50}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:4189",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1f1f1f"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.container.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22122",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#262626"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.container.* disabled - primary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6548:35488",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#2b2041"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.text.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.400}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22180",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#616161"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.text.* disabled - on primary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.400}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6548:35530",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6a37a5"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.icon.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.400}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22183",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#616161"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.icon.selected",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4726:9420",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.icon.* disabled - on primary (확인필요)",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.purple.dark.400}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6548:35556",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#6a37a5"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.status.border.disabled",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.dark.100}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4379:22273",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#262626"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic-token-semantic-color/dark-theme.token-semantic-color.state.stateLayer.focused",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:4663:8185",
+                "collectionId": "VariableCollectionId:139:4134",
+                "modeId": "139:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
+            }
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 6개 파일",
+        "변경사항: +125 ~1 -63",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 6
+      }
     }
   ],
   "systemLogs": [
@@ -11866,6 +15235,18 @@
       "details": {
         "filesUpdated": 5,
         "tokenCount": 8,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1757915268960",
+      "timestamp": 1757915268960,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.3 by 이효중/UX시스템팀 (6개 토큰)",
+      "version": "1.0.3",
+      "details": {
+        "filesUpdated": 6,
+        "tokenCount": 6,
         "pushedBy": "이효중/UX시스템팀"
       }
     }
