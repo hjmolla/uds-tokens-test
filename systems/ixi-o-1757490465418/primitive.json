@@ -1922,7 +1922,7 @@
     },
     "focused_primary": {
       "$type": "color",
-      "$value": "#d88bb0",
+      "$value": "#ffdeee",
       "$extensions": {
         "figma:variables": {
           "variableId": "VariableID:4705:13623",
