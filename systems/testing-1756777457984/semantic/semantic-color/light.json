@@ -45,7 +45,7 @@
         "base": {
           "inverted": {
             "$type": "color",
-            "$value": "#d13a3a",
+            "$value": "#bb6f6f",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:70:971",
@@ -57,7 +57,7 @@
           },
           "primary": {
             "$type": "color",
-            "$value": "#1a1a1a",
+            "$value": "#bd6363",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:70:972",
@@ -69,7 +69,7 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "#969696",
+            "$value": "#dd4444",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:70:973",
