@@ -2,9 +2,9 @@
   "id": "ㅌㅌ-1757569451191",
   "name": "ㅌㅌ",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "createdAt": "2025-09-11T05:44:12.239Z",
-  "lastSyncedAt": "2025-09-15T04:43:08.387Z",
+  "lastSyncedAt": "2025-09-17T06:53:23.800Z",
   "versionHistory": [
     {
       "version": "0.0.1",
@@ -8467,6 +8467,221 @@
         "description": "patch update from Figma",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "0.0.4",
+      "timestamp": 1758092003800,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "primitive.primitive.naturalGray.dark.10",
+          "primitive.primitive.naturalGray.dark.50",
+          "semantic/color-light.color.color.icon.base.inverted",
+          "semantic/color-light.color.color.icon.base.primary",
+          "semantic/color-light.color.color.icon.base.secondary",
+          "semantic/color-light.color.color.text.base.secondary"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "primitive.primitive.naturalGray.dark.10",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#0a0a0a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:826",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#956c6c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:826",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "primitive.primitive.naturalGray.dark.50",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1f1f1f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:827",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#796c6c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:827",
+                "collectionId": "VariableCollectionId:70:808",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/color-light.color.color.icon.base.inverted",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d13a3a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#bb6f6f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/color-light.color.color.icon.base.primary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#bd6363",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/color-light.color.color.icon.base.secondary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#969696",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#dd4444",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/color-light.color.color.text.base.secondary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#c99f9f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +0 ~6 -0",
+        "ㅇㅇ"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "ㅇㅇ",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -8500,9 +8715,39 @@
         "tokenCount": 7,
         "pushedBy": "이효중/UX시스템팀"
       }
+    },
+    {
+      "id": "log-1758092003800",
+      "timestamp": 1758092003800,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v0.0.4 by 이효중/UX시스템팀 (7개 토큰)",
+      "version": "0.0.4",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7,
+        "pushedBy": "이효중/UX시스템팀"
+      }
     }
   ],
   "tokenFiles": 1,
   "hasInitialTokens": true,
-  "changelog": "patch update from Figma"
+  "changelog": "ㅇㅇ",
+  "collectionSettings": {
+    "VariableCollectionId:70:808": {
+      "included": true,
+      "category": "primitive"
+    },
+    "VariableCollectionId:70:809": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:70:811": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:70:810": {
+      "included": true,
+      "category": "semantic"
+    }
+  }
 }
