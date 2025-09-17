@@ -1,0 +1,257 @@
+{
+  "token-typography": {
+    "display": {
+      "large": {
+        "$type": "dimension",
+        "$value": "{typography.scale 01}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2494",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "32px"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": "{typography.scale 02}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2508",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "28px"
+        }
+      }
+    },
+    "title": {
+      "large": {
+        "$type": "dimension",
+        "$value": "{typography.scale 03}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2513",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "24px"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": "{typography.scale 04}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2514",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "20px"
+        }
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": "{typography.scale 05}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2515",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "18px"
+        }
+      },
+      "extra small": {
+        "$type": "dimension",
+        "$value": "{typography.scale 06}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2516",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "16px"
+        }
+      }
+    },
+    "body": {
+      "large": {
+        "$type": "dimension",
+        "$value": "{typography.scale 05}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2519",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "18px"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": "{typography.scale 06}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2520",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "16px"
+        }
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": "{typography.scale 07}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2521",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "14px"
+        }
+      },
+      "extra small": {
+        "$type": "dimension",
+        "$value": "{typography.scale 08}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2524",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "12px"
+        }
+      },
+      "height none": {
+        "$type": "dimension",
+        "$value": "{typography.none}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2550",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          }
+        }
+      }
+    },
+    "label": {
+      "large": {
+        "$type": "dimension",
+        "$value": "{typography.scale 06}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2528",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "16px"
+        }
+      },
+      "base": {
+        "$type": "dimension",
+        "$value": "{typography.scale 07}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2529",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "14px"
+        }
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": "{typography.scale 08}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2530",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "12px"
+        }
+      },
+      "extra small": {
+        "$type": "dimension",
+        "$value": "{typography.scale 09}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2532",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          },
+          "resolved-value": "10px"
+        }
+      },
+      "height none": {
+        "$type": "dimension",
+        "$value": "{typography.none}",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:68:2551",
+            "collectionId": "VariableCollectionId:68:2477",
+            "modeId": "68:0",
+            "resolvedType": "FLOAT"
+          }
+        }
+      }
+    },
+    "typeface": {
+      "$type": "string",
+      "$value": "{typography.pretendard}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:68:2568",
+          "collectionId": "VariableCollectionId:68:2477",
+          "modeId": "68:0",
+          "resolvedType": "STRING"
+        },
+        "resolved-value": "pretendard"
+      }
+    },
+    "bold": {
+      "$type": "string",
+      "$value": "{typography.bold}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:68:2569",
+          "collectionId": "VariableCollectionId:68:2477",
+          "modeId": "68:0",
+          "resolvedType": "STRING"
+        },
+        "resolved-value": "bold"
+      }
+    },
+    "medium": {
+      "$type": "string",
+      "$value": "{typography.medium}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:68:2570",
+          "collectionId": "VariableCollectionId:68:2477",
+          "modeId": "68:0",
+          "resolvedType": "STRING"
+        },
+        "resolved-value": "medium"
+      }
+    }
+  }
+}
