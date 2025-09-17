@@ -2,10 +2,10 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.1.16",
+  "version": "2.1.17",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-17T04:30:13.437Z",
-  "changelog": "patch update from Figma",
+  "lastSyncedAt": "2025-09-17T06:07:25.036Z",
+  "changelog": "색상변경",
   "versionHistory": [
     {
       "version": "2.0.3",
@@ -9753,6 +9753,61 @@
         "description": "patch update from Figma",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "2.1.17",
+      "timestamp": 1758089245036,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "semantic/color-light.color.color.text.base.secondary"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "semantic/color-light.color.color.text.base.secondary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#c99f9f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +0 ~1 -0",
+        "색상변경"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "색상변경",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -10141,6 +10196,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.1.16 by 이효중/UX시스템팀 (7개 토큰)",
       "version": "2.1.16",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758089245036",
+      "timestamp": 1758089245036,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.1.17 by 이효중/UX시스템팀 (7개 토큰)",
+      "version": "2.1.17",
       "details": {
         "filesUpdated": 7,
         "tokenCount": 7,
