@@ -2,9 +2,9 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.1.14",
+  "version": "2.1.15",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-15T07:19:32.990Z",
+  "lastSyncedAt": "2025-09-17T04:15:57.153Z",
   "changelog": "patch update from Figma",
   "versionHistory": [
     {
@@ -7979,6 +7979,125 @@
         "description": "patch update from Figma",
         "tokenCount": 7
       }
+    },
+    {
+      "version": "2.1.15",
+      "timestamp": 1758082557153,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "semantic/semantic-color/light.color.color.icon.base.inverted",
+          "semantic/semantic-color/light.color.color.icon.base.primary",
+          "semantic/semantic-color/light.color.color.icon.base.secondary"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "semantic/semantic-color/light.color.color.icon.base.inverted",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d13a3a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#bb6f6f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/semantic-color/light.color.color.icon.base.primary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#bd6363",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        },
+        {
+          "path": "semantic/semantic-color/light.color.color.icon.base.secondary",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#969696",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#dd4444",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "collectionId": "VariableCollectionId:70:809",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 7개 파일",
+        "변경사항: +0 ~3 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 7
+      }
     }
   ],
   "systemLogs": [
@@ -8343,6 +8462,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.1.14 by 이효중/UX시스템팀 (7개 토큰)",
       "version": "2.1.14",
+      "details": {
+        "filesUpdated": 7,
+        "tokenCount": 7,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758082557153",
+      "timestamp": 1758082557153,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.1.15 by 이효중/UX시스템팀 (7개 토큰)",
+      "version": "2.1.15",
       "details": {
         "filesUpdated": 7,
         "tokenCount": 7,
