@@ -257,7 +257,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{label.xLarge}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/xLarge-700",
         "$extensions": {
@@ -274,7 +274,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{label.large}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/large-700",
         "$extensions": {
@@ -291,7 +291,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.large}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/large-500",
         "$extensions": {
@@ -308,7 +308,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{label.base}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/medium-700",
         "$extensions": {
@@ -325,7 +325,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.base}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/medium-500",
         "$extensions": {
@@ -342,7 +342,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.small}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/small-500",
         "$extensions": {
@@ -359,7 +359,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.xSmall}",
-          "lineHeight": "undefinedauto"
+          "lineHeight": "normal"
         },
         "$description": "Typography style: font/label/xSmall-500",
         "$extensions": {
