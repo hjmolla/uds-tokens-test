@@ -2,8 +2,8 @@
   "TestTypo": {
     "$type": "typography",
     "$value": {
-      "fontFamily": "Pretendard",
-      "fontWeight": "Medium",
+      "fontFamily": "{pretendard}",
+      "fontWeight": "{medium}",
       "fontSize": "{typography.body.base}",
       "lineHeight": "undefinedpx"
     },
