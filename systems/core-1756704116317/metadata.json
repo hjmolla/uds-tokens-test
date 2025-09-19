@@ -2,10 +2,10 @@
   "id": "core-1756704116317",
   "name": "Core",
   "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "createdAt": "2025-09-01T05:21:56.317Z",
-  "lastSyncedAt": "2025-09-19T01:47:20.848Z",
-  "changelog": "Styles 추가",
+  "lastSyncedAt": "2025-09-19T01:56:28.004Z",
+  "changelog": "patch update from Figma",
   "versionHistory": [
     {
       "version": "1.0.3",
@@ -22000,6 +22000,27 @@
         "description": "Styles 추가",
         "tokenCount": 12
       }
+    },
+    {
+      "version": "1.0.8",
+      "timestamp": 1758246988004,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "detailedChanges": [],
+      "logs": [
+        "토큰 업데이트: 8개 파일",
+        "변경사항: +0 ~0 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 12
+      }
     }
   ],
   "systemLogs": [
@@ -22057,6 +22078,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v1.0.7 by 이효중/UX시스템팀 (12개 토큰)",
       "version": "1.0.7",
+      "details": {
+        "filesUpdated": 8,
+        "tokenCount": 12,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758246988004",
+      "timestamp": 1758246988004,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.8 by 이효중/UX시스템팀 (12개 토큰)",
+      "version": "1.0.8",
       "details": {
         "filesUpdated": 8,
         "tokenCount": 12,
