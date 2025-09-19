@@ -4,8 +4,8 @@
     "$value": {
       "fontFamily": "Pretendard",
       "fontWeight": "Medium",
-      "fontSize": "16px",
-      "lineHeight": "normal"
+      "fontSize": "{typography.body.base}",
+      "lineHeight": "undefinedpx"
     },
     "$description": "For test obviously",
     "$extensions": {
