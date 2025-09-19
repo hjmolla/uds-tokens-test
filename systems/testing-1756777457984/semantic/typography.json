@@ -1,0 +1,19 @@
+{
+  "TestTypo": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Pretendard",
+      "fontWeight": "Medium",
+      "fontSize": "16px",
+      "lineHeight": "normal"
+    },
+    "$description": "For test obviously",
+    "$extensions": {
+      "figma:styles": {
+        "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+        "styleName": "TestTypo",
+        "styleType": "TEXT"
+      }
+    }
+  }
+}
