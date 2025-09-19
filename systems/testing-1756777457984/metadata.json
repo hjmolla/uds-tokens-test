@@ -2,9 +2,9 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.1.20",
+  "version": "2.1.21",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-19T07:25:47.531Z",
+  "lastSyncedAt": "2025-09-19T07:55:45.536Z",
   "changelog": "patch update from Figma",
   "versionHistory": [
     {
@@ -13434,6 +13434,71 @@
         "description": "patch update from Figma",
         "tokenCount": 21
       }
+    },
+    {
+      "version": "2.1.21",
+      "timestamp": 1758268545535,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "semantic/typography.TestTypo"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "semantic/typography.TestTypo",
+          "type": "modified",
+          "oldValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{pretendard}",
+              "fontWeight": "{medium}",
+              "fontSize": "{typography.body.base}",
+              "lineHeight": "undefinedpx"
+            },
+            "$description": "For test obviously",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+                "styleName": "TestTypo",
+                "styleType": "TEXT"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{typography.typeface}",
+              "fontWeight": "{medium}",
+              "fontSize": "{typography.body.base}",
+              "lineHeight": "undefinedpx"
+            },
+            "$description": "For test obviously",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+                "styleName": "TestTypo",
+                "styleType": "TEXT"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 9개 파일",
+        "변경사항: +0 ~1 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 21
+      }
     }
   ],
   "systemLogs": [
@@ -13870,6 +13935,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.1.20 by 이효중/UX시스템팀 (21개 토큰)",
       "version": "2.1.20",
+      "details": {
+        "filesUpdated": 9,
+        "tokenCount": 21,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758268545535",
+      "timestamp": 1758268545535,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.1.21 by 이효중/UX시스템팀 (21개 토큰)",
+      "version": "2.1.21",
       "details": {
         "filesUpdated": 9,
         "tokenCount": 21,
