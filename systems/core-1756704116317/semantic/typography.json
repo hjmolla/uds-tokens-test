@@ -4,8 +4,8 @@
       "large700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{display.large}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
@@ -22,8 +22,8 @@
       "medium700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{display.base}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
@@ -42,8 +42,8 @@
       "large700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{title.large}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
@@ -60,8 +60,8 @@
       "medium700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{title.base}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
@@ -78,8 +78,8 @@
       "small700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{title.small}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
@@ -96,8 +96,8 @@
       "xSmall700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{title.xSmall}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
@@ -116,8 +116,8 @@
       "large700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{body.large}",
           "lineHeight": "150%"
         },
@@ -133,8 +133,8 @@
       "large500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{body.large}",
           "lineHeight": "150%"
         },
@@ -150,8 +150,8 @@
       "medium700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{body.base}",
           "lineHeight": "150%"
         },
@@ -167,8 +167,8 @@
       "medium500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{body.base}",
           "lineHeight": "150%"
         },
@@ -184,8 +184,8 @@
       "small700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{body.small}",
           "lineHeight": "150%"
         },
@@ -201,8 +201,8 @@
       "small500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{body.small}",
           "lineHeight": "150%"
         },
@@ -218,8 +218,8 @@
       "xSmall700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{body.xSmall}",
           "lineHeight": "150%"
         },
@@ -235,8 +235,8 @@
       "xSmall500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{body.xSmall}",
           "lineHeight": "150%"
         },
@@ -254,8 +254,8 @@
       "xLarge700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{label.xLarge}",
           "lineHeight": "undefinedpx"
         },
@@ -271,8 +271,8 @@
       "large700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{label.large}",
           "lineHeight": "undefinedpx"
         },
@@ -288,8 +288,8 @@
       "large500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{label.large}",
           "lineHeight": "undefinedpx"
         },
@@ -305,8 +305,8 @@
       "medium700": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{bold}",
           "fontSize": "{label.base}",
           "lineHeight": "undefinedpx"
         },
@@ -322,8 +322,8 @@
       "medium500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{label.base}",
           "lineHeight": "undefinedpx"
         },
@@ -339,8 +339,8 @@
       "small500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{label.small}",
           "lineHeight": "undefinedpx"
         },
@@ -356,8 +356,8 @@
       "xSmall500": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Medium",
+          "fontFamily": "{typeface}",
+          "fontWeight": "{medium}",
           "fontSize": "{label.xSmall}",
           "lineHeight": "undefinedpx"
         },
