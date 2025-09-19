@@ -6,7 +6,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "36px",
+          "fontSize": "{display.large}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
         },
@@ -24,7 +24,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "28px",
+          "fontSize": "{display.base}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
         },
@@ -44,7 +44,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "24px",
+          "fontSize": "{title.large}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
         },
@@ -62,7 +62,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "20px",
+          "fontSize": "{title.base}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
         },
@@ -80,7 +80,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "18px",
+          "fontSize": "{title.small}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
         },
@@ -98,7 +98,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "16px",
+          "fontSize": "{title.xSmall}",
           "lineHeight": "129.99999523162842%",
           "letterSpacing": "-2%"
         },
@@ -118,7 +118,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "18px",
+          "fontSize": "{body.large}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/large-700",
@@ -135,7 +135,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "18px",
+          "fontSize": "{body.large}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/large-500",
@@ -152,7 +152,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "16px",
+          "fontSize": "{body.base}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/medium-700",
@@ -169,7 +169,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "16px",
+          "fontSize": "{body.base}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/medium-500",
@@ -186,7 +186,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "14px",
+          "fontSize": "{body.small}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/small-700",
@@ -203,7 +203,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "14px",
+          "fontSize": "{body.small}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/small-500",
@@ -220,7 +220,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "12px",
+          "fontSize": "{body.xSmall}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/xSmall-700",
@@ -237,7 +237,7 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "12px",
+          "fontSize": "{body.xSmall}",
           "lineHeight": "150%"
         },
         "$description": "Typography style: font/body/xSmall-500",
@@ -256,8 +256,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "18px",
-          "lineHeight": "normal"
+          "fontSize": "{label.xLarge}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/xLarge-700",
         "$extensions": {
@@ -273,8 +273,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "16px",
-          "lineHeight": "normal"
+          "fontSize": "{label.large}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/large-700",
         "$extensions": {
@@ -290,8 +290,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "16px",
-          "lineHeight": "normal"
+          "fontSize": "{label.large}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/large-500",
         "$extensions": {
@@ -307,8 +307,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Bold",
-          "fontSize": "14px",
-          "lineHeight": "normal"
+          "fontSize": "{label.base}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/medium-700",
         "$extensions": {
@@ -324,8 +324,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "14px",
-          "lineHeight": "normal"
+          "fontSize": "{label.base}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/medium-500",
         "$extensions": {
@@ -341,8 +341,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "12px",
-          "lineHeight": "normal"
+          "fontSize": "{label.small}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/small-500",
         "$extensions": {
@@ -358,8 +358,8 @@
         "$value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Medium",
-          "fontSize": "10px",
-          "lineHeight": "normal"
+          "fontSize": "{label.xSmall}",
+          "lineHeight": "undefinedpx"
         },
         "$description": "Typography style: font/label/xSmall-500",
         "$extensions": {
