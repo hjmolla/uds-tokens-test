@@ -112,6 +112,18 @@
             }
           }
         },
+        "16": {
+          "$type": "dimension",
+          "$value": "16px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:5608:7965",
+              "collectionId": "VariableCollectionId:475:235",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
         "none": {
           "$type": "dimension",
           "$value": null,
@@ -260,6 +272,18 @@
             }
           }
         },
+        "12": {
+          "$type": "dimension",
+          "$value": "12px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:5549:3209",
+              "collectionId": "VariableCollectionId:475:235",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
         "14": {
           "$type": "dimension",
           "$value": "14px",
@@ -290,6 +314,18 @@
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:5114:7094",
+              "collectionId": "VariableCollectionId:475:235",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
+        "24": {
+          "$type": "dimension",
+          "$value": "24px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:5549:4640",
               "collectionId": "VariableCollectionId:475:235",
               "modeId": "475:1",
               "resolvedType": "FLOAT"
