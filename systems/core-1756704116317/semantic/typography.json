@@ -7,7 +7,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{display.large}",
-          "lineHeight": "129.99999523162842%",
+          "lineHeight": "130%",
           "letterSpacing": "-2%"
         },
         "$description": "Typography style: font/display/large-700",
@@ -25,7 +25,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{display.base}",
-          "lineHeight": "129.99999523162842%",
+          "lineHeight": "130%",
           "letterSpacing": "-2%"
         },
         "$description": "Typography style: font/display/medium-700",
@@ -45,7 +45,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{title.large}",
-          "lineHeight": "129.99999523162842%",
+          "lineHeight": "130%",
           "letterSpacing": "-2%"
         },
         "$description": "Typography style: font/title/large-700",
@@ -63,7 +63,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{title.base}",
-          "lineHeight": "129.99999523162842%",
+          "lineHeight": "130%",
           "letterSpacing": "-2%"
         },
         "$description": "Typography style: font/title/medium-700",
@@ -81,7 +81,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{title.small}",
-          "lineHeight": "129.99999523162842%",
+          "lineHeight": "130%",
           "letterSpacing": "-2%"
         },
         "$description": "Typography style: font/title/small-700",
@@ -99,7 +99,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{title.xSmall}",
-          "lineHeight": "129.99999523162842%",
+          "lineHeight": "130%",
           "letterSpacing": "-2%"
         },
         "$description": "Typography style: font/title/xSmall-700",
@@ -257,7 +257,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{label.xLarge}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/xLarge-700",
         "$extensions": {
@@ -274,7 +274,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{label.large}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/large-700",
         "$extensions": {
@@ -291,7 +291,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.large}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/large-500",
         "$extensions": {
@@ -308,7 +308,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{bold}",
           "fontSize": "{label.base}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/medium-700",
         "$extensions": {
@@ -325,7 +325,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.base}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/medium-500",
         "$extensions": {
@@ -342,7 +342,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.small}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/small-500",
         "$extensions": {
@@ -359,7 +359,7 @@
           "fontFamily": "{typeface}",
           "fontWeight": "{medium}",
           "fontSize": "{label.xSmall}",
-          "lineHeight": "undefinedpx"
+          "lineHeight": "undefinedauto"
         },
         "$description": "Typography style: font/label/xSmall-500",
         "$extensions": {
