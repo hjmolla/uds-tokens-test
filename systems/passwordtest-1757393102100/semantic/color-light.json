@@ -147,7 +147,7 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "#474747",
+            "$value": "#c99f9f",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:70:979",
