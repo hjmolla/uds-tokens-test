@@ -158,7 +158,7 @@
         "base": {
           "higher": {
             "$type": "color",
-            "$value": "{color.neutralGray.light.100}",
+            "$value": "{color.neutralGray.light.200}",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:139:4157",
@@ -166,7 +166,7 @@
                 "modeId": "139:0",
                 "resolvedType": "COLOR"
               },
-              "resolved-value": "#ebebeb"
+              "resolved-value": "#e0e0e0"
             }
           },
           "InvertedBlack": {
