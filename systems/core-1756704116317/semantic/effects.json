@@ -1,0 +1,53 @@
+{
+  "shadow_lever1": {
+    "$type": "shadow",
+    "$value": {
+      "offsetX": "0px",
+      "offsetY": "1px",
+      "blur": "4px",
+      "spread": "0px",
+      "color": "#1a1a1a14"
+    },
+    "$extensions": {
+      "figma:style": {
+        "styleId": "S:a969247f5ee5502df2d5d65bbf3f4f2838e85b06,",
+        "type": "EFFECT",
+        "name": "shadow_lever1"
+      }
+    }
+  },
+  "shadow_lever2": {
+    "$type": "shadow",
+    "$value": {
+      "offsetX": "0px",
+      "offsetY": "0px",
+      "blur": "16px",
+      "spread": "0px",
+      "color": "#1a1a1a14"
+    },
+    "$extensions": {
+      "figma:style": {
+        "styleId": "S:9b0c660429a83978e7c17f4aef805f2f6439f666,",
+        "type": "EFFECT",
+        "name": "shadow_lever2"
+      }
+    }
+  },
+  "shadow_lever3": {
+    "$type": "shadow",
+    "$value": {
+      "offsetX": "0px",
+      "offsetY": "1px",
+      "blur": "20px",
+      "spread": "0px",
+      "color": "#1a1a1a29"
+    },
+    "$extensions": {
+      "figma:style": {
+        "styleId": "S:030459b5072fc0b9a98b89d1a621791375297d4b,",
+        "type": "EFFECT",
+        "name": "shadow_lever3"
+      }
+    }
+  }
+}
