@@ -1,0 +1,390 @@
+{
+  "font": {
+    "display": {
+      "large-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "36px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "129.99999523162842%",
+          "letterSpacing": "-2%",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:7a449f85f9d83e6af8e7440e096981225c959082,",
+            "type": "TEXT",
+            "name": "font/display/large-700"
+          }
+        }
+      },
+      "medium-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "28px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "129.99999523162842%",
+          "letterSpacing": "-2%",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:dfd449cb8efafe0fec3d354af5a4d98113f1e406,",
+            "type": "TEXT",
+            "name": "font/display/medium-700"
+          }
+        }
+      }
+    },
+    "title": {
+      "large-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "24px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "129.99999523162842%",
+          "letterSpacing": "-2%",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:3f571a437703665d36d68308d26f0521a0dfdf61,",
+            "type": "TEXT",
+            "name": "font/title/large-700"
+          }
+        }
+      },
+      "medium-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "20px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "129.99999523162842%",
+          "letterSpacing": "-2%",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:5950512b4623e54b7f530418b15761b56c7c7282,",
+            "type": "TEXT",
+            "name": "font/title/medium-700"
+          }
+        }
+      },
+      "small-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "18px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "129.99999523162842%",
+          "letterSpacing": "-2%",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:9abe95485ed9ade52a933e919d626a9ead9b728e,",
+            "type": "TEXT",
+            "name": "font/title/small-700"
+          }
+        }
+      },
+      "xSmall-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "16px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "129.99999523162842%",
+          "letterSpacing": "-2%",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:f6675edc44da2e84f431dd1351fbabc68444d185,",
+            "type": "TEXT",
+            "name": "font/title/xSmall-700"
+          }
+        }
+      }
+    },
+    "body": {
+      "large-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "18px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:2d4824854676bc5411ebe84f388b02889cf6b126,",
+            "type": "TEXT",
+            "name": "font/body/large-700"
+          }
+        }
+      },
+      "large-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "18px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:62002dd1acd8275ae2bb575cedbaaca0fed6253c,",
+            "type": "TEXT",
+            "name": "font/body/large-500"
+          }
+        }
+      },
+      "medium-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "16px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:56bd338ca8875731c827dd78a31ce733b86772ec,",
+            "type": "TEXT",
+            "name": "font/body/medium-700"
+          }
+        }
+      },
+      "medium-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "16px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:203ad7d7bb48a2bbc542fbce28f1ced492f273fd,",
+            "type": "TEXT",
+            "name": "font/body/medium-500"
+          }
+        }
+      },
+      "small-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "14px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:c9333c01e8e8661d2b58e770df0a0d8b0002563c,",
+            "type": "TEXT",
+            "name": "font/body/small-700"
+          }
+        }
+      },
+      "small-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "14px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:4f2af3535471d84fee3cf85494e90e8648d02731,",
+            "type": "TEXT",
+            "name": "font/body/small-500"
+          }
+        }
+      },
+      "xSmall-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "12px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:3e6eaf1d92e9a4c5a7728cf6eb7bacb315b2c499,",
+            "type": "TEXT",
+            "name": "font/body/xSmall-700"
+          }
+        }
+      },
+      "xSmall-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "12px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "150%",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:194971a5c268419dfb2659ad40d5582a9fcc9a56,",
+            "type": "TEXT",
+            "name": "font/body/xSmall-500"
+          }
+        }
+      }
+    },
+    "label": {
+      "xLarge-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "18px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:089161bad45f58381db063b611444c78b4ffe491,",
+            "type": "TEXT",
+            "name": "font/label/xLarge-700"
+          }
+        }
+      },
+      "large-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "16px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:ac1ec0293df44c53a1fb3caffdab12fc7e7dac71,",
+            "type": "TEXT",
+            "name": "font/label/large-700"
+          }
+        }
+      },
+      "large-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "16px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:bdd645ebc5dcdbd595e7ac4b12a383c811027f38,",
+            "type": "TEXT",
+            "name": "font/label/large-500"
+          }
+        }
+      },
+      "medium-700": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "14px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:950e51beeb3226809b4aaf56adbe72beb09787a7,",
+            "type": "TEXT",
+            "name": "font/label/medium-700"
+          }
+        }
+      },
+      "medium-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "14px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:6af3860fd72feb81baaa88ce688f93cf226b1e75,",
+            "type": "TEXT",
+            "name": "font/label/medium-500"
+          }
+        }
+      },
+      "small-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "12px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:bb479d7ba227024d02bbd20812c00ee09f2b3ed8,",
+            "type": "TEXT",
+            "name": "font/label/small-500"
+          }
+        }
+      },
+      "xSmall-500": {
+        "$type": "typography",
+        "$value": {
+          "fontSize": "10px",
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "auto",
+          "letterSpacing": "0px",
+          "textDecoration": "none"
+        },
+        "$extensions": {
+          "figma:style": {
+            "styleId": "S:bb16ae3e6a3e9718bf2167830977904e6f10ccbe,",
+            "type": "TEXT",
+            "name": "font/label/xSmall-500"
+          }
+        }
+      }
+    }
+  }
+}
