@@ -33,5 +33,7 @@
       "message": "시스템 \"Core\" 생성됨",
       "version": "1.0.0"
     }
-  ]
+  ],
+  "tokenFiles": 1,
+  "hasInitialTokens": true
 }
