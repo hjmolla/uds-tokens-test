@@ -1,0 +1,37 @@
+{
+  "id": "core-1758518847572",
+  "name": "Core",
+  "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+  "version": "1.0.0",
+  "createdAt": "2025-09-22T05:27:28.575Z",
+  "lastSyncedAt": "2025-09-22T05:27:28.575Z",
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "timestamp": 1758518848575,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 9
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1758518848575",
+      "timestamp": 1758518848575,
+      "action": "created",
+      "message": "시스템 \"Core\" 생성됨",
+      "version": "1.0.0"
+    }
+  ]
+}
