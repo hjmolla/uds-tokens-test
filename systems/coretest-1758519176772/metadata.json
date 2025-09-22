@@ -2,9 +2,9 @@
   "id": "coretest-1758519176772",
   "name": "CoreTest",
   "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "createdAt": "2025-09-22T05:32:57.699Z",
-  "lastSyncedAt": "2025-09-22T05:39:43.064Z",
+  "lastSyncedAt": "2025-09-22T05:41:31.206Z",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -4482,6 +4482,46 @@
         "description": "patch update from Figma",
         "tokenCount": 12
       }
+    },
+    {
+      "version": "1.0.2",
+      "timestamp": 1758519691206,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [
+          "semantic/token-dimension.token-dimension.layout.spacing-y.40"
+        ],
+        "modified": [],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "semantic/token-dimension.token-dimension.layout.spacing-y.40",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "40px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:5830:46794",
+                "collectionId": "VariableCollectionId:475:235",
+                "modeId": "475:1",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 8개 파일",
+        "변경사항: +1 ~0 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 12
+      }
     }
   ],
   "systemLogs": [
@@ -4498,6 +4538,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v1.0.1 by 이효중/UX시스템팀 (12개 토큰)",
       "version": "1.0.1",
+      "details": {
+        "filesUpdated": 8,
+        "tokenCount": 12,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758519691206",
+      "timestamp": 1758519691206,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.2 by 이효중/UX시스템팀 (12개 토큰)",
+      "version": "1.0.2",
       "details": {
         "filesUpdated": 8,
         "tokenCount": 12,
