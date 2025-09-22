@@ -1,0 +1,467 @@
+{
+  "display": {
+    "large700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.display.large}",
+        "lineHeight": "140%",
+        "letterSpacing": "-4%"
+      },
+      "$description": "Typography style: display/large-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:cbe7ea6dc24c4e017ef5006838d77f067779cfaa,",
+          "styleName": "display/large-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "medium700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.display.base}",
+        "lineHeight": "130%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "Typography style: display/medium-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:64b115fd176f482814133bda0342bc960657500f,",
+          "styleName": "display/medium-700",
+          "styleType": "TEXT"
+        }
+      }
+    }
+  },
+  "title": {
+    "large700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.title.large}",
+        "lineHeight": "130%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "Typography style: title/large-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:ec94810072c2d1d2bdbf2b5ba36c1bd0247689ef,",
+          "styleName": "title/large-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "medium700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.title.base}",
+        "lineHeight": "130%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "Typography style: title/medium-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:843c81b76ee687e9b99a67b8a06f04e5d5bb1393,",
+          "styleName": "title/medium-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "small700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.title.small}",
+        "lineHeight": "130%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "Typography style: title/small-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:f56059815ecf97ad5bebe3231bf24de3aff7930c,",
+          "styleName": "title/small-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "extraSmall700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.title.extra small}",
+        "lineHeight": "130%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "Typography style: title/extraSmall-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:4fd8fb116ac1cf4322a3d9a780c65f4184ec5ea9,",
+          "styleName": "title/extraSmall-700",
+          "styleType": "TEXT"
+        }
+      }
+    }
+  },
+  "body": {
+    "large700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.body.large}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/large-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:3381e212ed8001e99c8ab354dab411f78f06a8f1,",
+          "styleName": "body/large-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "large500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.body.large}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/large-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:95a1d4e5c7159450e0d8f63c0ad4ecec7d0e3d97,",
+          "styleName": "body/large-500",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "medium700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.body.base}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/medium-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:d8261d952a4d177bc43b4aea61d35dcfc04b2b41,",
+          "styleName": "body/medium-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "medium500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.body.base}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/medium-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:e99364b77fb214c65599d6d10faae10167deb13f,",
+          "styleName": "body/medium-500",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "small700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.body.small}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/small-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:6840e5dd9174bb4964594eb284506bfe47fce7f1,",
+          "styleName": "body/small-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "small500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.body.small}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/small-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:500c3d05cdd691597304f0ca260b6c7542d1740b,",
+          "styleName": "body/small-500",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "extraSmall700": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.bold}",
+        "fontSize": "{semantic.typography.body.extra small}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/extraSmall-700",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:96cc0a4e91fb94e76722fcade5ab20050e31cac4,",
+          "styleName": "body/extraSmall-700",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "extraSmall500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.body.extra small}",
+        "lineHeight": "150%"
+      },
+      "$description": "Typography style: body/extraSmall-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:12587548e3bfd3830fa4ccebb0ffb35f8e3b5e48,",
+          "styleName": "body/extraSmall-500",
+          "styleType": "TEXT"
+        }
+      }
+    }
+  },
+  "label": {
+    "large500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.label.large}",
+        "lineHeight": "normal"
+      },
+      "$description": "Typography style: label/large-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:ba251649f159f1cedefe0f35ad836b12d6963d56,",
+          "styleName": "label/large-500",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "medium500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.label.base}",
+        "lineHeight": "normal"
+      },
+      "$description": "Typography style: label/medium-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:5df6fb951ab89845e8d3197c41b36bc50be8bb96,",
+          "styleName": "label/medium-500",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "small500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.label.small}",
+        "lineHeight": "normal"
+      },
+      "$description": "Typography style: label/small-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:14668a29ddd94bb52fab56c8ed55278cc6834d22,",
+          "styleName": "label/small-500",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "extraSmall500": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{semantic.typography.typeface}",
+        "fontWeight": "{semantic.typography.medium}",
+        "fontSize": "{semantic.typography.label.extra small}",
+        "lineHeight": "normal"
+      },
+      "$description": "Typography style: label/extraSmall-500",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:fec868adc3dbde2478c84dd2d38b0f8078352993,",
+          "styleName": "label/extraSmall-500",
+          "styleType": "TEXT"
+        }
+      }
+    }
+  },
+  "Do-not-use-this": {
+    "choose-a-font": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Bold",
+        "fontSize": "36px",
+        "lineHeight": "130%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "타이포그라피 토큰",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:03a73da80b473543be1118a0f3f397a3da7c2e15,",
+          "styleName": "❌ ㅤDo not use this/choose a font",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "H1": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "ExtraBold",
+        "fontSize": "64px",
+        "lineHeight": "131%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "문서 타이툴",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:9bb4c801defaf891ed4f78b7158127800a4da76a,",
+          "styleName": "❌ ㅤDo not use this/H1",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "H2": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Bold",
+        "fontSize": "32px",
+        "lineHeight": "150%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "섹션 대타이틀",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:d17fba25764d9e9ec268d0b3d49706d29e6e5ca1,",
+          "styleName": "❌ ㅤDo not use this/H2",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "H3": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Bold",
+        "fontSize": "22px",
+        "lineHeight": "145%",
+        "letterSpacing": "-1%"
+      },
+      "$description": "섹션 서브 타이틀",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:bb97d61add93fc3c4d8dfaa0a178c6b124bad9c0,",
+          "styleName": "❌ ㅤDo not use this/H3",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "H4": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Bold",
+        "fontSize": "18px",
+        "lineHeight": "133%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "테이블 / 스크립션 타이틀",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:a6892994c5399d51ec072782c0dc7caad0f182a8,",
+          "styleName": "❌ ㅤDo not use this/H4",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "description": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Regular",
+        "fontSize": "18px",
+        "lineHeight": "133%",
+        "letterSpacing": "-2%"
+      },
+      "$description": "설명 문구",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:74db568bea7aaed31892486da3dfbe8292d6a505,",
+          "styleName": "❌ ㅤDo not use this/description",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "body": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Regular",
+        "fontSize": "16px",
+        "lineHeight": "138%",
+        "letterSpacing": "-1%"
+      },
+      "$description": "Typography style: ❌ ㅤDo not use this/body",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:593293d04fb58a39c2807f71ceff6b94d8acc376,",
+          "styleName": "❌ ㅤDo not use this/body",
+          "styleType": "TEXT"
+        }
+      }
+    },
+    "label": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Medium",
+        "fontSize": "12px",
+        "lineHeight": "150%"
+      },
+      "$description": "토큰, 라벨 본문",
+      "$extensions": {
+        "figma:styles": {
+          "styleId": "S:279f4120d160653d3299b4790fb8fcd2c327846e,",
+          "styleName": "❌ ㅤDo not use this/label",
+          "styleType": "TEXT"
+        }
+      }
+    }
+  }
+}
