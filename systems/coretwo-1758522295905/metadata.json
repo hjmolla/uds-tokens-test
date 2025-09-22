@@ -1,0 +1,63 @@
+{
+  "id": "coretwo-1758522295905",
+  "name": "CoreTwo",
+  "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+  "version": "1.0.0",
+  "createdAt": "2025-09-22T06:24:57.073Z",
+  "lastSyncedAt": "2025-09-22T06:24:57.073Z",
+  "collectionSettings": {
+    "VariableCollectionId:8:275": {
+      "included": true,
+      "category": "primitive"
+    },
+    "VariableCollectionId:68:2477": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:139:4134": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:475:197": {
+      "included": true,
+      "category": "primitive"
+    },
+    "VariableCollectionId:475:235": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:609:2168": {
+      "included": true,
+      "category": "primitive"
+    }
+  },
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "timestamp": 1758522297073,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 9
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1758522297073",
+      "timestamp": 1758522297073,
+      "action": "created",
+      "message": "시스템 \"CoreTwo\" 생성됨",
+      "version": "1.0.0"
+    }
+  ]
+}
