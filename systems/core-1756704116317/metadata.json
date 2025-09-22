@@ -2,10 +2,10 @@
   "id": "core-1756704116317",
   "name": "Core",
   "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "createdAt": "2025-09-01T05:21:56.317Z",
-  "lastSyncedAt": "2025-09-22T01:07:06.370Z",
-  "changelog": "effect styles 추가\n",
+  "lastSyncedAt": "2025-09-22T01:38:10.140Z",
+  "changelog": "styles디렉토리 추가",
   "versionHistory": [
     {
       "version": "1.0.3",
@@ -26131,6 +26131,566 @@
         "description": "effect styles 추가\n",
         "tokenCount": 12
       }
+    },
+    {
+      "version": "1.0.15",
+      "timestamp": 1758505090140,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [
+          "styles/typography.font.display.large700",
+          "styles/typography.font.display.medium700",
+          "styles/typography.font.title.large700",
+          "styles/typography.font.title.medium700",
+          "styles/typography.font.title.small700",
+          "styles/typography.font.title.xSmall700",
+          "styles/typography.font.body.large700",
+          "styles/typography.font.body.large500",
+          "styles/typography.font.body.medium700",
+          "styles/typography.font.body.medium500",
+          "styles/typography.font.body.small700",
+          "styles/typography.font.body.small500",
+          "styles/typography.font.body.xSmall700",
+          "styles/typography.font.body.xSmall500",
+          "styles/typography.font.label.xLarge700",
+          "styles/typography.font.label.large700",
+          "styles/typography.font.label.large500",
+          "styles/typography.font.label.medium700",
+          "styles/typography.font.label.medium500",
+          "styles/typography.font.label.small500",
+          "styles/typography.font.label.xSmall500",
+          "styles/effects.shadowlever1",
+          "styles/effects.shadowlever2",
+          "styles/effects.shadowlever3"
+        ],
+        "modified": [],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "styles/typography.font.display.large700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.display.large}",
+              "lineHeight": "130%",
+              "letterSpacing": "-2%"
+            },
+            "$description": "Typography style: font/display/large-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:7a449f85f9d83e6af8e7440e096981225c959082,",
+                "styleName": "font/display/large-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.display.medium700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.display.base}",
+              "lineHeight": "130%",
+              "letterSpacing": "-2%"
+            },
+            "$description": "Typography style: font/display/medium-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:dfd449cb8efafe0fec3d354af5a4d98113f1e406,",
+                "styleName": "font/display/medium-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.title.large700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.title.large}",
+              "lineHeight": "130%",
+              "letterSpacing": "-2%"
+            },
+            "$description": "Typography style: font/title/large-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:3f571a437703665d36d68308d26f0521a0dfdf61,",
+                "styleName": "font/title/large-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.title.medium700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.title.base}",
+              "lineHeight": "130%",
+              "letterSpacing": "-2%"
+            },
+            "$description": "Typography style: font/title/medium-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:5950512b4623e54b7f530418b15761b56c7c7282,",
+                "styleName": "font/title/medium-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.title.small700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.title.small}",
+              "lineHeight": "130%",
+              "letterSpacing": "-2%"
+            },
+            "$description": "Typography style: font/title/small-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:9abe95485ed9ade52a933e919d626a9ead9b728e,",
+                "styleName": "font/title/small-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.title.xSmall700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.title.xSmall}",
+              "lineHeight": "130%",
+              "letterSpacing": "-2%"
+            },
+            "$description": "Typography style: font/title/xSmall-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:f6675edc44da2e84f431dd1351fbabc68444d185,",
+                "styleName": "font/title/xSmall-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.large700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.body.large}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/large-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:2d4824854676bc5411ebe84f388b02889cf6b126,",
+                "styleName": "font/body/large-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.large500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.body.large}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/large-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:62002dd1acd8275ae2bb575cedbaaca0fed6253c,",
+                "styleName": "font/body/large-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.medium700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.body.base}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/medium-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:56bd338ca8875731c827dd78a31ce733b86772ec,",
+                "styleName": "font/body/medium-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.medium500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.body.base}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/medium-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:203ad7d7bb48a2bbc542fbce28f1ced492f273fd,",
+                "styleName": "font/body/medium-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.small700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.body.small}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/small-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:c9333c01e8e8661d2b58e770df0a0d8b0002563c,",
+                "styleName": "font/body/small-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.small500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.body.small}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/small-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:4f2af3535471d84fee3cf85494e90e8648d02731,",
+                "styleName": "font/body/small-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.xSmall700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.body.xSmall}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/xSmall-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:3e6eaf1d92e9a4c5a7728cf6eb7bacb315b2c499,",
+                "styleName": "font/body/xSmall-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.body.xSmall500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.body.xSmall}",
+              "lineHeight": "150%"
+            },
+            "$description": "Typography style: font/body/xSmall-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:194971a5c268419dfb2659ad40d5582a9fcc9a56,",
+                "styleName": "font/body/xSmall-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.xLarge700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.label.xLarge}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/xLarge-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:089161bad45f58381db063b611444c78b4ffe491,",
+                "styleName": "font/label/xLarge-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.large700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.label.large}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/large-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:ac1ec0293df44c53a1fb3caffdab12fc7e7dac71,",
+                "styleName": "font/label/large-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.large500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.label.large}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/large-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:bdd645ebc5dcdbd595e7ac4b12a383c811027f38,",
+                "styleName": "font/label/large-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.medium700",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.bold}",
+              "fontSize": "{semantic.typography.label.base}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/medium-700",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:950e51beeb3226809b4aaf56adbe72beb09787a7,",
+                "styleName": "font/label/medium-700",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.medium500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.label.base}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/medium-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:6af3860fd72feb81baaa88ce688f93cf226b1e75,",
+                "styleName": "font/label/medium-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.small500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.label.small}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/small-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:bb479d7ba227024d02bbd20812c00ee09f2b3ed8,",
+                "styleName": "font/label/small-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/typography.font.label.xSmall500",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typeface}",
+              "fontWeight": "{semantic.typography.medium}",
+              "fontSize": "{semantic.typography.label.xSmall}",
+              "lineHeight": "normal"
+            },
+            "$description": "Typography style: font/label/xSmall-500",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:bb16ae3e6a3e9718bf2167830977904e6f10ccbe,",
+                "styleName": "font/label/xSmall-500",
+                "styleType": "TEXT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/effects.shadowlever1",
+          "type": "added",
+          "newValue": {
+            "$type": "shadow",
+            "$value": {
+              "offsetX": "0px",
+              "offsetY": "1px",
+              "blur": "4px",
+              "spread": "0px",
+              "color": "#1a1a1a14"
+            },
+            "$description": "Effect style: shadow_lever1",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:a969247f5ee5502df2d5d65bbf3f4f2838e85b06,",
+                "styleName": "shadow_lever1",
+                "styleType": "EFFECT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/effects.shadowlever2",
+          "type": "added",
+          "newValue": {
+            "$type": "shadow",
+            "$value": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "16px",
+              "spread": "0px",
+              "color": "#1a1a1a14"
+            },
+            "$description": "Effect style: shadow_lever2",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:9b0c660429a83978e7c17f4aef805f2f6439f666,",
+                "styleName": "shadow_lever2",
+                "styleType": "EFFECT"
+              }
+            }
+          }
+        },
+        {
+          "path": "styles/effects.shadowlever3",
+          "type": "added",
+          "newValue": {
+            "$type": "shadow",
+            "$value": {
+              "offsetX": "0px",
+              "offsetY": "1px",
+              "blur": "20px",
+              "spread": "0px",
+              "color": "#1a1a1a29"
+            },
+            "$description": "Effect style: shadow_lever3",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:030459b5072fc0b9a98b89d1a621791375297d4b,",
+                "styleName": "shadow_lever3",
+                "styleType": "EFFECT"
+              }
+            }
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 8개 파일",
+        "변경사항: +24 ~0 -0",
+        "styles디렉토리 추가"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "styles디렉토리 추가",
+        "tokenCount": 12
+      }
     }
   ],
   "systemLogs": [
@@ -26272,6 +26832,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v1.0.14 by 이효중/UX시스템팀 (12개 토큰)",
       "version": "1.0.14",
+      "details": {
+        "filesUpdated": 8,
+        "tokenCount": 12,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758505090140",
+      "timestamp": 1758505090140,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.15 by 이효중/UX시스템팀 (12개 토큰)",
+      "version": "1.0.15",
       "details": {
         "filesUpdated": 8,
         "tokenCount": 12,
