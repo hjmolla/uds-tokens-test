@@ -2,10 +2,10 @@
   "id": "core-1756704116317",
   "name": "Core",
   "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "createdAt": "2025-09-01T05:21:56.317Z",
-  "lastSyncedAt": "2025-09-19T08:50:15.996Z",
-  "changelog": "patch update from Figma",
+  "lastSyncedAt": "2025-09-22T01:07:06.370Z",
+  "changelog": "effect styles 추가\n",
   "versionHistory": [
     {
       "version": "1.0.3",
@@ -26022,6 +26022,115 @@
         "description": "patch update from Figma",
         "tokenCount": 9
       }
+    },
+    {
+      "version": "1.0.14",
+      "timestamp": 1758503226370,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [
+          "semantic/token-dimension.token-dimension.componet.spacing-y.none",
+          "semantic/effects.shadowlever1",
+          "semantic/effects.shadowlever2",
+          "semantic/effects.shadowlever3"
+        ],
+        "modified": [],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "semantic/token-dimension.token-dimension.componet.spacing-y.none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": null,
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:5744:3990",
+                "collectionId": "VariableCollectionId:475:235",
+                "modeId": "475:1",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/effects.shadowlever1",
+          "type": "added",
+          "newValue": {
+            "$type": "shadow",
+            "$value": {
+              "offsetX": "0px",
+              "offsetY": "1px",
+              "blur": "4px",
+              "spread": "0px",
+              "color": "#1a1a1a14"
+            },
+            "$description": "Effect style: shadow_lever1",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:a969247f5ee5502df2d5d65bbf3f4f2838e85b06,",
+                "styleName": "shadow_lever1",
+                "styleType": "EFFECT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/effects.shadowlever2",
+          "type": "added",
+          "newValue": {
+            "$type": "shadow",
+            "$value": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "16px",
+              "spread": "0px",
+              "color": "#1a1a1a14"
+            },
+            "$description": "Effect style: shadow_lever2",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:9b0c660429a83978e7c17f4aef805f2f6439f666,",
+                "styleName": "shadow_lever2",
+                "styleType": "EFFECT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/effects.shadowlever3",
+          "type": "added",
+          "newValue": {
+            "$type": "shadow",
+            "$value": {
+              "offsetX": "0px",
+              "offsetY": "1px",
+              "blur": "20px",
+              "spread": "0px",
+              "color": "#1a1a1a29"
+            },
+            "$description": "Effect style: shadow_lever3",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:030459b5072fc0b9a98b89d1a621791375297d4b,",
+                "styleName": "shadow_lever3",
+                "styleType": "EFFECT"
+              }
+            }
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 8개 파일",
+        "변경사항: +4 ~0 -0",
+        "effect styles 추가\n"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "effect styles 추가\n",
+        "tokenCount": 12
+      }
     }
   ],
   "systemLogs": [
@@ -26154,6 +26263,18 @@
       "details": {
         "filesUpdated": 7,
         "tokenCount": 9,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758503226370",
+      "timestamp": 1758503226370,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.14 by 이효중/UX시스템팀 (12개 토큰)",
+      "version": "1.0.14",
+      "details": {
+        "filesUpdated": 8,
+        "tokenCount": 12,
         "pushedBy": "이효중/UX시스템팀"
       }
     }
