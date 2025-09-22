@@ -360,6 +360,18 @@
             }
           }
         },
+        "40": {
+          "$type": "dimension",
+          "$value": "40px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:5830:46794",
+              "collectionId": "VariableCollectionId:475:235",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
         "80": {
           "$type": "dimension",
           "$value": "80px",
