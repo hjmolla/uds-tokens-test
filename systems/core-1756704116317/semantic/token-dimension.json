@@ -331,6 +331,18 @@
               "resolvedType": "FLOAT"
             }
           }
+        },
+        "none": {
+          "$type": "dimension",
+          "$value": null,
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:5744:3990",
+              "collectionId": "VariableCollectionId:475:235",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
         }
       }
     },
