@@ -1,0 +1,42 @@
+{
+  "collection": "◇ Primitive/ size",
+  "collectionId": "VariableCollectionId:609:2168",
+  "mode": "Mode 1",
+  "value": {
+    "systemIcon": {
+      "16": {
+        "$type": "dimension",
+        "$value": "16px",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:659:38378",
+            "modeId": "609:0",
+            "resolvedType": "FLOAT"
+          }
+        }
+      },
+      "20": {
+        "$type": "dimension",
+        "$value": "20px",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:659:38379",
+            "modeId": "609:0",
+            "resolvedType": "FLOAT"
+          }
+        }
+      },
+      "24": {
+        "$type": "dimension",
+        "$value": "24px",
+        "$extensions": {
+          "figma:variables": {
+            "variableId": "VariableID:659:38380",
+            "modeId": "609:0",
+            "resolvedType": "FLOAT"
+          }
+        }
+      }
+    }
+  }
+}
