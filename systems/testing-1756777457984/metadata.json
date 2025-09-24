@@ -2,9 +2,9 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.1.26",
+  "version": "2.1.27",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-24T04:45:43.054Z",
+  "lastSyncedAt": "2025-09-24T05:01:13.150Z",
   "changelog": "patch update from Figma",
   "versionHistory": [
     {
@@ -30400,6 +30400,27 @@
         "description": "patch update from Figma",
         "tokenCount": 39
       }
+    },
+    {
+      "version": "2.1.27",
+      "timestamp": 1758690073150,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "detailedChanges": [],
+      "logs": [
+        "토큰 업데이트: 9개 파일",
+        "변경사항: +0 ~0 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 39
+      }
     }
   ],
   "systemLogs": [
@@ -30908,6 +30929,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.1.26 by 이효중/UX시스템팀 (39개 토큰)",
       "version": "2.1.26",
+      "details": {
+        "filesUpdated": 9,
+        "tokenCount": 39,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758690073150",
+      "timestamp": 1758690073150,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.1.27 by 이효중/UX시스템팀 (39개 토큰)",
+      "version": "2.1.27",
       "details": {
         "filesUpdated": 9,
         "tokenCount": 39,
