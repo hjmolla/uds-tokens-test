@@ -1,0 +1,63 @@
+{
+  "id": "ixi-o-1758695274890",
+  "name": "ixi-O",
+  "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
+  "version": "1.0.0",
+  "createdAt": "2025-09-24T06:27:55.483Z",
+  "lastSyncedAt": "2025-09-24T06:27:55.483Z",
+  "collectionSettings": {
+    "VariableCollectionId:3:25": {
+      "included": false,
+      "category": "primitive"
+    },
+    "VariableCollectionId:8:275": {
+      "included": true,
+      "category": "primitive"
+    },
+    "VariableCollectionId:68:2477": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:72:14707": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:139:4134": {
+      "included": true,
+      "category": "semantic"
+    },
+    "VariableCollectionId:4977:6973": {
+      "included": false,
+      "category": "primitive"
+    }
+  },
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "timestamp": 1758695275483,
+      "fileKey": "L96KcAVNYPXFRKKXC0SXTj",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 9
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1758695275483",
+      "timestamp": 1758695275483,
+      "action": "created",
+      "message": "시스템 \"ixi-O\" 생성됨",
+      "version": "1.0.0"
+    }
+  ]
+}
