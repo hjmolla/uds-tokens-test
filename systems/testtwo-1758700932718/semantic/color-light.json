@@ -79,7 +79,7 @@
             },
             "white": {
               "$type": "color",
-              "$value": "#ffffff",
+              "$value": "#e49e9e",
               "$extensions": {
                 "figma:variables": {
                   "variableId": "VariableID:70:974",
