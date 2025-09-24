@@ -51,5 +51,7 @@
       "message": "시스템 \"Testing\" 생성됨",
       "version": "1.0.0"
     }
-  ]
+  ],
+  "tokenFiles": 8,
+  "hasInitialTokens": true
 }
