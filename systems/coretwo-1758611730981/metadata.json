@@ -2,9 +2,9 @@
   "id": "coretwo-1758611730981",
   "name": "CoreTwo",
   "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "createdAt": "2025-09-23T07:15:31.537Z",
-  "lastSyncedAt": "2025-09-23T07:15:31.537Z",
+  "lastSyncedAt": "2025-09-24T05:05:39.520Z",
   "collectionSettings": {
     "VariableCollectionId:8:275": {
       "included": true,
@@ -49,6 +49,4674 @@
         "description": "초기 시스템 생성",
         "tokenCount": 9
       }
+    },
+    {
+      "version": "1.0.1",
+      "timestamp": 1758690339520,
+      "fileKey": "YaXx8oAlOL0SKZ4SrY8Cwr",
+      "changes": {
+        "added": [
+          "primitive.collections.0.value.color.neutralGray.light.10",
+          "primitive.collections.0.value.color.neutralGray.light.50",
+          "primitive.collections.0.value.color.neutralGray.light.100",
+          "primitive.collections.0.value.color.neutralGray.light.200",
+          "primitive.collections.0.value.color.neutralGray.light.300",
+          "primitive.collections.0.value.color.neutralGray.light.400",
+          "primitive.collections.0.value.color.neutralGray.light.500",
+          "primitive.collections.0.value.color.neutralGray.light.600",
+          "primitive.collections.0.value.color.neutralGray.light.700",
+          "primitive.collections.0.value.color.neutralGray.light.800",
+          "primitive.collections.0.value.color.neutralGray.light.900",
+          "primitive.collections.0.value.color.neutralGray.dark.10",
+          "primitive.collections.0.value.color.neutralGray.dark.50",
+          "primitive.collections.0.value.color.neutralGray.dark.100",
+          "primitive.collections.0.value.color.neutralGray.dark.200",
+          "primitive.collections.0.value.color.neutralGray.dark.300",
+          "primitive.collections.0.value.color.neutralGray.dark.400",
+          "primitive.collections.0.value.color.neutralGray.dark.500",
+          "primitive.collections.0.value.color.neutralGray.dark.600",
+          "primitive.collections.0.value.color.neutralGray.dark.700",
+          "primitive.collections.0.value.color.neutralGray.dark.800",
+          "primitive.collections.0.value.color.neutralGray.dark.900",
+          "primitive.collections.0.value.color.red.light.10",
+          "primitive.collections.0.value.color.red.light.50",
+          "primitive.collections.0.value.color.red.light.100",
+          "primitive.collections.0.value.color.red.light.200",
+          "primitive.collections.0.value.color.red.light.300",
+          "primitive.collections.0.value.color.red.light.400",
+          "primitive.collections.0.value.color.red.light.500",
+          "primitive.collections.0.value.color.red.light.600",
+          "primitive.collections.0.value.color.red.light.700",
+          "primitive.collections.0.value.color.red.light.800",
+          "primitive.collections.0.value.color.red.light.900",
+          "primitive.collections.0.value.color.red.dark.10",
+          "primitive.collections.0.value.color.red.dark.50",
+          "primitive.collections.0.value.color.red.dark.100",
+          "primitive.collections.0.value.color.red.dark.200",
+          "primitive.collections.0.value.color.red.dark.300",
+          "primitive.collections.0.value.color.red.dark.400",
+          "primitive.collections.0.value.color.red.dark.500",
+          "primitive.collections.0.value.color.red.dark.600",
+          "primitive.collections.0.value.color.red.dark.700",
+          "primitive.collections.0.value.color.red.dark.800",
+          "primitive.collections.0.value.color.red.dark.900",
+          "primitive.collections.0.value.color.blue.light.10",
+          "primitive.collections.0.value.color.blue.light.50",
+          "primitive.collections.0.value.color.blue.light.100",
+          "primitive.collections.0.value.color.blue.light.200",
+          "primitive.collections.0.value.color.blue.light.300",
+          "primitive.collections.0.value.color.blue.light.400",
+          "primitive.collections.0.value.color.blue.light.500",
+          "primitive.collections.0.value.color.blue.light.600",
+          "primitive.collections.0.value.color.blue.light.700",
+          "primitive.collections.0.value.color.blue.light.800",
+          "primitive.collections.0.value.color.blue.light.900",
+          "primitive.collections.0.value.color.blue.dark.10",
+          "primitive.collections.0.value.color.blue.dark.50",
+          "primitive.collections.0.value.color.blue.dark.100",
+          "primitive.collections.0.value.color.blue.dark.200",
+          "primitive.collections.0.value.color.blue.dark.300",
+          "primitive.collections.0.value.color.blue.dark.400",
+          "primitive.collections.0.value.color.blue.dark.500",
+          "primitive.collections.0.value.color.blue.dark.600",
+          "primitive.collections.0.value.color.blue.dark.700",
+          "primitive.collections.0.value.color.blue.dark.800",
+          "primitive.collections.0.value.color.blue.dark.900",
+          "primitive.collections.0.value.color.green.light.10",
+          "primitive.collections.0.value.color.green.light.50",
+          "primitive.collections.0.value.color.green.light.100",
+          "primitive.collections.0.value.color.green.light.200",
+          "primitive.collections.0.value.color.green.light.300",
+          "primitive.collections.0.value.color.green.light.400",
+          "primitive.collections.0.value.color.green.light.500",
+          "primitive.collections.0.value.color.green.light.600",
+          "primitive.collections.0.value.color.green.light.700",
+          "primitive.collections.0.value.color.green.light.800",
+          "primitive.collections.0.value.color.green.light.900",
+          "primitive.collections.0.value.color.green.dark.10",
+          "primitive.collections.0.value.color.green.dark.50",
+          "primitive.collections.0.value.color.green.dark.100",
+          "primitive.collections.0.value.color.green.dark.200",
+          "primitive.collections.0.value.color.green.dark.300",
+          "primitive.collections.0.value.color.green.dark.400",
+          "primitive.collections.0.value.color.green.dark.500",
+          "primitive.collections.0.value.color.green.dark.600",
+          "primitive.collections.0.value.color.green.dark.700",
+          "primitive.collections.0.value.color.green.dark.800",
+          "primitive.collections.0.value.color.green.dark.900",
+          "primitive.collections.0.value.color.magenta.light.10",
+          "primitive.collections.0.value.color.magenta.light.50",
+          "primitive.collections.0.value.color.magenta.light.100",
+          "primitive.collections.0.value.color.magenta.light.200",
+          "primitive.collections.0.value.color.magenta.light.300",
+          "primitive.collections.0.value.color.magenta.light.400",
+          "primitive.collections.0.value.color.magenta.light.500",
+          "primitive.collections.0.value.color.magenta.light.600",
+          "primitive.collections.0.value.color.magenta.light.700",
+          "primitive.collections.0.value.color.magenta.light.800",
+          "primitive.collections.0.value.color.magenta.light.900",
+          "primitive.collections.0.value.color.magenta.dark.10",
+          "primitive.collections.0.value.color.magenta.dark.50",
+          "primitive.collections.0.value.color.magenta.dark.100",
+          "primitive.collections.0.value.color.magenta.dark.200",
+          "primitive.collections.0.value.color.magenta.dark.300",
+          "primitive.collections.0.value.color.magenta.dark.400",
+          "primitive.collections.0.value.color.magenta.dark.500",
+          "primitive.collections.0.value.color.magenta.dark.600",
+          "primitive.collections.0.value.color.magenta.dark.700",
+          "primitive.collections.0.value.color.magenta.dark.800",
+          "primitive.collections.0.value.color.magenta.dark.900",
+          "primitive.collections.0.value.color.magenta.brightMagenta-ios",
+          "primitive.collections.0.value.color.magenta.brightMagenta-android",
+          "primitive.collections.0.value.color.bw.light.black",
+          "primitive.collections.0.value.color.bw.dark.black",
+          "primitive.collections.0.value.color.bw.white",
+          "primitive.collections.0.value.alpha.white-8",
+          "primitive.collections.0.value.alpha.white-16",
+          "primitive.collections.0.value.alpha.white-24",
+          "primitive.collections.0.value.alpha.white-40",
+          "primitive.collections.0.value.alpha.white-64",
+          "primitive.collections.0.value.alpha.white-80",
+          "primitive.collections.0.value.alpha.black-8",
+          "primitive.collections.0.value.alpha.black-16",
+          "primitive.collections.0.value.alpha.black-24",
+          "primitive.collections.0.value.alpha.black-40",
+          "primitive.collections.0.value.alpha.black-64",
+          "primitive.collections.0.value.alpha.black-80",
+          "primitive.collections.0.value.alpha.white-0",
+          "primitive.collections.0.value.alpha.black-0",
+          "primitive.collections.1.value.10",
+          "primitive.collections.1.value.12",
+          "primitive.collections.1.value.14",
+          "primitive.collections.1.value.16",
+          "primitive.collections.1.value.18",
+          "primitive.collections.1.value.20",
+          "primitive.collections.1.value.24",
+          "primitive.collections.1.value.28",
+          "primitive.collections.1.value.36",
+          "primitive.collections.1.value.pretendard",
+          "primitive.collections.1.value.medium",
+          "primitive.collections.1.value.bold",
+          "primitive.collections.1.value.none",
+          "primitive.collections.2.value.systemIcon.16",
+          "primitive.collections.2.value.systemIcon.20",
+          "primitive.collections.2.value.systemIcon.24"
+        ],
+        "modified": [],
+        "deleted": [
+          "primitive.primitive-color.color.neutralGray.light.10",
+          "primitive.primitive-color.color.neutralGray.light.50",
+          "primitive.primitive-color.color.neutralGray.light.100",
+          "primitive.primitive-color.color.neutralGray.light.200",
+          "primitive.primitive-color.color.neutralGray.light.300",
+          "primitive.primitive-color.color.neutralGray.light.400",
+          "primitive.primitive-color.color.neutralGray.light.500",
+          "primitive.primitive-color.color.neutralGray.light.600",
+          "primitive.primitive-color.color.neutralGray.light.700",
+          "primitive.primitive-color.color.neutralGray.light.800",
+          "primitive.primitive-color.color.neutralGray.light.900",
+          "primitive.primitive-color.color.neutralGray.dark.10",
+          "primitive.primitive-color.color.neutralGray.dark.50",
+          "primitive.primitive-color.color.neutralGray.dark.100",
+          "primitive.primitive-color.color.neutralGray.dark.200",
+          "primitive.primitive-color.color.neutralGray.dark.300",
+          "primitive.primitive-color.color.neutralGray.dark.400",
+          "primitive.primitive-color.color.neutralGray.dark.500",
+          "primitive.primitive-color.color.neutralGray.dark.600",
+          "primitive.primitive-color.color.neutralGray.dark.700",
+          "primitive.primitive-color.color.neutralGray.dark.800",
+          "primitive.primitive-color.color.neutralGray.dark.900",
+          "primitive.primitive-color.color.red.light.10",
+          "primitive.primitive-color.color.red.light.50",
+          "primitive.primitive-color.color.red.light.100",
+          "primitive.primitive-color.color.red.light.200",
+          "primitive.primitive-color.color.red.light.300",
+          "primitive.primitive-color.color.red.light.400",
+          "primitive.primitive-color.color.red.light.500",
+          "primitive.primitive-color.color.red.light.600",
+          "primitive.primitive-color.color.red.light.700",
+          "primitive.primitive-color.color.red.light.800",
+          "primitive.primitive-color.color.red.light.900",
+          "primitive.primitive-color.color.red.dark.10",
+          "primitive.primitive-color.color.red.dark.50",
+          "primitive.primitive-color.color.red.dark.100",
+          "primitive.primitive-color.color.red.dark.200",
+          "primitive.primitive-color.color.red.dark.300",
+          "primitive.primitive-color.color.red.dark.400",
+          "primitive.primitive-color.color.red.dark.500",
+          "primitive.primitive-color.color.red.dark.600",
+          "primitive.primitive-color.color.red.dark.700",
+          "primitive.primitive-color.color.red.dark.800",
+          "primitive.primitive-color.color.red.dark.900",
+          "primitive.primitive-color.color.blue.light.10",
+          "primitive.primitive-color.color.blue.light.50",
+          "primitive.primitive-color.color.blue.light.100",
+          "primitive.primitive-color.color.blue.light.200",
+          "primitive.primitive-color.color.blue.light.300",
+          "primitive.primitive-color.color.blue.light.400",
+          "primitive.primitive-color.color.blue.light.500",
+          "primitive.primitive-color.color.blue.light.600",
+          "primitive.primitive-color.color.blue.light.700",
+          "primitive.primitive-color.color.blue.light.800",
+          "primitive.primitive-color.color.blue.light.900",
+          "primitive.primitive-color.color.blue.dark.10",
+          "primitive.primitive-color.color.blue.dark.50",
+          "primitive.primitive-color.color.blue.dark.100",
+          "primitive.primitive-color.color.blue.dark.200",
+          "primitive.primitive-color.color.blue.dark.300",
+          "primitive.primitive-color.color.blue.dark.400",
+          "primitive.primitive-color.color.blue.dark.500",
+          "primitive.primitive-color.color.blue.dark.600",
+          "primitive.primitive-color.color.blue.dark.700",
+          "primitive.primitive-color.color.blue.dark.800",
+          "primitive.primitive-color.color.blue.dark.900",
+          "primitive.primitive-color.color.green.light.10",
+          "primitive.primitive-color.color.green.light.50",
+          "primitive.primitive-color.color.green.light.100",
+          "primitive.primitive-color.color.green.light.200",
+          "primitive.primitive-color.color.green.light.300",
+          "primitive.primitive-color.color.green.light.400",
+          "primitive.primitive-color.color.green.light.500",
+          "primitive.primitive-color.color.green.light.600",
+          "primitive.primitive-color.color.green.light.700",
+          "primitive.primitive-color.color.green.light.800",
+          "primitive.primitive-color.color.green.light.900",
+          "primitive.primitive-color.color.green.dark.10",
+          "primitive.primitive-color.color.green.dark.50",
+          "primitive.primitive-color.color.green.dark.100",
+          "primitive.primitive-color.color.green.dark.200",
+          "primitive.primitive-color.color.green.dark.300",
+          "primitive.primitive-color.color.green.dark.400",
+          "primitive.primitive-color.color.green.dark.500",
+          "primitive.primitive-color.color.green.dark.600",
+          "primitive.primitive-color.color.green.dark.700",
+          "primitive.primitive-color.color.green.dark.800",
+          "primitive.primitive-color.color.green.dark.900",
+          "primitive.primitive-color.color.magenta.light.10",
+          "primitive.primitive-color.color.magenta.light.50",
+          "primitive.primitive-color.color.magenta.light.100",
+          "primitive.primitive-color.color.magenta.light.200",
+          "primitive.primitive-color.color.magenta.light.300",
+          "primitive.primitive-color.color.magenta.light.400",
+          "primitive.primitive-color.color.magenta.light.500",
+          "primitive.primitive-color.color.magenta.light.600",
+          "primitive.primitive-color.color.magenta.light.700",
+          "primitive.primitive-color.color.magenta.light.800",
+          "primitive.primitive-color.color.magenta.light.900",
+          "primitive.primitive-color.color.magenta.dark.10",
+          "primitive.primitive-color.color.magenta.dark.50",
+          "primitive.primitive-color.color.magenta.dark.100",
+          "primitive.primitive-color.color.magenta.dark.200",
+          "primitive.primitive-color.color.magenta.dark.300",
+          "primitive.primitive-color.color.magenta.dark.400",
+          "primitive.primitive-color.color.magenta.dark.500",
+          "primitive.primitive-color.color.magenta.dark.600",
+          "primitive.primitive-color.color.magenta.dark.700",
+          "primitive.primitive-color.color.magenta.dark.800",
+          "primitive.primitive-color.color.magenta.dark.900",
+          "primitive.primitive-color.color.magenta.brightMagenta-ios",
+          "primitive.primitive-color.color.magenta.brightMagenta-android",
+          "primitive.primitive-color.color.bw.light.black",
+          "primitive.primitive-color.color.bw.dark.black",
+          "primitive.primitive-color.color.bw.white",
+          "primitive.primitive-color.alpha.white-8",
+          "primitive.primitive-color.alpha.white-16",
+          "primitive.primitive-color.alpha.white-24",
+          "primitive.primitive-color.alpha.white-40",
+          "primitive.primitive-color.alpha.white-64",
+          "primitive.primitive-color.alpha.white-80",
+          "primitive.primitive-color.alpha.black-8",
+          "primitive.primitive-color.alpha.black-16",
+          "primitive.primitive-color.alpha.black-24",
+          "primitive.primitive-color.alpha.black-40",
+          "primitive.primitive-color.alpha.black-64",
+          "primitive.primitive-color.alpha.black-80",
+          "primitive.primitive-color.alpha.white-0",
+          "primitive.primitive-color.alpha.black-0",
+          "primitive.primitive-typography.10",
+          "primitive.primitive-typography.12",
+          "primitive.primitive-typography.14",
+          "primitive.primitive-typography.16",
+          "primitive.primitive-typography.18",
+          "primitive.primitive-typography.20",
+          "primitive.primitive-typography.24",
+          "primitive.primitive-typography.28",
+          "primitive.primitive-typography.36",
+          "primitive.primitive-typography.pretendard",
+          "primitive.primitive-typography.medium",
+          "primitive.primitive-typography.bold",
+          "primitive.primitive-typography.none",
+          "primitive.primitive-size.systemIcon.16",
+          "primitive.primitive-size.systemIcon.20",
+          "primitive.primitive-size.systemIcon.24"
+        ]
+      },
+      "detailedChanges": [
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:124:2644",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f2f2f2",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1499",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ebebeb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1503",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e0e0e0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1506",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#bdbdbd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1509",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#a8a8a8",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1512",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#969696",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1515",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#747474",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1518",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#696969",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1521",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1524",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.light.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1527",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#0a0a0a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1528",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1f1f1f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1529",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#262626",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1530",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#303030",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1531",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1532",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#616161",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1533",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#6b6b6b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1534",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#8a8a8a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1535",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#adadad",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1536",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d1d1d1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1537",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.neutralGray.dark.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fafafa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1538",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fdf1f1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1495",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f9c8c8",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1543",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f6acac",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1546",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f17e7e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1549",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ec5151",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1552",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e51a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1555",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#da0707",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1558",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#b20606",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1561",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#8b0404",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1564",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#770404",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1567",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.light.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#450202",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1570",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#231010",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1571",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#381919",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1572",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#462020",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1573",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#901414",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1574",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#b41818",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1575",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d71d1d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1576",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e54343",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1577",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fd6868",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1578",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f29c9c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1579",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f6c0c0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1580",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.red.dark.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fadbdb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1581",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#edf2fd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1604",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#c8d8f9",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1605",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#a3bef5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1606",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#759ef0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1607",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#477eeb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1608",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a5de5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1609",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#064ad0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1610",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#05389e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1611",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#042e81",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1612",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#032363",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1613",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.light.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#021945",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1614",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#101623",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1615",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#192438",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1616",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#23314d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1617",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#0e3481",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1618",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#144bb8",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1619",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#185adc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1620",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#4379e5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1621",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#72a0fe",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1622",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#8aacef",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1623",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#aec5f4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1624",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.blue.dark.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d2dff9",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1625",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#eefbee",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1626",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d5f6d5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1627",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#a3eba4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1628",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#79e27b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1629",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#4fd851",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1630",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#2cc92e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1631",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#19941b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1632",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#018303",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1633",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#016f03",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1634",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#015102",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1635",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.light.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#013d01",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1636",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#0d1c0d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1637",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#132a13",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1638",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1c3f1d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1639",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#046c05",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1640",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1b881c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1641",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#31c433",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1642",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#54d455",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1643",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#7cde7e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1644",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#95e496",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1645",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#beefbe",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1646",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.green.dark.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#dff6df",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1647",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fef1f7",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1692",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fbc1de",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1693",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f891c4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1694",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f066ab",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1695",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fa2993",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1696",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f11e87",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1697",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e10975",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1698",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d5076e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1699",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#a30554",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1700",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#72043b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1701",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.light.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#36021c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1702",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.10",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#100a0d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1703",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.50",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#36212b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1704",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.100",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#63314a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1705",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.200",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#c10663",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1706",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.300",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e50675",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1707",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.400",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f4067d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1708",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.500",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f91589",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1709",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.600",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ee53a1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1710",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.700",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f77eba",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1711",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.800",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#faaed4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1712",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.dark.900",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fddded",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1713",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.brightMagenta-ios",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.magenta.light.300}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:127:1495",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fa2993"
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.magenta.brightMagenta-android",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e25092",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:127:1496",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.bw.light.black",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:2722",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.bw.dark.black",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#050505",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:2723",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.color.bw.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:2728",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-8",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:360",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-16",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:362",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-24",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff3d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:363",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-40",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff66",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:364",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-64",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffffa3",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:365",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-80",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffffcc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:366",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-8",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:370",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-16",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:371",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-24",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a3d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:372",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-40",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a66",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:373",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-64",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1aa3",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:374",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-80",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1acc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:375",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.white-0",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff00",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:597:7784",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.alpha.black-0",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a00",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:597:7785",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.10",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "10px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:224",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.12",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:225",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.14",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:220",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.16",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:213",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.18",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:223",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.20",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:214",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.24",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:215",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.28",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:218",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.36",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "36px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:216",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.pretendard",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "pretendard",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:217",
+                "modeId": "475:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.medium",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "medium",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:219",
+                "modeId": "475:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.bold",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "bold",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:221",
+                "modeId": "475:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.1.value.none",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": null,
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:222",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.2.value.systemIcon.16",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:659:38378",
+                "modeId": "609:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.2.value.systemIcon.20",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:659:38379",
+                "modeId": "609:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.2.value.systemIcon.24",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:659:38380",
+                "modeId": "609:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:124:2644",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f2f2f2",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1499",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ebebeb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1503",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e0e0e0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1506",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#bdbdbd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1509",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#a8a8a8",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1512",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#969696",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1515",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#747474",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1518",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#696969",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1521",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1524",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.light.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1527",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#0a0a0a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1528",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1f1f1f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1529",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#262626",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1530",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#303030",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1531",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1532",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#616161",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1533",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#6b6b6b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1534",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#8a8a8a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1535",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#adadad",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1536",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d1d1d1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1537",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.neutralGray.dark.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fafafa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1538",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fdf1f1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1495",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f9c8c8",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1543",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f6acac",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1546",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f17e7e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1549",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ec5151",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1552",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e51a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1555",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#da0707",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1558",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#b20606",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1561",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#8b0404",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1564",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#770404",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1567",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.light.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#450202",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1570",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#231010",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1571",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#381919",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1572",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#462020",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1573",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#901414",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1574",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#b41818",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1575",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d71d1d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1576",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e54343",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1577",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fd6868",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1578",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f29c9c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1579",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f6c0c0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1580",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.red.dark.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fadbdb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1581",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#edf2fd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1604",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#c8d8f9",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1605",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#a3bef5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1606",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#759ef0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1607",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#477eeb",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1608",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a5de5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1609",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#064ad0",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1610",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#05389e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1611",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#042e81",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1612",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#032363",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1613",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.light.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#021945",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1614",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#101623",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1615",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#192438",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1616",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#23314d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1617",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#0e3481",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1618",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#144bb8",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1619",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#185adc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1620",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#4379e5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1621",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#72a0fe",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1622",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#8aacef",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1623",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#aec5f4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1624",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.blue.dark.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d2dff9",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1625",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#eefbee",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1626",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d5f6d5",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1627",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#a3eba4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1628",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#79e27b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1629",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#4fd851",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1630",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#2cc92e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1631",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#19941b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1632",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#018303",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1633",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#016f03",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1634",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#015102",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1635",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.light.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#013d01",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1636",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#0d1c0d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1637",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#132a13",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1638",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1c3f1d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1639",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#046c05",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1640",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1b881c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1641",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#31c433",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1642",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#54d455",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1643",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#7cde7e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1644",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#95e496",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1645",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#beefbe",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1646",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.green.dark.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#dff6df",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1647",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fef1f7",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1692",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fbc1de",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1693",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f891c4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1694",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f066ab",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1695",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fa2993",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1696",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f11e87",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1697",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e10975",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1698",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d5076e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1699",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#a30554",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1700",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#72043b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1701",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.light.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#36021c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1702",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#100a0d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1703",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.50",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#36212b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1704",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.100",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#63314a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1705",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.200",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#c10663",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1706",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.300",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e50675",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1707",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.400",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f4067d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1708",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.500",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f91589",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1709",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.600",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ee53a1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1710",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.700",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f77eba",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1711",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.800",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#faaed4",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1712",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.dark.900",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fddded",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:126:1713",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.brightMagenta-ios",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "{color.magenta.light.300}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:127:1495",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#fa2993"
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.magenta.brightMagenta-android",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e25092",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:127:1496",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.bw.light.black",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.900}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:2722",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#1a1a1a"
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.bw.dark.black",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#050505",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:2723",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.color.bw.white",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:139:2728",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-8",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:360",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-16",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:362",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-24",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff3d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:363",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-40",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff66",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:364",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-64",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffffa3",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:365",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-80",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffffcc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:366",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-8",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:370",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-16",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:371",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-24",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a3d",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:372",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-40",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a66",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:373",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-64",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1aa3",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:374",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-80",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1acc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:327:375",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.white-0",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff00",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:597:7784",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-color.alpha.black-0",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a00",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:597:7785",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.10",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "10px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:224",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.12",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:225",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.14",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:220",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.16",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:213",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.18",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:223",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.20",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:214",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.24",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:215",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.28",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:218",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.36",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "36px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:216",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.pretendard",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "string",
+            "$value": "pretendard",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:217",
+                "modeId": "475:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.medium",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "string",
+            "$value": "medium",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:219",
+                "modeId": "475:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.bold",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "string",
+            "$value": "bold",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:221",
+                "modeId": "475:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-typography.none",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": null,
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:475:222",
+                "modeId": "475:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-size.systemIcon.16",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:659:38378",
+                "modeId": "609:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-size.systemIcon.20",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:659:38379",
+                "modeId": "609:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.primitive-size.systemIcon.24",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:659:38380",
+                "modeId": "609:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 8개 파일",
+        "변경사항: +145 ~0 -145",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 25
+      }
     }
   ],
   "systemLogs": [
@@ -58,8 +4726,21 @@
       "action": "created",
       "message": "시스템 \"CoreTwo\" 생성됨",
       "version": "1.0.0"
+    },
+    {
+      "id": "log-1758690339520",
+      "timestamp": 1758690339520,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.1 by 이효중/UX시스템팀 (25개 토큰)",
+      "version": "1.0.1",
+      "details": {
+        "filesUpdated": 8,
+        "tokenCount": 25,
+        "pushedBy": "이효중/UX시스템팀"
+      }
     }
   ],
   "tokenFiles": 10,
-  "hasInitialTokens": true
+  "hasInitialTokens": true,
+  "changelog": "patch update from Figma"
 }
