@@ -2,9 +2,9 @@
   "id": "testing-1756777457984",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "2.1.27",
+  "version": "2.1.28",
   "createdAt": "2025-09-02T01:44:18.047Z",
-  "lastSyncedAt": "2025-09-24T05:01:13.150Z",
+  "lastSyncedAt": "2025-09-24T05:09:12.839Z",
   "changelog": "patch update from Figma",
   "versionHistory": [
     {
@@ -30421,6 +30421,59 @@
         "description": "patch update from Figma",
         "tokenCount": 39
       }
+    },
+    {
+      "version": "2.1.28",
+      "timestamp": 1758690552839,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "primitive.collections.0.value.magenta.dark.900"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "primitive.collections.0.value.magenta.dark.900",
+          "type": "modified",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fddded",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:924",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffedf6",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:924",
+                "modeId": "70:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 9개 파일",
+        "변경사항: +0 ~1 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 39
+      }
     }
   ],
   "systemLogs": [
@@ -30941,6 +30994,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v2.1.27 by 이효중/UX시스템팀 (39개 토큰)",
       "version": "2.1.27",
+      "details": {
+        "filesUpdated": 9,
+        "tokenCount": 39,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1758690552839",
+      "timestamp": 1758690552839,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v2.1.28 by 이효중/UX시스템팀 (39개 토큰)",
+      "version": "2.1.28",
       "details": {
         "filesUpdated": 9,
         "tokenCount": 39,
