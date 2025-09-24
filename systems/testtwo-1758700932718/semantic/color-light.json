@@ -1,0 +1,233 @@
+{
+  "collection": "color",
+  "collectionId": "VariableCollectionId:70:809",
+  "mode": "light",
+  "value": {
+    "color": {
+      "state": {
+        "stateLayer": {
+          "pressed-low": {
+            "$type": "color",
+            "$value": "#1a1a1a29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:968",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "pressed-high": {
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:969",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "focused": {
+            "$type": "color",
+            "$value": "#682c2c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:970",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        }
+      },
+      "color": {
+        "icon": {
+          "base": {
+            "inverted": {
+              "$type": "color",
+              "$value": "#bb6f6f",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:971",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "primary": {
+              "$type": "color",
+              "$value": "#bd6363",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:972",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "#dd4444",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:973",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "white": {
+              "$type": "color",
+              "$value": "#ffffff",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:974",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            }
+          },
+          "brand": {
+            "primary": {
+              "$type": "color",
+              "$value": "#fa2993",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:975",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "primary-high": {
+              "$type": "color",
+              "$value": "#d5076e",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:976",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "#1a1a1a",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:977",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            }
+          }
+        },
+        "text": {
+          "base": {
+            "primary": {
+              "$type": "color",
+              "$value": "#1a1a1a",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:978",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "secondary": {
+              "$type": "color",
+              "$value": "#c99f9f",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:979",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "tertiary": {
+              "$type": "color",
+              "$value": "#696969",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:980",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "white": {
+              "$type": "color",
+              "$value": "#ffffff",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:981",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            }
+          },
+          "brand": {
+            "primary": {
+              "$type": "color",
+              "$value": "#fa2993",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:982",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            }
+          }
+        },
+        "background": {
+          "base": {
+            "canvas": {
+              "$type": "color",
+              "$value": "#fcfcfc",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:983",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            },
+            "surface": {
+              "$type": "color",
+              "$value": "#f2f2f2",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:984",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            }
+          }
+        },
+        "border": {
+          "base": {
+            "default": {
+              "$type": "color",
+              "$value": "#bdbdbd",
+              "$extensions": {
+                "figma:variables": {
+                  "variableId": "VariableID:70:985",
+                  "modeId": "70:1",
+                  "resolvedType": "COLOR"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
