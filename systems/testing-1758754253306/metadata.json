@@ -2,9 +2,9 @@
   "id": "testing-1758754253306",
   "name": "Testing",
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "createdAt": "2025-09-24T22:50:53.879Z",
-  "lastSyncedAt": "2025-09-26T04:30:56.623Z",
+  "lastSyncedAt": "2025-09-29T07:48:22.695Z",
   "collectionSettings": {
     "VariableCollectionId:70:808": {
       "included": true,
@@ -3137,6 +3137,3102 @@
         "description": "patch update from Figma",
         "tokenCount": 460
       }
+    },
+    {
+      "version": "1.0.2",
+      "timestamp": 1759132102695,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [
+          "semantic/color-light.state.stateLayer.pressed-low",
+          "semantic/color-light.state.stateLayer.pressed-high",
+          "semantic/color-light.state.stateLayer.focused",
+          "semantic/color-light.color.icon.base.inverted",
+          "semantic/color-light.color.icon.base.primary",
+          "semantic/color-light.color.icon.base.secondary",
+          "semantic/color-light.color.icon.base.white",
+          "semantic/color-light.color.icon.brand.primary",
+          "semantic/color-light.color.icon.brand.primary-high",
+          "semantic/color-light.color.icon.brand.secondary",
+          "semantic/color-light.color.text.base.primary",
+          "semantic/color-light.color.text.base.secondary",
+          "semantic/color-light.color.text.base.tertiary",
+          "semantic/color-light.color.text.base.white",
+          "semantic/color-light.color.text.brand.primary",
+          "semantic/color-light.color.background.base.canvas",
+          "semantic/color-light.color.background.base.surface",
+          "semantic/color-light.color.border.base.default",
+          "semantic/color-dark.state.stateLayer.pressed-low",
+          "semantic/color-dark.state.stateLayer.pressed-high",
+          "semantic/color-dark.state.stateLayer.focused",
+          "semantic/color-dark.color.icon.base.inverted",
+          "semantic/color-dark.color.icon.base.primary",
+          "semantic/color-dark.color.icon.base.secondary",
+          "semantic/color-dark.color.icon.base.white",
+          "semantic/color-dark.color.icon.brand.primary",
+          "semantic/color-dark.color.icon.brand.primary-high",
+          "semantic/color-dark.color.icon.brand.secondary",
+          "semantic/color-dark.color.text.base.primary",
+          "semantic/color-dark.color.text.base.secondary",
+          "semantic/color-dark.color.text.base.tertiary",
+          "semantic/color-dark.color.text.base.white",
+          "semantic/color-dark.color.text.brand.primary",
+          "semantic/color-dark.color.background.base.canvas",
+          "semantic/color-dark.color.background.base.surface",
+          "semantic/color-dark.color.border.base.default",
+          "semantic/typography-default.typography.typeface",
+          "semantic/typography-default.typography.display.large",
+          "semantic/typography-default.typography.display.base",
+          "semantic/typography-default.typography.title.large",
+          "semantic/typography-default.typography.title.base",
+          "semantic/typography-default.typography.title.small",
+          "semantic/typography-default.typography.title.xSmall",
+          "semantic/typography-default.typography.body.large",
+          "semantic/typography-default.typography.body.base",
+          "semantic/typography-default.typography.body.small",
+          "semantic/typography-default.typography.body.xSmall",
+          "semantic/typography-default.typography.label.large",
+          "semantic/typography-default.typography.label.base",
+          "semantic/typography-default.typography.label.small",
+          "semantic/typography-easy.typography.typeface",
+          "semantic/typography-easy.typography.display.large",
+          "semantic/typography-easy.typography.display.base",
+          "semantic/typography-easy.typography.title.large",
+          "semantic/typography-easy.typography.title.base",
+          "semantic/typography-easy.typography.title.small",
+          "semantic/typography-easy.typography.title.xSmall",
+          "semantic/typography-easy.typography.body.large",
+          "semantic/typography-easy.typography.body.base",
+          "semantic/typography-easy.typography.body.small",
+          "semantic/typography-easy.typography.body.xSmall",
+          "semantic/typography-easy.typography.label.large",
+          "semantic/typography-easy.typography.label.base",
+          "semantic/typography-easy.typography.label.small",
+          "semantic/spacing-default.spacing.layout.gap.xs",
+          "semantic/spacing-default.spacing.layout.gap.sm",
+          "semantic/spacing-default.spacing.layout.gap.md",
+          "semantic/spacing-default.spacing.layout.gap.lg",
+          "semantic/spacing-default.spacing.layout.inset.xs",
+          "semantic/spacing-default.spacing.layout.inset.sm",
+          "semantic/spacing-default.spacing.layout.inset.md",
+          "semantic/spacing-default.spacing.layout.inset.lg",
+          "semantic/spacing-default.spacing.layout.inset.xl",
+          "semantic/spacing-default.spacing.component.inset.xs",
+          "semantic/spacing-default.spacing.component.inset.sm",
+          "semantic/spacing-default.spacing.component.inset.md",
+          "semantic/spacing-default.spacing.component.inset.lg",
+          "semantic/spacing-default.spacing.component.gap.xs",
+          "semantic/spacing-default.spacing.component.gap.sm",
+          "semantic/spacing-default.spacing.component.gap.md",
+          "semantic/spacing-condensed.spacing.layout.gap.xs",
+          "semantic/spacing-condensed.spacing.layout.gap.sm",
+          "semantic/spacing-condensed.spacing.layout.gap.md",
+          "semantic/spacing-condensed.spacing.layout.gap.lg",
+          "semantic/spacing-condensed.spacing.layout.inset.xs",
+          "semantic/spacing-condensed.spacing.layout.inset.sm",
+          "semantic/spacing-condensed.spacing.layout.inset.md",
+          "semantic/spacing-condensed.spacing.layout.inset.lg",
+          "semantic/spacing-condensed.spacing.layout.inset.xl",
+          "semantic/spacing-condensed.spacing.component.inset.xs",
+          "semantic/spacing-condensed.spacing.component.inset.sm",
+          "semantic/spacing-condensed.spacing.component.inset.md",
+          "semantic/spacing-condensed.spacing.component.inset.lg",
+          "semantic/spacing-condensed.spacing.component.gap.xs",
+          "semantic/spacing-condensed.spacing.component.gap.sm",
+          "semantic/spacing-condensed.spacing.component.gap.md"
+        ],
+        "modified": [],
+        "deleted": [
+          "semantic/color-light.value.state.stateLayer.pressed-low",
+          "semantic/color-light.value.state.stateLayer.pressed-high",
+          "semantic/color-light.value.state.stateLayer.focused",
+          "semantic/color-light.value.color.icon.base.inverted",
+          "semantic/color-light.value.color.icon.base.primary",
+          "semantic/color-light.value.color.icon.base.secondary",
+          "semantic/color-light.value.color.icon.base.white",
+          "semantic/color-light.value.color.icon.brand.primary",
+          "semantic/color-light.value.color.icon.brand.primary-high",
+          "semantic/color-light.value.color.icon.brand.secondary",
+          "semantic/color-light.value.color.text.base.primary",
+          "semantic/color-light.value.color.text.base.secondary",
+          "semantic/color-light.value.color.text.base.tertiary",
+          "semantic/color-light.value.color.text.base.white",
+          "semantic/color-light.value.color.text.brand.primary",
+          "semantic/color-light.value.color.background.base.canvas",
+          "semantic/color-light.value.color.background.base.surface",
+          "semantic/color-light.value.color.border.base.default",
+          "semantic/color-dark.value.state.stateLayer.pressed-low",
+          "semantic/color-dark.value.state.stateLayer.pressed-high",
+          "semantic/color-dark.value.state.stateLayer.focused",
+          "semantic/color-dark.value.color.icon.base.inverted",
+          "semantic/color-dark.value.color.icon.base.primary",
+          "semantic/color-dark.value.color.icon.base.secondary",
+          "semantic/color-dark.value.color.icon.base.white",
+          "semantic/color-dark.value.color.icon.brand.primary",
+          "semantic/color-dark.value.color.icon.brand.primary-high",
+          "semantic/color-dark.value.color.icon.brand.secondary",
+          "semantic/color-dark.value.color.text.base.primary",
+          "semantic/color-dark.value.color.text.base.secondary",
+          "semantic/color-dark.value.color.text.base.tertiary",
+          "semantic/color-dark.value.color.text.base.white",
+          "semantic/color-dark.value.color.text.brand.primary",
+          "semantic/color-dark.value.color.background.base.canvas",
+          "semantic/color-dark.value.color.background.base.surface",
+          "semantic/color-dark.value.color.border.base.default",
+          "semantic/typography-default.value.typography.typeface",
+          "semantic/typography-default.value.typography.display.large",
+          "semantic/typography-default.value.typography.display.base",
+          "semantic/typography-default.value.typography.title.large",
+          "semantic/typography-default.value.typography.title.base",
+          "semantic/typography-default.value.typography.title.small",
+          "semantic/typography-default.value.typography.title.xSmall",
+          "semantic/typography-default.value.typography.body.large",
+          "semantic/typography-default.value.typography.body.base",
+          "semantic/typography-default.value.typography.body.small",
+          "semantic/typography-default.value.typography.body.xSmall",
+          "semantic/typography-default.value.typography.label.large",
+          "semantic/typography-default.value.typography.label.base",
+          "semantic/typography-default.value.typography.label.small",
+          "semantic/typography-easy.value.typography.typeface",
+          "semantic/typography-easy.value.typography.display.large",
+          "semantic/typography-easy.value.typography.display.base",
+          "semantic/typography-easy.value.typography.title.large",
+          "semantic/typography-easy.value.typography.title.base",
+          "semantic/typography-easy.value.typography.title.small",
+          "semantic/typography-easy.value.typography.title.xSmall",
+          "semantic/typography-easy.value.typography.body.large",
+          "semantic/typography-easy.value.typography.body.base",
+          "semantic/typography-easy.value.typography.body.small",
+          "semantic/typography-easy.value.typography.body.xSmall",
+          "semantic/typography-easy.value.typography.label.large",
+          "semantic/typography-easy.value.typography.label.base",
+          "semantic/typography-easy.value.typography.label.small",
+          "semantic/spacing-default.value.spacing.layout.gap.xs",
+          "semantic/spacing-default.value.spacing.layout.gap.sm",
+          "semantic/spacing-default.value.spacing.layout.gap.md",
+          "semantic/spacing-default.value.spacing.layout.gap.lg",
+          "semantic/spacing-default.value.spacing.layout.inset.xs",
+          "semantic/spacing-default.value.spacing.layout.inset.sm",
+          "semantic/spacing-default.value.spacing.layout.inset.md",
+          "semantic/spacing-default.value.spacing.layout.inset.lg",
+          "semantic/spacing-default.value.spacing.layout.inset.xl",
+          "semantic/spacing-default.value.spacing.component.inset.xs",
+          "semantic/spacing-default.value.spacing.component.inset.sm",
+          "semantic/spacing-default.value.spacing.component.inset.md",
+          "semantic/spacing-default.value.spacing.component.inset.lg",
+          "semantic/spacing-default.value.spacing.component.gap.xs",
+          "semantic/spacing-default.value.spacing.component.gap.sm",
+          "semantic/spacing-default.value.spacing.component.gap.md",
+          "semantic/spacing-condensed.value.spacing.layout.gap.xs",
+          "semantic/spacing-condensed.value.spacing.layout.gap.sm",
+          "semantic/spacing-condensed.value.spacing.layout.gap.md",
+          "semantic/spacing-condensed.value.spacing.layout.gap.lg",
+          "semantic/spacing-condensed.value.spacing.layout.inset.xs",
+          "semantic/spacing-condensed.value.spacing.layout.inset.sm",
+          "semantic/spacing-condensed.value.spacing.layout.inset.md",
+          "semantic/spacing-condensed.value.spacing.layout.inset.lg",
+          "semantic/spacing-condensed.value.spacing.layout.inset.xl",
+          "semantic/spacing-condensed.value.spacing.component.inset.xs",
+          "semantic/spacing-condensed.value.spacing.component.inset.sm",
+          "semantic/spacing-condensed.value.spacing.component.inset.md",
+          "semantic/spacing-condensed.value.spacing.component.inset.lg",
+          "semantic/spacing-condensed.value.spacing.component.gap.xs",
+          "semantic/spacing-condensed.value.spacing.component.gap.sm",
+          "semantic/spacing-condensed.value.spacing.component.gap.md"
+        ]
+      },
+      "detailedChanges": [
+        {
+          "path": "semantic/color-light.state.stateLayer.pressed-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:968",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.state.stateLayer.pressed-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:969",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.state.stateLayer.focused",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#903838",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:970",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.base.inverted",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#bb6f6f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#bd6363",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#dd4444",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#dd8b8b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:974",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fa2993",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:975",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d5076e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:976",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.icon.brand.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:977",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.text.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:978",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.text.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#c99f9f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.text.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#696969",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:980",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.text.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:981",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.text.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fa2993",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:982",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.background.base.canvas",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:983",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.background.base.surface",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f2f2f2",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:984",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.color.border.base.default",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#bdbdbd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:985",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.state.stateLayer.pressed-low",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:968",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.state.stateLayer.pressed-high",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:969",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.state.stateLayer.focused",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#682c2c",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:970",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.base.inverted",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#bb6f6f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.base.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#bd6363",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.base.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#dd4444",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.base.white",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#dd8b8b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:974",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.brand.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fa2993",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:975",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.brand.primary-high",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d5076e",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:976",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.icon.brand.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:977",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.text.base.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:978",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.text.base.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#c99f9f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.text.base.tertiary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#696969",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:980",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.text.base.white",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:981",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.text.brand.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fa2993",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:982",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.background.base.canvas",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:983",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.background.base.surface",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f2f2f2",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:984",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-light.value.color.border.base.default",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#bdbdbd",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:985",
+                "modeId": "70:1",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.state.stateLayer.pressed-low",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:968",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.state.stateLayer.pressed-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1a1a1a14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:969",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.state.stateLayer.focused",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:970",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.base.inverted",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#050505",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fafafa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#6b6b6b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:974",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#f91589",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:975",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.brand.primary-high",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#e50675",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:976",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.icon.brand.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:977",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.text.base.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#fafafa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:978",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.text.base.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#d1d1d1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.text.base.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#adadad",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:980",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.text.base.white",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:981",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.text.brand.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#ee53a1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:982",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.background.base.canvas",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#0a0a0a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:983",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.background.base.surface",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#1f1f1f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:984",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.color.border.base.default",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:985",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.state.stateLayer.pressed-low",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:968",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.state.stateLayer.pressed-high",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1a1a1a14",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:969",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.state.stateLayer.focused",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:970",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.base.inverted",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#050505",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:971",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.base.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fafafa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:972",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.base.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#6b6b6b",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:973",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.base.white",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:974",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.brand.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#f91589",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:975",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.brand.primary-high",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#e50675",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:976",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.icon.brand.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:977",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.text.base.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#fafafa",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:978",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.text.base.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#d1d1d1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:979",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.text.base.tertiary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#adadad",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:980",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.text.base.white",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:981",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.text.brand.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#ee53a1",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:982",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.background.base.canvas",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#0a0a0a",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:983",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.background.base.surface",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#1f1f1f",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:984",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/color-dark.value.color.border.base.default",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "#474747",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:985",
+                "modeId": "70:2",
+                "resolvedType": "COLOR"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.typeface",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "pretendard",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:986",
+                "modeId": "70:3",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.display.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "36px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:987",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.display.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:988",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.title.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:989",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.title.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:990",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.title.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:991",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.title.xSmall",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:992",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.body.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:993",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.body.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:994",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.body.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:995",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.body.xSmall",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:996",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.label.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:997",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.label.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:998",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.typography.label.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:999",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.typeface",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "string",
+            "$value": "pretendard",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:986",
+                "modeId": "70:3",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.display.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "36px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:987",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.display.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:988",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.title.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:989",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.title.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:990",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.title.small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:991",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.title.xSmall",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:992",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.body.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:993",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.body.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:994",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.body.small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:995",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.body.xSmall",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:996",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.label.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:997",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.label.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:998",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-default.value.typography.label.small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:999",
+                "modeId": "70:3",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.typeface",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "pretendard",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:986",
+                "modeId": "70:4",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.display.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "36px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:987",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.display.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:988",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.title.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:989",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.title.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:990",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.title.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:991",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.title.xSmall",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:992",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.body.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:993",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.body.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:994",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.body.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:995",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.body.xSmall",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:996",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.label.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:997",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.label.base",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:998",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.typography.label.small",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:999",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.typeface",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "string",
+            "$value": "pretendard",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:986",
+                "modeId": "70:4",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.display.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "36px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:987",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.display.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:988",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.title.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "28px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:989",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.title.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:990",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.title.small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:991",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.title.xSmall",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:992",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.body.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "20px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:993",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.body.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:994",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.body.small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:995",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.body.xSmall",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:996",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.label.large",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:997",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.label.base",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:998",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/typography-easy.value.typography.label.small",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "14px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:999",
+                "modeId": "70:4",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.gap.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1000",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.gap.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1001",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.gap.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1002",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.gap.lg",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1003",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.inset.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1004",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.inset.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1005",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.inset.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1006",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.inset.lg",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1007",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.layout.inset.xl",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "32px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1008",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.inset.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1009",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.inset.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1010",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.inset.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1011",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.inset.lg",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1012",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.gap.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1013",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.gap.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1014",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.spacing.component.gap.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1015",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.gap.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1000",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.gap.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1001",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.gap.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1002",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.gap.lg",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1003",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.inset.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1004",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.inset.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1005",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.inset.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "16px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1006",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.inset.lg",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1007",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.layout.inset.xl",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "32px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1008",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.inset.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1009",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.inset.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1010",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.inset.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1011",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.inset.lg",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1012",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.gap.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1013",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.gap.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "4px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1014",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-default.value.spacing.component.gap.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1015",
+                "modeId": "70:5",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.gap.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1000",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.gap.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1001",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.gap.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1002",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.gap.lg",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1003",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.inset.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1004",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.inset.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1005",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.inset.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1006",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.inset.lg",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1007",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.layout.inset.xl",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1008",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.inset.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "1px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1009",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.inset.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1010",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.inset.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1011",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.inset.lg",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1012",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.gap.xs",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "1px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1013",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.gap.sm",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1014",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.spacing.component.gap.md",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1015",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.gap.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1000",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.gap.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1001",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.gap.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1002",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.gap.lg",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1003",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.inset.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1004",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.inset.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1005",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.inset.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1006",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.inset.lg",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "18px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1007",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.layout.inset.xl",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "24px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1008",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.inset.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "1px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1009",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.inset.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1010",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.inset.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1011",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.inset.lg",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "8px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1012",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.gap.xs",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "1px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1013",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.gap.sm",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "2px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1014",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/spacing-condensed.value.spacing.component.gap.md",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "dimension",
+            "$value": "6px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:70:1015",
+                "modeId": "70:6",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 9개 파일",
+        "변경사항: +96 ~0 -96",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 460
+      }
     }
   ],
   "systemLogs": [
@@ -3153,6 +6249,18 @@
       "action": "pushed",
       "message": "토큰 푸시 완료: v1.0.1 by 이효중/UX시스템팀 (460개 토큰)",
       "version": "1.0.1",
+      "details": {
+        "filesUpdated": 9,
+        "tokenCount": 460,
+        "pushedBy": "이효중/UX시스템팀"
+      }
+    },
+    {
+      "id": "log-1759132102695",
+      "timestamp": 1759132102695,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.2 by 이효중/UX시스템팀 (460개 토큰)",
+      "version": "1.0.2",
       "details": {
         "filesUpdated": 9,
         "tokenCount": 460,
