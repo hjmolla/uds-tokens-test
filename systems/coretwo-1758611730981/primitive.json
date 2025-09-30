@@ -1308,6 +1308,513 @@
                 }
               }
             }
+          },
+          "orange": {
+            "light": {
+              "10": {
+                "$type": "color",
+                "$value": "#fef6f0",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114170",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "50": {
+                "$type": "color",
+                "$value": "#fde8d8",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114165",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "100": {
+                "$type": "color",
+                "$value": "#fbd0b1",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114164",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "200": {
+                "$type": "color",
+                "$value": "#fbb888",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114168",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "300": {
+                "$type": "color",
+                "$value": "#fa9b57",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114163",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "400": {
+                "$type": "color",
+                "$value": "#f87d25",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114162",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "500": {
+                "$type": "color",
+                "$value": "#e86202",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114161",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "600": {
+                "$type": "color",
+                "$value": "#b14b02",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114160",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "700": {
+                "$type": "color",
+                "$value": "#8d3c01",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114167",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "800": {
+                "$type": "color",
+                "$value": "#652b01",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114169",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "900": {
+                "$type": "color",
+                "$value": "#471e01",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114166",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              }
+            },
+            "dark": {
+              "10": {
+                "$type": "color",
+                "$value": "#231810",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114206",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "50": {
+                "$type": "color",
+                "$value": "#382619",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114204",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "100": {
+                "$type": "color",
+                "$value": "#5b3e29",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114200",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "200": {
+                "$type": "color",
+                "$value": "#9b4508",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114202",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "300": {
+                "$type": "color",
+                "$value": "#cb5b0b",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114201",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "400": {
+                "$type": "color",
+                "$value": "#fd7717",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114199",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "500": {
+                "$type": "color",
+                "$value": "#f69551",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114197",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "600": {
+                "$type": "color",
+                "$value": "#f8b381",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114205",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "700": {
+                "$type": "color",
+                "$value": "#f7bf97",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114203",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "800": {
+                "$type": "color",
+                "$value": "#fad6bd",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114196",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "900": {
+                "$type": "color",
+                "$value": "#fce8d9",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114198",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              }
+            }
+          },
+          "Color": {
+            "$type": "color",
+            "$value": "#ffffff",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:6522:114207",
+                "modeId": "8:0",
+                "resolvedType": "COLOR"
+              }
+            }
+          },
+          "yellow": {
+            "light": {
+              "10": {
+                "$type": "color",
+                "$value": "#fefaec",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114235",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "50": {
+                "$type": "color",
+                "$value": "#fcf3cf",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114242",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "100": {
+                "$type": "color",
+                "$value": "#faeaa8",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114238",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "200": {
+                "$type": "color",
+                "$value": "#fbe27e",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114236",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "300": {
+                "$type": "color",
+                "$value": "#f9d74d",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114234",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "400": {
+                "$type": "color",
+                "$value": "#f8cc1b",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114237",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "500": {
+                "$type": "color",
+                "$value": "#e8ba02",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114233",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "600": {
+                "$type": "color",
+                "$value": "#b69202",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114232",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "700": {
+                "$type": "color",
+                "$value": "#8d6d01",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114241",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "800": {
+                "$type": "color",
+                "$value": "#655101",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114240",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "900": {
+                "$type": "color",
+                "$value": "#514101",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114239",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              }
+            },
+            "dark": {
+              "10": {
+                "$type": "color",
+                "$value": "#282415",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114273",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "50": {
+                "$type": "color",
+                "$value": "#3c3515",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114277",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "100": {
+                "$type": "color",
+                "$value": "#81660e",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114278",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "200": {
+                "$type": "color",
+                "$value": "#937910",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114274",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "300": {
+                "$type": "color",
+                "$value": "#e0b400",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114272",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "400": {
+                "$type": "color",
+                "$value": "#f3c716",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114270",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "500": {
+                "$type": "color",
+                "$value": "#f5d247",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114269",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "600": {
+                "$type": "color",
+                "$value": "#f8de77",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114271",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "700": {
+                "$type": "color",
+                "$value": "#f6e18d",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114276",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "800": {
+                "$type": "color",
+                "$value": "#f9ebb3",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114268",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              },
+              "900": {
+                "$type": "color",
+                "$value": "#fbf3d0",
+                "$extensions": {
+                  "figma:variables": {
+                    "variableId": "VariableID:6522:114275",
+                    "modeId": "8:0",
+                    "resolvedType": "COLOR"
+                  }
+                }
+              }
+            }
           }
         },
         "alpha": {
