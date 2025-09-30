@@ -60,7 +60,7 @@
         }
       }
     },
-    "componet": {
+    "component": {
       "gap": {
         "2": {
           "$type": "dimension",
@@ -112,6 +112,17 @@
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:5608:7965",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
+        "20": {
+          "$type": "dimension",
+          "$value": "20px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:6758:13480",
               "modeId": "475:1",
               "resolvedType": "FLOAT"
             }
@@ -345,6 +356,17 @@
             }
           }
         },
+        "64": {
+          "$type": "dimension",
+          "$value": "64px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:6718:12233",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
         "80": {
           "$type": "dimension",
           "$value": "80px",
@@ -419,6 +441,28 @@
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:5790:12363",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
+        "24": {
+          "$type": "dimension",
+          "$value": "24px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:6298:57300",
+              "modeId": "475:1",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
+        "40": {
+          "$type": "dimension",
+          "$value": "40px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:6298:57301",
               "modeId": "475:1",
               "resolvedType": "FLOAT"
             }
