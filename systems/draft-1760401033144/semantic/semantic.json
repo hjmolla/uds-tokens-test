@@ -48,7 +48,7 @@
           "modeId": "1:1",
           "resolvedType": "FLOAT"
         },
-        "resolved-value": "12px"
+        "resolved-value": "14px"
       }
     },
     "bold": {
@@ -65,14 +65,14 @@
     },
     "xLarge": {
       "$type": "dimension",
-      "$value": "{14}",
+      "$value": "{16}",
       "$extensions": {
         "figma:variables": {
           "variableId": "VariableID:17:8",
           "modeId": "1:1",
           "resolvedType": "FLOAT"
         },
-        "resolved-value": "14px"
+        "resolved-value": "16px"
       }
     }
   }
