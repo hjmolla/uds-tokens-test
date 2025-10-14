@@ -73,7 +73,7 @@
         },
         "12": {
           "$type": "dimension",
-          "$value": "12px",
+          "$value": "14px",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:17:2",
@@ -82,9 +82,9 @@
             }
           }
         },
-        "14": {
+        "16": {
           "$type": "dimension",
-          "$value": "14px",
+          "$value": "16px",
           "$extensions": {
             "figma:variables": {
               "variableId": "VariableID:17:7",
