@@ -1,0 +1,43 @@
+{
+  "collection": "Semantic",
+  "collectionId": "VariableCollectionId:1:9",
+  "mode": "Mode 1",
+  "value": {
+    "primary": {
+      "$type": "color",
+      "$value": "{6}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:1:10",
+          "modeId": "1:1",
+          "resolvedType": "COLOR"
+        },
+        "resolved-value": "#000000"
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{4}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:1:11",
+          "modeId": "1:1",
+          "resolvedType": "COLOR"
+        },
+        "resolved-value": "#717171"
+      }
+    },
+    "tertiary": {
+      "$type": "color",
+      "$value": "{2}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:1:12",
+          "modeId": "1:1",
+          "resolvedType": "COLOR"
+        },
+        "resolved-value": "#dbdbdb"
+      }
+    }
+  }
+}
