@@ -21,7 +21,7 @@
     "$value": {
       "fontFamily": "Inter",
       "fontWeight": "{semantic.bold}",
-      "fontSize": "{semantic.14}",
+      "fontSize": "{semantic.16}",
       "lineHeight": "normal"
     },
     "$extensions": {
