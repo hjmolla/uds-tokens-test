@@ -70,6 +70,28 @@
               "resolvedType": "COLOR"
             }
           }
+        },
+        "12": {
+          "$type": "dimension",
+          "$value": "12px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:17:2",
+              "modeId": "1:0",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
+        "bold": {
+          "$type": "string",
+          "$value": "bold",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:17:4",
+              "modeId": "1:0",
+              "resolvedType": "STRING"
+            }
+          }
         }
       }
     }
