@@ -1,0 +1,19 @@
+{
+  "body": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontWeight": "{semantic.bold}",
+      "fontSize": "{semantic.12}",
+      "lineHeight": "normal"
+    },
+    "$extensions": {
+      "figma:styles": {
+        "styleId": "S:4b9a504939b5e222bb1224956dad35e907038df4,",
+        "styleName": "body",
+        "styleType": "TEXT"
+      }
+    },
+    "$description": "Typography style: body"
+  }
+}
