@@ -38,6 +38,30 @@
         },
         "resolved-value": "#dbdbdb"
       }
+    },
+    "large": {
+      "$type": "dimension",
+      "$value": "{12}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:17:3",
+          "modeId": "1:1",
+          "resolvedType": "FLOAT"
+        },
+        "resolved-value": "12px"
+      }
+    },
+    "bold": {
+      "$type": "string",
+      "$value": "{bold}",
+      "$extensions": {
+        "figma:variables": {
+          "variableId": "VariableID:17:5",
+          "modeId": "1:1",
+          "resolvedType": "STRING"
+        },
+        "resolved-value": "bold"
+      }
     }
   }
 }
