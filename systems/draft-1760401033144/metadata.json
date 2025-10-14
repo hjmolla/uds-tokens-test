@@ -43,5 +43,7 @@
       "message": "시스템 \"Draft\" 생성됨",
       "version": "1.0.0"
     }
-  ]
+  ],
+  "tokenFiles": 2,
+  "hasInitialTokens": true
 }
