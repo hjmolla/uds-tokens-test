@@ -1,0 +1,47 @@
+{
+  "id": "draft-1760401033144",
+  "name": "Draft",
+  "fileKey": "NhpHHDWZqShGQ6ecqLwBs5",
+  "version": "0.0.1",
+  "createdAt": "2025-10-14T00:17:13.771Z",
+  "lastSyncedAt": "2025-10-14T00:17:13.771Z",
+  "collectionSettings": {
+    "VariableCollectionId:1:2": {
+      "included": true,
+      "category": "primitive"
+    },
+    "VariableCollectionId:1:9": {
+      "included": true,
+      "category": "semantic"
+    }
+  },
+  "versionHistory": [
+    {
+      "version": "0.0.1",
+      "timestamp": 1760401033771,
+      "fileKey": "NhpHHDWZqShGQ6ecqLwBs5",
+      "changes": {
+        "added": [],
+        "modified": [],
+        "deleted": []
+      },
+      "logs": [
+        "시스템 생성"
+      ],
+      "metadata": {
+        "author": "Figma Plugin",
+        "description": "초기 시스템 생성",
+        "tokenCount": 9
+      }
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "log-1760401033771",
+      "timestamp": 1760401033771,
+      "action": "created",
+      "message": "시스템 \"Draft\" 생성됨",
+      "version": "1.0.0"
+    }
+  ]
+}
