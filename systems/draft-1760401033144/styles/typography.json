@@ -8,6 +8,10 @@
       "lineHeight": "normal"
     },
     "$extensions": {
+      "resolved-value": {
+        "fontWeight": "bold",
+        "fontSize": "14px"
+      },
       "figma:styles": {
         "styleId": "S:4b9a504939b5e222bb1224956dad35e907038df4,",
         "styleName": "body",
@@ -25,6 +29,10 @@
       "lineHeight": "normal"
     },
     "$extensions": {
+      "resolved-value": {
+        "fontWeight": "bold",
+        "fontSize": "16px"
+      },
       "figma:styles": {
         "styleId": "S:01c11c343e2ff073f94b3e30116f6061e782183e,",
         "styleName": "title",
