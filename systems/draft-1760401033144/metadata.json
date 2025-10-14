@@ -2,9 +2,9 @@
   "id": "draft-1760401033144",
   "name": "Draft",
   "fileKey": "NhpHHDWZqShGQ6ecqLwBs5",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "createdAt": "2025-10-14T00:17:13.771Z",
-  "lastSyncedAt": "2025-10-14T00:17:13.771Z",
+  "lastSyncedAt": "2025-10-14T06:38:44.093Z",
   "collectionSettings": {
     "VariableCollectionId:1:2": {
       "included": true,
@@ -33,6 +33,220 @@
         "description": "초기 시스템 생성",
         "tokenCount": 9
       }
+    },
+    {
+      "version": "0.0.2",
+      "timestamp": 1760423924092,
+      "fileKey": "NhpHHDWZqShGQ6ecqLwBs5",
+      "changes": {
+        "added": [
+          "primitive.collections.0.value.12",
+          "primitive.collections.0.value.bold",
+          "semantic/semantic.primary",
+          "semantic/semantic.secondary",
+          "semantic/semantic.tertiary",
+          "semantic/semantic.large",
+          "semantic/semantic.bold",
+          "styles/typography.body"
+        ],
+        "modified": [],
+        "deleted": [
+          "semantic/semantic.value.primary",
+          "semantic/semantic.value.secondary",
+          "semantic/semantic.value.tertiary"
+        ]
+      },
+      "detailedChanges": [
+        {
+          "path": "primitive.collections.0.value.12",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "12px",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:17:2",
+                "modeId": "1:0",
+                "resolvedType": "FLOAT"
+              }
+            }
+          }
+        },
+        {
+          "path": "primitive.collections.0.value.bold",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "bold",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:17:4",
+                "modeId": "1:0",
+                "resolvedType": "STRING"
+              }
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.primary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{6}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:1:10",
+                "modeId": "1:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#000000"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.secondary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{4}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:1:11",
+                "modeId": "1:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#717171"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.tertiary",
+          "type": "added",
+          "newValue": {
+            "$type": "color",
+            "$value": "{2}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:1:12",
+                "modeId": "1:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#dbdbdb"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.large",
+          "type": "added",
+          "newValue": {
+            "$type": "dimension",
+            "$value": "{12}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:17:3",
+                "modeId": "1:1",
+                "resolvedType": "FLOAT"
+              },
+              "resolved-value": "12px"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.bold",
+          "type": "added",
+          "newValue": {
+            "$type": "string",
+            "$value": "{bold}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:17:5",
+                "modeId": "1:1",
+                "resolvedType": "STRING"
+              },
+              "resolved-value": "bold"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.value.primary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "{6}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:1:10",
+                "modeId": "1:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#000000"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.value.secondary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "{4}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:1:11",
+                "modeId": "1:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#717171"
+            }
+          }
+        },
+        {
+          "path": "semantic/semantic.value.tertiary",
+          "type": "deleted",
+          "oldValue": {
+            "$type": "color",
+            "$value": "{2}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:1:12",
+                "modeId": "1:1",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#dbdbdb"
+            }
+          }
+        },
+        {
+          "path": "styles/typography.body",
+          "type": "added",
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Inter",
+              "fontWeight": "{semantic.bold}",
+              "fontSize": "{semantic.12}",
+              "lineHeight": "normal"
+            },
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:4b9a504939b5e222bb1224956dad35e907038df4,",
+                "styleName": "body",
+                "styleType": "TEXT"
+              }
+            },
+            "$description": "Typography style: body"
+          }
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 3개 파일",
+        "변경사항: +8 ~0 -3",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중",
+        "description": "patch update from Figma",
+        "tokenCount": 14
+      }
     }
   ],
   "systemLogs": [
@@ -42,8 +256,21 @@
       "action": "created",
       "message": "시스템 \"Draft\" 생성됨",
       "version": "1.0.0"
+    },
+    {
+      "id": "log-1760423924092",
+      "timestamp": 1760423924092,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v0.0.2 by 이효중 (14개 토큰)",
+      "version": "0.0.2",
+      "details": {
+        "filesUpdated": 3,
+        "tokenCount": 14,
+        "pushedBy": "이효중"
+      }
     }
   ],
   "tokenFiles": 2,
-  "hasInitialTokens": true
+  "hasInitialTokens": true,
+  "changelog": "patch update from Figma"
 }
