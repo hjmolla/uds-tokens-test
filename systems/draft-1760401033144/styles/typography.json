@@ -15,5 +15,22 @@
       }
     },
     "$description": "Typography style: body"
+  },
+  "title": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontWeight": "{semantic.bold}",
+      "fontSize": "{semantic.14}",
+      "lineHeight": "normal"
+    },
+    "$extensions": {
+      "figma:styles": {
+        "styleId": "S:01c11c343e2ff073f94b3e30116f6061e782183e,",
+        "styleName": "title",
+        "styleType": "TEXT"
+      }
+    },
+    "$description": "Typography style: title"
   }
 }
