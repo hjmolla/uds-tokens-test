@@ -82,6 +82,17 @@
             }
           }
         },
+        "14": {
+          "$type": "dimension",
+          "$value": "14px",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:17:7",
+              "modeId": "1:0",
+              "resolvedType": "FLOAT"
+            }
+          }
+        },
         "bold": {
           "$type": "string",
           "$value": "bold",
