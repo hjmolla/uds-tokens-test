@@ -1395,7 +1395,7 @@
     "light": {
       "lightlime": {
         "$type": "color",
-        "$value": "#f6ffb6",
+        "$value": "#f6ffba",
         "$description": "Color style: lime/light/light-lime",
         "$extensions": {
           "figma:styles": {
