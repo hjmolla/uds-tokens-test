@@ -7,13 +7,18 @@
       "fontSize": "{semantic.typography.typography.body.base}",
       "lineHeight": "normal"
     },
-    "$description": "For test obviously",
     "$extensions": {
+      "resolved-value": {
+        "fontFamily": "pretendard",
+        "fontWeight": "medium",
+        "fontSize": "16px"
+      },
       "figma:styles": {
         "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
         "styleName": "TestTypo",
         "styleType": "TEXT"
       }
-    }
+    },
+    "$description": "For test obviously"
   }
 }
