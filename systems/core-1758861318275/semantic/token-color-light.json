@@ -426,14 +426,14 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "{color.neutralGray.light.500}",
+            "$value": "{color.neutralGray.light.600}",
             "$extensions": {
               "figma:variables": {
                 "variableId": "VariableID:139:4180",
                 "modeId": "139:0",
                 "resolvedType": "COLOR"
               },
-              "resolved-value": "#969696"
+              "resolved-value": "#747474"
             }
           },
           "white": {
@@ -458,6 +458,18 @@
                 "resolvedType": "COLOR"
               },
               "resolved-value": "#ffffff"
+            }
+          },
+          "tertiary": {
+            "$type": "color",
+            "$value": "{color.neutralGray.light.500}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7407:39312",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#969696"
             }
           }
         }
@@ -536,6 +548,18 @@
                 "resolvedType": "COLOR"
               },
               "resolved-value": "#bdbdbd"
+            }
+          },
+          "InvertedWhite [추가]": {
+            "$type": "color",
+            "$value": "{color.bw.white}",
+            "$extensions": {
+              "figma:variables": {
+                "variableId": "VariableID:7391:7225",
+                "modeId": "139:0",
+                "resolvedType": "COLOR"
+              },
+              "resolved-value": "#ffffff"
             }
           }
         }
@@ -890,6 +914,32 @@
             "resolvedType": "COLOR"
           },
           "resolved-value": "#ffffff"
+        }
+      },
+      "scrollbar": {
+        "bar": {
+          "$type": "color",
+          "$value": "{color.neutralGray.light.500}",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:7393:43614",
+              "modeId": "139:0",
+              "resolvedType": "COLOR"
+            },
+            "resolved-value": "#969696"
+          }
+        },
+        "area": {
+          "$type": "color",
+          "$value": "{color.neutralGray.light.100}",
+          "$extensions": {
+            "figma:variables": {
+              "variableId": "VariableID:7393:43618",
+              "modeId": "139:0",
+              "resolvedType": "COLOR"
+            },
+            "resolved-value": "#ebebeb"
+          }
         }
       }
     }
