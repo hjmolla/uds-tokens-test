@@ -1,13 +1,5 @@
 {
   "shadowlever1": {
-    "$type": "shadow",
-    "$value": {
-      "offsetX": "0px",
-      "offsetY": "1px",
-      "blur": "4px",
-      "spread": "0px",
-      "color": "#1a1a1a14"
-    },
     "$description": "Effect style: shadow_lever1",
     "$extensions": {
       "figma:styles": {
@@ -15,17 +7,17 @@
         "styleName": "shadow_lever1",
         "styleType": "EFFECT"
       }
+    },
+    "$type": "shadow",
+    "$value": {
+      "blur": "4px",
+      "color": "#1a1a1a14",
+      "offsetX": "0px",
+      "offsetY": "1px",
+      "spread": "0px"
     }
   },
   "shadowlever2": {
-    "$type": "shadow",
-    "$value": {
-      "offsetX": "0px",
-      "offsetY": "0px",
-      "blur": "16px",
-      "spread": "0px",
-      "color": "#1a1a1a14"
-    },
     "$description": "Effect style: shadow_lever2",
     "$extensions": {
       "figma:styles": {
@@ -33,17 +25,17 @@
         "styleName": "shadow_lever2",
         "styleType": "EFFECT"
       }
+    },
+    "$type": "shadow",
+    "$value": {
+      "blur": "16px",
+      "color": "#1a1a1a14",
+      "offsetX": "0px",
+      "offsetY": "0px",
+      "spread": "0px"
     }
   },
   "shadowlever3": {
-    "$type": "shadow",
-    "$value": {
-      "offsetX": "0px",
-      "offsetY": "1px",
-      "blur": "20px",
-      "spread": "0px",
-      "color": "#1a1a1a29"
-    },
     "$description": "Effect style: shadow_lever3",
     "$extensions": {
       "figma:styles": {
@@ -51,6 +43,14 @@
         "styleName": "shadow_lever3",
         "styleType": "EFFECT"
       }
+    },
+    "$type": "shadow",
+    "$value": {
+      "blur": "20px",
+      "color": "#1a1a1a29",
+      "offsetX": "0px",
+      "offsetY": "1px",
+      "spread": "0px"
     }
   }
 }
