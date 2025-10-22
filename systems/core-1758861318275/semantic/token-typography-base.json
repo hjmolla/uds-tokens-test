@@ -3,240 +3,240 @@
   "collectionId": "VariableCollectionId:68:2477",
   "mode": "base",
   "value": {
-    "display": {
-      "large": {
-        "$type": "dimension",
-        "$value": "{36}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2494",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "36px"
-        }
-      },
-      "base": {
-        "$type": "dimension",
-        "$value": "{28}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2508",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "28px"
-        }
-      }
-    },
-    "title": {
-      "large": {
-        "$type": "dimension",
-        "$value": "{24}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2513",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "24px"
-        }
-      },
-      "base": {
-        "$type": "dimension",
-        "$value": "{20}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2514",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "20px"
-        }
-      },
-      "small": {
-        "$type": "dimension",
-        "$value": "{18}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2515",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "18px"
-        }
-      },
-      "xSmall": {
-        "$type": "dimension",
-        "$value": "{16}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2516",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "16px"
-        }
-      }
-    },
     "body": {
-      "large": {
-        "$type": "dimension",
-        "$value": "{18}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2519",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "18px"
-        }
-      },
       "base": {
-        "$type": "dimension",
-        "$value": "{16}",
         "$extensions": {
           "figma:variables": {
-            "variableId": "VariableID:68:2520",
             "modeId": "68:0",
-            "resolvedType": "FLOAT"
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2520"
           },
           "resolved-value": "16px"
-        }
-      },
-      "small": {
-        "$type": "dimension",
-        "$value": "{14}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2521",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "14px"
-        }
-      },
-      "xSmall": {
-        "$type": "dimension",
-        "$value": "{12}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2524",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "12px"
-        }
-      }
-    },
-    "label": {
-      "large": {
-        "$type": "dimension",
-        "$value": "{16}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2528",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "16px"
-        }
-      },
-      "base": {
-        "$type": "dimension",
-        "$value": "{14}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2529",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "14px"
-        }
-      },
-      "small": {
-        "$type": "dimension",
-        "$value": "{12}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2530",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "12px"
-        }
-      },
-      "xSmall": {
-        "$type": "dimension",
-        "$value": "{10}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2532",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "10px"
-        }
-      },
-      "height-none": {
-        "$type": "dimension",
-        "$value": "{none}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:68:2551",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          }
-        }
-      },
-      "xLarge": {
-        "$type": "dimension",
-        "$value": "{18}",
-        "$extensions": {
-          "figma:variables": {
-            "variableId": "VariableID:595:7782",
-            "modeId": "68:0",
-            "resolvedType": "FLOAT"
-          },
-          "resolved-value": "18px"
-        }
-      }
-    },
-    "typeface": {
-      "$type": "string",
-      "$value": "{pretendard}",
-      "$extensions": {
-        "figma:variables": {
-          "variableId": "VariableID:68:2568",
-          "modeId": "68:0",
-          "resolvedType": "STRING"
         },
-        "resolved-value": "pretendard"
+        "$type": "dimension",
+        "$value": "{16}"
+      },
+      "large": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2519"
+          },
+          "resolved-value": "18px"
+        },
+        "$type": "dimension",
+        "$value": "{18}"
+      },
+      "small": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2521"
+          },
+          "resolved-value": "14px"
+        },
+        "$type": "dimension",
+        "$value": "{14}"
+      },
+      "xSmall": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2524"
+          },
+          "resolved-value": "12px"
+        },
+        "$type": "dimension",
+        "$value": "{12}"
       }
     },
     "bold": {
-      "$type": "string",
-      "$value": "{bold}",
       "$extensions": {
         "figma:variables": {
-          "variableId": "VariableID:68:2569",
           "modeId": "68:0",
-          "resolvedType": "STRING"
+          "resolvedType": "STRING",
+          "variableId": "VariableID:68:2569"
         },
         "resolved-value": "bold"
+      },
+      "$type": "string",
+      "$value": "{bold}"
+    },
+    "display": {
+      "base": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2508"
+          },
+          "resolved-value": "28px"
+        },
+        "$type": "dimension",
+        "$value": "{28}"
+      },
+      "large": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2494"
+          },
+          "resolved-value": "36px"
+        },
+        "$type": "dimension",
+        "$value": "{36}"
+      }
+    },
+    "label": {
+      "base": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2529"
+          },
+          "resolved-value": "14px"
+        },
+        "$type": "dimension",
+        "$value": "{14}"
+      },
+      "height-none": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2551"
+          }
+        },
+        "$type": "dimension",
+        "$value": "{none}"
+      },
+      "large": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2528"
+          },
+          "resolved-value": "16px"
+        },
+        "$type": "dimension",
+        "$value": "{16}"
+      },
+      "small": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2530"
+          },
+          "resolved-value": "12px"
+        },
+        "$type": "dimension",
+        "$value": "{12}"
+      },
+      "xLarge": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:595:7782"
+          },
+          "resolved-value": "18px"
+        },
+        "$type": "dimension",
+        "$value": "{18}"
+      },
+      "xSmall": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2532"
+          },
+          "resolved-value": "10px"
+        },
+        "$type": "dimension",
+        "$value": "{10}"
       }
     },
     "medium": {
-      "$type": "string",
-      "$value": "{medium}",
       "$extensions": {
         "figma:variables": {
-          "variableId": "VariableID:68:2570",
           "modeId": "68:0",
-          "resolvedType": "STRING"
+          "resolvedType": "STRING",
+          "variableId": "VariableID:68:2570"
         },
         "resolved-value": "medium"
+      },
+      "$type": "string",
+      "$value": "{medium}"
+    },
+    "title": {
+      "base": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2514"
+          },
+          "resolved-value": "20px"
+        },
+        "$type": "dimension",
+        "$value": "{20}"
+      },
+      "large": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2513"
+          },
+          "resolved-value": "24px"
+        },
+        "$type": "dimension",
+        "$value": "{24}"
+      },
+      "small": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2515"
+          },
+          "resolved-value": "18px"
+        },
+        "$type": "dimension",
+        "$value": "{18}"
+      },
+      "xSmall": {
+        "$extensions": {
+          "figma:variables": {
+            "modeId": "68:0",
+            "resolvedType": "FLOAT",
+            "variableId": "VariableID:68:2516"
+          },
+          "resolved-value": "16px"
+        },
+        "$type": "dimension",
+        "$value": "{16}"
       }
+    },
+    "typeface": {
+      "$extensions": {
+        "figma:variables": {
+          "modeId": "68:0",
+          "resolvedType": "STRING",
+          "variableId": "VariableID:68:2568"
+        },
+        "resolved-value": "pretendard"
+      },
+      "$type": "string",
+      "$value": "{pretendard}"
     }
   }
 }
