@@ -1407,7 +1407,7 @@
       },
       "lime": {
         "$type": "color",
-        "$value": "#edff40",
+        "$value": "#ecff34",
         "$description": "Color style: lime/light/lime",
         "$extensions": {
           "figma:styles": {
