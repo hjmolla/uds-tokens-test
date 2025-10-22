@@ -22,7 +22,7 @@
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
   "hasInitialTokens": true,
   "id": "testing-1758754253306",
-  "lastSyncedAt": "2025-10-22T04:47:28.943Z",
+  "lastSyncedAt": "2025-10-22T04:54:51.125Z",
   "name": "Testing",
   "systemLogs": [
     {
@@ -151,10 +151,22 @@
         "tokenCount": 458,
         "pushedBy": "이효중/UX시스템팀"
       }
+    },
+    {
+      "id": "log-1761108891125",
+      "timestamp": 1761108891125,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.11 by 이효중/UX시스템팀 (458개 토큰)",
+      "version": "1.0.11",
+      "details": {
+        "filesUpdated": 9,
+        "tokenCount": 458,
+        "pushedBy": "이효중/UX시스템팀"
+      }
     }
   ],
   "tokenFiles": 8,
-  "version": "1.0.10",
+  "version": "1.0.11",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -22269,6 +22281,82 @@
           },
           "changedProperties": [
             "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 9개 파일",
+        "변경사항: +0 ~1 -0",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 458
+      }
+    },
+    {
+      "version": "1.0.11",
+      "timestamp": 1761108891125,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "styles/typography.TestTypo"
+        ],
+        "deleted": []
+      },
+      "detailedChanges": [
+        {
+          "path": "styles/typography.TestTypo",
+          "type": "modified",
+          "oldValue": {
+            "$description": "For test obviously",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+                "styleName": "TestTypo",
+                "styleType": "TEXT"
+              },
+              "resolved-value": {
+                "fontFamily": "pretendard",
+                "fontSize": "16px",
+                "fontWeight": "medium"
+              }
+            },
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typography.typeface}",
+              "fontSize": "{semantic.typography.typography.body.base}",
+              "fontWeight": "{semantic.medium}",
+              "lineHeight": "normal"
+            }
+          },
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typography.typeface}",
+              "fontWeight": "{semantic.medium}",
+              "fontSize": "{semantic.typography.typography.body.base}",
+              "lineHeight": "normal"
+            },
+            "$extensions": {
+              "resolved-value": {
+                "fontFamily": "pretendard",
+                "fontWeight": "medium",
+                "fontSize": "16px"
+              },
+              "figma:styles": {
+                "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+                "styleName": "TestTypo",
+                "styleType": "TEXT"
+              }
+            },
+            "$description": "For test"
+          },
+          "changedProperties": [
+            "$value",
+            "$description"
           ]
         }
       ],
