@@ -1,7 +1,5 @@
 {
   "Product-Draft-Colors1": {
-    "$type": "color",
-    "$value": "#4c18d2",
     "$description": "Color style: Product Draft Colors-1",
     "$extensions": {
       "figma:styles": {
@@ -9,11 +7,11 @@
         "styleName": "Product Draft Colors-1",
         "styleType": "PAINT"
       }
-    }
+    },
+    "$type": "color",
+    "$value": "#4c18d2"
   },
   "Product-Draft-Colors2": {
-    "$type": "color",
-    "$value": "#b290fe",
     "$description": "Color style: Product Draft Colors-2",
     "$extensions": {
       "figma:styles": {
@@ -21,11 +19,11 @@
         "styleName": "Product Draft Colors-2",
         "styleType": "PAINT"
       }
-    }
+    },
+    "$type": "color",
+    "$value": "#b290fe"
   },
   "Product-Draft-Colors3": {
-    "$type": "color",
-    "$value": "#e5dbff",
     "$description": "Color style: Product Draft Colors-3",
     "$extensions": {
       "figma:styles": {
@@ -33,11 +31,11 @@
         "styleName": "Product Draft Colors-3",
         "styleType": "PAINT"
       }
-    }
+    },
+    "$type": "color",
+    "$value": "#e5dbff"
   },
   "Product-Draft-Colors4": {
-    "$type": "color",
-    "$value": "#0865a4",
     "$description": "Color style: Product Draft Colors-4",
     "$extensions": {
       "figma:styles": {
@@ -45,11 +43,11 @@
         "styleName": "Product Draft Colors-4",
         "styleType": "PAINT"
       }
-    }
+    },
+    "$type": "color",
+    "$value": "#0865a4"
   },
   "Product-Draft-Colors5": {
-    "$type": "color",
-    "$value": "#5eb8f7",
     "$description": "Color style: Product Draft Colors-5",
     "$extensions": {
       "figma:styles": {
@@ -57,11 +55,11 @@
         "styleName": "Product Draft Colors-5",
         "styleType": "PAINT"
       }
-    }
+    },
+    "$type": "color",
+    "$value": "#5eb8f7"
   },
   "Product-Draft-Colors6": {
-    "$type": "color",
-    "$value": "#ceebff",
     "$description": "Color style: Product Draft Colors-6",
     "$extensions": {
       "figma:styles": {
@@ -69,6 +67,8 @@
         "styleName": "Product Draft Colors-6",
         "styleType": "PAINT"
       }
-    }
+    },
+    "$type": "color",
+    "$value": "#ceebff"
   }
 }
