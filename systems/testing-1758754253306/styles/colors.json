@@ -1776,18 +1776,6 @@
         },
         "$type": "color",
         "$value": "#d1d1d1"
-      },
-      "900": {
-        "$description": "Color style: naturalGray/dark/900",
-        "$extensions": {
-          "figma:styles": {
-            "styleId": "S:6602b8374e113e0793643786fe83b1ddbdbd8877,",
-            "styleName": "naturalGray/dark/900",
-            "styleType": "PAINT"
-          }
-        },
-        "$type": "color",
-        "$value": "#fafafa"
       }
     },
     "light": {
@@ -1910,18 +1898,6 @@
         },
         "$type": "color",
         "$value": "#474747"
-      },
-      "900": {
-        "$description": "Color style: naturalGray/light/900",
-        "$extensions": {
-          "figma:styles": {
-            "styleId": "S:09c63d51f8280d248f751d5af7dc3dbfc9fdca46,",
-            "styleName": "naturalGray/light/900",
-            "styleType": "PAINT"
-          }
-        },
-        "$type": "color",
-        "$value": "#1a1a1a"
       }
     }
   },
