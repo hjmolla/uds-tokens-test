@@ -22,7 +22,7 @@
   "fileKey": "0og0G5ZYIjOPYGC11z37Su",
   "hasInitialTokens": true,
   "id": "testing-1758754253306",
-  "lastSyncedAt": "2025-10-22T04:39:51.618Z",
+  "lastSyncedAt": "2025-10-22T04:41:11.342Z",
   "name": "Testing",
   "systemLogs": [
     {
@@ -127,10 +127,22 @@
         "tokenCount": 460,
         "pushedBy": "이효중/UX시스템팀"
       }
+    },
+    {
+      "id": "log-1761108071342",
+      "timestamp": 1761108071342,
+      "action": "pushed",
+      "message": "토큰 푸시 완료: v1.0.9 by 이효중/UX시스템팀 (458개 토큰)",
+      "version": "1.0.9",
+      "details": {
+        "filesUpdated": 9,
+        "tokenCount": 458,
+        "pushedBy": "이효중/UX시스템팀"
+      }
     }
   ],
   "tokenFiles": 8,
-  "version": "1.0.8",
+  "version": "1.0.9",
   "versionHistory": [
     {
       "version": "1.0.0",
@@ -22072,6 +22084,116 @@
         "author": "이효중/UX시스템팀",
         "description": "patch update from Figma",
         "tokenCount": 460
+      }
+    },
+    {
+      "version": "1.0.9",
+      "timestamp": 1761108071342,
+      "fileKey": "0og0G5ZYIjOPYGC11z37Su",
+      "changes": {
+        "added": [],
+        "modified": [
+          "styles/typography.TestTypo"
+        ],
+        "deleted": [
+          "styles/colors.naturalGray.dark.900",
+          "styles/colors.naturalGray.light.900"
+        ]
+      },
+      "detailedChanges": [
+        {
+          "path": "styles/colors.naturalGray.dark.900",
+          "type": "deleted",
+          "oldValue": {
+            "$description": "Color style: naturalGray/dark/900",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:6602b8374e113e0793643786fe83b1ddbdbd8877,",
+                "styleName": "naturalGray/dark/900",
+                "styleType": "PAINT"
+              }
+            },
+            "$type": "color",
+            "$value": "#fafafa"
+          }
+        },
+        {
+          "path": "styles/colors.naturalGray.light.900",
+          "type": "deleted",
+          "oldValue": {
+            "$description": "Color style: naturalGray/light/900",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:09c63d51f8280d248f751d5af7dc3dbfc9fdca46,",
+                "styleName": "naturalGray/light/900",
+                "styleType": "PAINT"
+              }
+            },
+            "$type": "color",
+            "$value": "#1a1a1a"
+          }
+        },
+        {
+          "path": "styles/typography.TestTypo",
+          "type": "modified",
+          "oldValue": {
+            "$description": "For test obviously",
+            "$extensions": {
+              "figma:styles": {
+                "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+                "styleName": "TestTypo",
+                "styleType": "TEXT"
+              },
+              "resolved-value": {
+                "fontFamily": "pretendard",
+                "fontSize": "16px",
+                "fontWeight": "medium"
+              }
+            },
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typography.typeface}",
+              "fontSize": "{semantic.typography.typography.body.base}",
+              "fontWeight": "{semantic.medium}",
+              "lineHeight": "normal"
+            }
+          },
+          "newValue": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{semantic.typography.typography.typeface}",
+              "fontWeight": "{semantic.medium}",
+              "fontSize": "{semantic.typography.typography.body.base}",
+              "lineHeight": "normal"
+            },
+            "$extensions": {
+              "resolved-value": {
+                "fontFamily": "pretendard",
+                "fontWeight": "medium",
+                "fontSize": "16px"
+              },
+              "figma:styles": {
+                "styleId": "S:b64d3a7664596a95f2ce45262ebf37f856dca2f0,",
+                "styleName": "TestTypo",
+                "styleType": "TEXT"
+              }
+            },
+            "$description": "For test obviously"
+          },
+          "changedProperties": [
+            "$value"
+          ]
+        }
+      ],
+      "logs": [
+        "토큰 업데이트: 9개 파일",
+        "변경사항: +0 ~1 -2",
+        "patch update from Figma"
+      ],
+      "metadata": {
+        "author": "이효중/UX시스템팀",
+        "description": "patch update from Figma",
+        "tokenCount": 458
       }
     }
   ]
